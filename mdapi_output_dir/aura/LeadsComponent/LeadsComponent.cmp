@@ -1,0 +1,9 @@
+<aura:component controller="DreamhouseLeads" implements="flexipage:availableForRecordHome,force:hasRecordId" access="global">
+	<aura:attribute name="leads" type="Object[]" />
+	<aura:attribute name="columns" type="List" />
+	<aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+	<lightning:flexipageRegionInfo width="{!v.width}" />
+	<lightning:card iconName="standard:avatar" title="Leads">
+		<lightning:datatable data="{!v.leads}" columns="{!v.columns}" />
+	</lightning:card>
+</aura:component>

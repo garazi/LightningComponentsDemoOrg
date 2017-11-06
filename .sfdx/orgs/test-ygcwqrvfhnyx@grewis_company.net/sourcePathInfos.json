@@ -1,0 +1,3815 @@
+[
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1508181606000,
+            "changeTime": 1508181606000,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1508181606000,
+            "changeTime": 1508181606000,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 748,
+            "modifiedTime": 1509492308000,
+            "changeTime": 1509492308000,
+            "contentHash": "209a42062adf6c31c3c163be1a6d13cc62db573b"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/applications",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/applications",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "29abdd98b99401277695aaabfa61ee665e52274f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/applications/Dreamhouse_Classic.app-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/applications/Dreamhouse_Classic.app-meta.xml",
+            "isDirectory": false,
+            "size": 328,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "8cc73e932b867fb5921e496e986b8e279006931c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/applications/Dreamhouse_Lightning.app-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/applications/Dreamhouse_Lightning.app-meta.xml",
+            "isDirectory": false,
+            "size": 1504,
+            "modifiedTime": 1508191222000,
+            "changeTime": 1508191222000,
+            "contentHash": "a13a8f87e57cf5fa1e4e3de9a77492e637dfdb40",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 680,
+            "modifiedTime": 1509051388000,
+            "changeTime": 1509051388000,
+            "contentHash": "aa907caf336ebcae0246530bcc5c3ba67624a4b9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1508191222000,
+            "changeTime": 1508191222000,
+            "contentHash": "1752914e6c19b063c7f05e25eb90c6b3f14ae272",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard/BrokerCard.cmp",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard/BrokerCard.cmp",
+            "isDirectory": false,
+            "size": 2066,
+            "modifiedTime": 1509475012000,
+            "changeTime": 1509475012000,
+            "contentHash": "73079694bd996ce9d1f4f3a4d61bdd80c74ad55e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard/BrokerCard.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard/BrokerCard.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1508191222000,
+            "changeTime": 1508191222000,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard/BrokerCard.css",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard/BrokerCard.css",
+            "isDirectory": false,
+            "size": 9,
+            "modifiedTime": 1508191222000,
+            "changeTime": 1508191222000,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard/BrokerCardController.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard/BrokerCardController.js",
+            "isDirectory": false,
+            "size": 739,
+            "modifiedTime": 1509476367000,
+            "changeTime": 1509476367000,
+            "contentHash": "7954647615e45c333a240faffba197a1b4bb917e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard/BrokerCardHelper.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard/BrokerCardHelper.js",
+            "isDirectory": false,
+            "size": 44,
+            "modifiedTime": 1508191222000,
+            "changeTime": 1508191222000,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard/BrokerCardRenderer.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard/BrokerCardRenderer.js",
+            "isDirectory": false,
+            "size": 49,
+            "modifiedTime": 1508191222000,
+            "changeTime": 1508191222000,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/LeadsComponent",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/LeadsComponent",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1508191222000,
+            "changeTime": 1508191222000,
+            "contentHash": "b83efc3e573f15f3029d7b36e52d2c78cf3cc5e4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/LeadsComponent/LeadsComponent.cmp",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/LeadsComponent/LeadsComponent.cmp",
+            "isDirectory": false,
+            "size": 506,
+            "modifiedTime": 1509482084000,
+            "changeTime": 1509482084000,
+            "contentHash": "84ca4631dec2f07d3c6c62e4ca557cc15deab2d1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/LeadsComponent/LeadsComponent.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/LeadsComponent/LeadsComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1508191222000,
+            "changeTime": 1508191222000,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/LeadsComponent/LeadsComponentController.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/LeadsComponent/LeadsComponentController.js",
+            "isDirectory": false,
+            "size": 540,
+            "modifiedTime": 1508191222000,
+            "changeTime": 1508191222000,
+            "contentHash": "3cbaa9b13d1f3952de31e3948be7b00cccb05575",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/Map",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/Map",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "ff86dec8b2196672acc9b89877c1509288dda96a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/Map/Map.cmp",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/Map/Map.cmp",
+            "isDirectory": false,
+            "size": 395,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "4b25cab0c809c19f95ba0ad5ddf81c0ecc9810d4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/Map/Map.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/Map/Map.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/Map/Map.css",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/Map/Map.css",
+            "isDirectory": false,
+            "size": 44,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "23285dbe6029b9b808d37668a129fe3778b421c8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/Map/Map.svg",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/Map/Map.svg",
+            "isDirectory": false,
+            "size": 2996,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "c173817b09de251d20f8a88d7aff428ff55d4683",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/Map/MapController.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/Map/MapController.js",
+            "isDirectory": false,
+            "size": 92,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "a05c0df08d078091527b195a3e8b5b3b5a6423ad",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/Map/MapRenderer.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/Map/MapRenderer.js",
+            "isDirectory": false,
+            "size": 1279,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "90f59a86907a06f6d1fd434c0dd77695d48c0c90",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageAmortizationChart",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageAmortizationChart",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "5933bc2c57496e80547cbf4e0a58b69ee16c478e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageAmortizationChart/MortgageAmortizationChart.cmp",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageAmortizationChart/MortgageAmortizationChart.cmp",
+            "isDirectory": false,
+            "size": 2098,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "37c6afa1377db80479f9693cb34784c56aa6e69e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageAmortizationChart/MortgageAmortizationChart.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageAmortizationChart/MortgageAmortizationChart.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageAmortizationChart/MortgageAmortizationChart.css",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageAmortizationChart/MortgageAmortizationChart.css",
+            "isDirectory": false,
+            "size": 833,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "28a56bb0464a6f1c80fc8c433ff83e6d128811b2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageAmortizationChart/MortgageAmortizationChart.design",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageAmortizationChart/MortgageAmortizationChart.design",
+            "isDirectory": false,
+            "size": 74,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "451edc1d401122a872ab9d85bc3f93e99051a885",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageAmortizationChart/MortgageAmortizationChart.svg",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageAmortizationChart/MortgageAmortizationChart.svg",
+            "isDirectory": false,
+            "size": 3070,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "5030be7416d02eb273b15addc76927a51ceb6709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageAmortizationChart/MortgageAmortizationChartController.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageAmortizationChart/MortgageAmortizationChartController.js",
+            "isDirectory": false,
+            "size": 1116,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "2bfc4d25d6048302c706e8de8739f1a0e4f9587b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculator",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculator",
+            "isDirectory": true,
+            "size": 306,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "3684646a1d461f3e23ccb7c9fda02d197c9e3504",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculator/MortgageCalculator.cmp",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculator/MortgageCalculator.cmp",
+            "isDirectory": false,
+            "size": 1876,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "472abd3773a07baea67a9c8a030d41c6bc44a66f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculator/MortgageCalculator.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculator/MortgageCalculator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculator/MortgageCalculator.css",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculator/MortgageCalculator.css",
+            "isDirectory": false,
+            "size": 226,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "a887c5f63c89816ecce39b87eed084558edb0cba",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculator/MortgageCalculator.design",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculator/MortgageCalculator.design",
+            "isDirectory": false,
+            "size": 318,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "3baecd491df434705f7210f40891a3a8e111c7ed",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculator/MortgageCalculator.svg",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculator/MortgageCalculator.svg",
+            "isDirectory": false,
+            "size": 750,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "2e7ac9f7892634614cd6d4368539b69962381572",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculator/MortgageCalculatorController.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculator/MortgageCalculatorController.js",
+            "isDirectory": false,
+            "size": 249,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "b998aac53db6bbc349bf537288e1202b13a9bf07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculator/MortgageCalculatorHelper.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculator/MortgageCalculatorHelper.js",
+            "isDirectory": false,
+            "size": 846,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "fb0a3c51de516efc4141ab5cb5da8dc17fe09722",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculatorCard",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculatorCard",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "7d3d4311dfad4f3630d96f78832413629b03ab0a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculatorCard/MortgageCalculatorCard.cmp",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculatorCard/MortgageCalculatorCard.cmp",
+            "isDirectory": false,
+            "size": 611,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "99b1fd14c8de3e20fb4fe4d2b54a6fe5f6171abf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculatorCard/MortgageCalculatorCard.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculatorCard/MortgageCalculatorCard.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculatorCard/MortgageCalculatorCard.design",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculatorCard/MortgageCalculatorCard.design",
+            "isDirectory": false,
+            "size": 323,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "36d8fe009fc5c8d0aff5cf7aff961eaa64c3abd8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculatorCard/MortgageCalculatorCard.svg",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageCalculatorCard/MortgageCalculatorCard.svg",
+            "isDirectory": false,
+            "size": 751,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "3dd520e61985444870ddd77a84563405dae4ca67",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageChange",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageChange",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "627812c94e8910d9b6733355c0bfaa8ccc7b4d6e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageChange/MortgageChange.evt",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageChange/MortgageChange.evt",
+            "isDirectory": false,
+            "size": 251,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "89ec43f2f105cbcdc4c78e637ab7d5f99016544a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageChange/MortgageChange.evt-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/MortgageChange/MortgageChange.evt-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NeighborhoodExplorer",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NeighborhoodExplorer",
+            "isDirectory": true,
+            "size": 306,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "8a11efdff7e3e0cf09a263446899dff267b9d23c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NeighborhoodExplorer/NeighborhoodExplorer.cmp",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NeighborhoodExplorer/NeighborhoodExplorer.cmp",
+            "isDirectory": false,
+            "size": 6515,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "bf9f4cbc93cad58cd192da32720a126ab37e9654",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NeighborhoodExplorer/NeighborhoodExplorer.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NeighborhoodExplorer/NeighborhoodExplorer.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NeighborhoodExplorer/NeighborhoodExplorer.css",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NeighborhoodExplorer/NeighborhoodExplorer.css",
+            "isDirectory": false,
+            "size": 2000,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "e580fd208a6c26d9f0a0c40a7646eface1b81255",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NeighborhoodExplorer/NeighborhoodExplorer.design",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NeighborhoodExplorer/NeighborhoodExplorer.design",
+            "isDirectory": false,
+            "size": 556,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "2d31b8bc9ee8d16738d308998751aa78d840b767",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NeighborhoodExplorer/NeighborhoodExplorer.svg",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NeighborhoodExplorer/NeighborhoodExplorer.svg",
+            "isDirectory": false,
+            "size": 1015,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "5b8e1a553f08203efb591c78d0ae2db10e572aec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NeighborhoodExplorer/NeighborhoodExplorerController.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NeighborhoodExplorer/NeighborhoodExplorerController.js",
+            "isDirectory": false,
+            "size": 3980,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "0a89b6f2c0895dc9b46492b6093c68f4c3b9a4cc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NeighborhoodExplorer/NeighborhoodExplorerHelper.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NeighborhoodExplorer/NeighborhoodExplorerHelper.js",
+            "isDirectory": false,
+            "size": 2614,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "dadf7dcc5b15e1eaaee14424d44dafa92ca4942f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PicklistValues",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PicklistValues",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "ee863b24831382301415806e72db8d9cf0feebba",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PicklistValues/PicklistValues.cmp",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PicklistValues/PicklistValues.cmp",
+            "isDirectory": false,
+            "size": 322,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "40288e11d57af8fa27203b9eb2c310d07f9752cf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PicklistValues/PicklistValues.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PicklistValues/PicklistValues.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PicklistValues/PicklistValuesController.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PicklistValues/PicklistValuesController.js",
+            "isDirectory": false,
+            "size": 463,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "ed55a988d228b2d4807a5dcb899fdab46bb3ca29",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyDaysOnMarketChart",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyDaysOnMarketChart",
+            "isDirectory": true,
+            "size": 306,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "a1c208bd5bdec3485694125014fa422016670530",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChart.cmp",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChart.cmp",
+            "isDirectory": false,
+            "size": 1545,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "a4b57e2c757999c73b71c14b69455a9a141cac4e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChart.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChart.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChart.css",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChart.css",
+            "isDirectory": false,
+            "size": 1393,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "8f2ec5f9aac3cfba9f4fb5c3804814a4b31b173d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChart.design",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChart.design",
+            "isDirectory": false,
+            "size": 67,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "4bf2299465337ab7fc5c9a88d8f78afbc7a262fb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChart.svg",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChart.svg",
+            "isDirectory": false,
+            "size": 2397,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "60bc7614b0f198a21edf08e9393d6183f25bb78f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChartController.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChartController.js",
+            "isDirectory": false,
+            "size": 227,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "018fffe8c4e418b72606297fe18a728b3e739a7f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChartHelper.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChartHelper.js",
+            "isDirectory": false,
+            "size": 526,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "0ba2e57e266cfbdd36dc95f099dec9b494b708fd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyMap",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyMap",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "d4671d28042e761c4ee3fe7fc0d49190ab49d9ac",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyMap/PropertyMap.cmp",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyMap/PropertyMap.cmp",
+            "isDirectory": false,
+            "size": 1762,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "644b416eb5b7e4510e311c1af634c671bb3a1f4e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyMap/PropertyMap.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyMap/PropertyMap.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyMap/PropertyMap.css",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyMap/PropertyMap.css",
+            "isDirectory": false,
+            "size": 328,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "ef22f0cb2eab93c0559283bd2381556caf1d3b15",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyMap/PropertyMap.design",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyMap/PropertyMap.design",
+            "isDirectory": false,
+            "size": 61,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "db1dcb45df8459d2e7d078eb6bce9f4e6d16d635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyMap/PropertyMap.svg",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyMap/PropertyMap.svg",
+            "isDirectory": false,
+            "size": 1244,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "ce5197311326ab31c329c385e604f369e07225a9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyMap/PropertyMapController.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyMap/PropertyMapController.js",
+            "isDirectory": false,
+            "size": 404,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "665cc676a09e1588508a05e7230fe1f368193595",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyRecordHomeLayout",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyRecordHomeLayout",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1508264839000,
+            "changeTime": 1508264839000,
+            "contentHash": "4066590a8fc359525e988077fc621d6f856c2947",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyRecordHomeLayout/PropertyRecordHomeLayout.cmp",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyRecordHomeLayout/PropertyRecordHomeLayout.cmp",
+            "isDirectory": false,
+            "size": 1280,
+            "modifiedTime": 1509140327000,
+            "changeTime": 1509140327000,
+            "contentHash": "77c0107bffd78427a54b74aa0e39923cf2409adb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyRecordHomeLayout/PropertyRecordHomeLayout.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyRecordHomeLayout/PropertyRecordHomeLayout.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1508191914000,
+            "changeTime": 1508191914000,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyRecordHomeLayout/PropertyRecordHomeLayout.design",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyRecordHomeLayout/PropertyRecordHomeLayout.design",
+            "isDirectory": false,
+            "size": 825,
+            "modifiedTime": 1508444821000,
+            "changeTime": 1508444821000,
+            "contentHash": "f6338e94caad028209df9c64920530dd965dc67d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarProperties",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarProperties",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "d1bc385e7837db61dc609442a6cecaf99a5f3401",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarProperties/SimilarProperties.cmp",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarProperties/SimilarProperties.cmp",
+            "isDirectory": false,
+            "size": 1771,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "5eccc7415ca0c7c0f8e06a1855466ade6b10cfa2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarProperties/SimilarProperties.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarProperties/SimilarProperties.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1509055264000,
+            "changeTime": 1509055264000,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarProperties/SimilarProperties.css",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarProperties/SimilarProperties.css",
+            "isDirectory": false,
+            "size": 29,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "a88c9855a5489578b673e28e47e27484caa491d1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarProperties/SimilarProperties.design",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarProperties/SimilarProperties.design",
+            "isDirectory": false,
+            "size": 498,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "91c7a41085f1831935eef9d214c1add187754fd7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarProperties/SimilarProperties.svg",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarProperties/SimilarProperties.svg",
+            "isDirectory": false,
+            "size": 964,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "80bb7c30de8458b6b61e1fa858f4606196ee1fc7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarProperties/SimilarPropertiesController.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarProperties/SimilarPropertiesController.js",
+            "isDirectory": false,
+            "size": 930,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "7071b99ee66c470c13cb2ece34c1608a5bcf0535",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarProperty",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarProperty",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "9eddac0ce1fd7629c6b1d64490ff6a93a0edc652",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarProperty/SimilarProperty.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarProperty/SimilarProperty.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2278,
+            "modifiedTime": 1509492308000,
+            "changeTime": 1509492308000,
+            "contentHash": "432d4b177d87fdde254a0454252b81424f447677"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarProperty/SimilarProperty.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarProperty/SimilarProperty.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1509055258000,
+            "changeTime": 1509055258000,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarProperty/SimilarPropertyController.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarProperty/SimilarPropertyController.js",
+            "isDirectory": false,
+            "size": 968,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "6385492c90d50a412df5764a20ee668e8c2fe216",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarPropertyEdit",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarPropertyEdit",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "af89b001d4f7a4a26fcb6b46c886c4d37f06ef1f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarPropertyEdit/SimilarPropertyEdit.cmp",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarPropertyEdit/SimilarPropertyEdit.cmp",
+            "isDirectory": false,
+            "size": 2968,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "1280e001fcf931d673498cff3b26feffc7e39999",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarPropertyEdit/SimilarPropertyEdit.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarPropertyEdit/SimilarPropertyEdit.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarPropertyEdit/SimilarPropertyEditController.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarPropertyEdit/SimilarPropertyEditController.js",
+            "isDirectory": false,
+            "size": 1560,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "a437fd6da0d52b319fa20ce2f0141fb2ab7538b3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarPropertyEdit/SimilarPropertyEditHelper.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarPropertyEdit/SimilarPropertyEditHelper.js",
+            "isDirectory": false,
+            "size": 318,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "083687852b61485971b697a29b931c872b25f499",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/recordUpdated",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/recordUpdated",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "6e5f9ee121e4a902d45a925d4291ac2f5bf236ac",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/recordUpdated/recordUpdated.evt",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/recordUpdated/recordUpdated.evt",
+            "isDirectory": false,
+            "size": 62,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "8cdbd7f680e6f8409a64c03b86295cae27fe0eef",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/recordUpdated/recordUpdated.evt-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/recordUpdated/recordUpdated.evt-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 952,
+            "modifiedTime": 1508191222000,
+            "changeTime": 1508191222000,
+            "contentHash": "98456372b93a4a84fa78db1f06f3b48238ccd15d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/BrokerSelect.cls",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/BrokerSelect.cls",
+            "isDirectory": false,
+            "size": 529,
+            "modifiedTime": 1506081418000,
+            "changeTime": 1508181794000,
+            "contentHash": "1216b097c49523e394e00a50ff5ab948ec9aeef0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/BrokerSelect.cls-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/BrokerSelect.cls-meta.xml",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1506081379000,
+            "changeTime": 1508181794000,
+            "contentHash": "e6f509867f56ef899f5410ef30ce03eebb4de7d1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/DreamHouseSampleDataController.cls",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/DreamHouseSampleDataController.cls",
+            "isDirectory": false,
+            "size": 374,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "32cdc2fec75add92d1636f706d730d3c7d6e81ab",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/DreamHouseSampleDataController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/DreamHouseSampleDataController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/DreamhouseLeads.cls",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/DreamhouseLeads.cls",
+            "isDirectory": false,
+            "size": 563,
+            "modifiedTime": 1508191222000,
+            "changeTime": 1508191222000,
+            "contentHash": "7ed2252812f2e9dfac86f0cf897539a35fce1942",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/DreamhouseLeads.cls-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/DreamhouseLeads.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1508191222000,
+            "changeTime": 1508191222000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/DreamhouseProspects.cls",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/DreamhouseProspects.cls",
+            "isDirectory": false,
+            "size": 459,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "a6748df9d298195f3ffaada83c42df4034bb44f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/DreamhouseProspects.cls-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/DreamhouseProspects.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/DreamhouseTests.cls",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/DreamhouseTests.cls",
+            "isDirectory": false,
+            "size": 2520,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "a453272146adce3792341570ec37faf47879bf84",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/DreamhouseTests.cls-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/DreamhouseTests.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/GetPropertiesApexController.cls",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/GetPropertiesApexController.cls",
+            "isDirectory": false,
+            "size": 691,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "976d97ab09d05fa0d7b9a9804bfebe1178a06aa1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/GetPropertiesApexController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/GetPropertiesApexController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/MockHttpResponseByAddressGenerator.cls",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/MockHttpResponseByAddressGenerator.cls",
+            "isDirectory": false,
+            "size": 692,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "4744d963595f17934b2586302c3346e556eda57d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/MockHttpResponseByAddressGenerator.cls-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/MockHttpResponseByAddressGenerator.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/MockHttpResponseGenerator.cls",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/MockHttpResponseGenerator.cls",
+            "isDirectory": false,
+            "size": 696,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "b04665f332005788ef7dae97b523aef0f8ffd7cf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/MockHttpResponseGenerator.cls-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/MockHttpResponseGenerator.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/MyPropertyController.cls",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/MyPropertyController.cls",
+            "isDirectory": false,
+            "size": 921,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "6b1273161d956529c0a9a9736fe3028e0267f9f5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/MyPropertyController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/MyPropertyController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/NeighborhoodServiceController.cls",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/NeighborhoodServiceController.cls",
+            "isDirectory": false,
+            "size": 1127,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "3185317aea4d45cde7f78c6e5852799faf6807a0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/NeighborhoodServiceController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/NeighborhoodServiceController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/PickListController.cls",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/PickListController.cls",
+            "isDirectory": false,
+            "size": 725,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "7e41ce31d77c58f963ec511bf7979fb847d5d61f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/PickListController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/PickListController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/PropertiesByBroker.cls",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/PropertiesByBroker.cls",
+            "isDirectory": false,
+            "size": 348,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "4cdd9e2198262974c77427fec858a9d86faed6c0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/PropertiesByBroker.cls-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/PropertiesByBroker.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/TestNeighborhoodServiceController.cls",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/TestNeighborhoodServiceController.cls",
+            "isDirectory": false,
+            "size": 760,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "e116e6d7524a53013cb9beab56d314170dd6166e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/TestNeighborhoodServiceController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/TestNeighborhoodServiceController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/contentassets",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "a42ad9ab1a440c98cdd899c77ed5b25e97a5ca19",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/contentassets/DreamhouseLogo.asset",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/contentassets/DreamhouseLogo.asset",
+            "isDirectory": false,
+            "size": 27198,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "b5445ec8b44ac56df72d35b1869849e631240cfc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/contentassets/DreamhouseLogo.asset-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/contentassets/DreamhouseLogo.asset-meta.xml",
+            "isDirectory": false,
+            "size": 478,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "e649f91862ea1f7d7db5dd6ef890265b2bef4fc1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1508264839000,
+            "changeTime": 1508264839000,
+            "contentHash": "1330b3e1f64a54e7a1deffec23d687fc4aa2d39e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Broker_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Broker_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 3078,
+            "modifiedTime": 1509055507000,
+            "changeTime": 1509055507000,
+            "contentHash": "6e9adbbf9510e0328fca24e015a98725efb9ea62",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Custom_Property_record_template.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Custom_Property_record_template.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 4296,
+            "modifiedTime": 1508264839000,
+            "changeTime": 1508264839000,
+            "contentHash": "df740aabc5228e2825a1fb46f049e3c9e0e97300",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Property_Record_Page2.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Property_Record_Page2.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5622,
+            "modifiedTime": 1509492308000,
+            "changeTime": 1509492308000,
+            "contentHash": "172aacb823cecebf2450cbdafb6452b12a007051"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/undefined_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/undefined_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 2165,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "109c18dd83e10fd61df3b2a8138c6356a2d1f3c7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "cf90697356a1183b661b57ca09a2b927419f197d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/layouts/Broker__c-Broker Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/layouts/Broker__c-Broker Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3078,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "98addf810ede608166685c06ba0637664af8a1b7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/layouts/Favorite__c-Favorite Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/layouts/Favorite__c-Favorite Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 1947,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "9c9027a587d62cc77ef8c245abaadc3c85d49f9c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/layouts/LeadAssociation__c-LeadAssociation Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/layouts/LeadAssociation__c-LeadAssociation Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2152,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "321b86f5185a0aac4eb37294d9b737b003754917",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/layouts/Property__c-Property Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/layouts/Property__c-Property Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 5900,
+            "modifiedTime": 1509055507000,
+            "changeTime": 1509055507000,
+            "contentHash": "83b9552ab6f2c54dcd5e7f6b2bb9770b48b42941",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "ae2cdd3a9992322a8cb00dbdb75a340cb4e4adec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "1e4d185e9253281dfddfaf9b577325f0187da8b5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/Broker__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/Broker__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2080,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "f83749a6e16a4f3cb834d7b455fffb1d69537654",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/compactLayouts",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/compactLayouts",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "682fec58be8259a53837e6e2f67f69ef8a60d190",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/compactLayouts/Broker_Compact.compactLayout-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/compactLayouts/Broker_Compact.compactLayout-meta.xml",
+            "isDirectory": false,
+            "size": 347,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "6e5e20522933437a420f98f37bd3cd6114879e48",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/fields",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/fields",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "2fb46ad3c33bf653b5eb69e67dbce12b7e2f6a0f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/fields/Email__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/fields/Email__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 332,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "2cca474a11fe69efa2b2a67d352ae6905c99bfea",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/fields/Mobile_Phone__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/fields/Mobile_Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 319,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "312ccfca2f9149ef19f3d3e6ba62d0b8602a0681",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/fields/Phone__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/fields/Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 305,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "2a31a0600201166beb5798a9f209add1724f5747",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/fields/Picture_IMG__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/fields/Picture_IMG__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 465,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "d679f8280e1412eedc0767a1a91c8ab08a3378c6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/fields/Picture__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/fields/Picture__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 307,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "7cd3c0cc44339863436c2ea2314a7b1013ae6e2c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/fields/Title__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/fields/Title__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 355,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "9fa27aa9d1ad16bbcd462b1d0116e077ec8c2b88",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/listViews",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/listViews",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "915f0742a4220017a64d6be3c304efdec607b791",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 232,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "764dc03192d07c05acef0cf8216fdf436de749a6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/listViews/All1.listView-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Broker__c/listViews/All1.listView-meta.xml",
+            "isDirectory": false,
+            "size": 205,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "301c9a001074105644f45e03f6240b10381e43c0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Favorite__c",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Favorite__c",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "81628593539a5b50866c9e56d1e2dc805cd8dc23",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Favorite__c/Favorite__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Favorite__c/Favorite__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2136,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "1d64a792111b0380989e0a1a8dfa7284e99e08f3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Favorite__c/fields",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Favorite__c/fields",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "7e94e131bb344e545305ce2b0a135eff01891ccc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Favorite__c/fields/Property__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Favorite__c/fields/Property__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 508,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "8c37c0295e9b40847fc4f8bc2882e05b753c693d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Favorite__c/fields/User__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Favorite__c/fields/User__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 440,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "68acb67d61a43643286c9533dd5acb3fd50c894f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Favorite__c/listViews",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Favorite__c/listViews",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Favorite__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Favorite__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 267,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "2d068a0118daf1207810fa7636cf16f9a12104ac",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/LeadAssociation__c",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/LeadAssociation__c",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "cbdd40c0daff2e8c5ff4878293192050d739043e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/LeadAssociation__c/LeadAssociation__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/LeadAssociation__c/LeadAssociation__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2163,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "4eef196e5dd8968c5d7f1bf1c0b0baf628c4b72d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/LeadAssociation__c/fields",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/LeadAssociation__c/fields",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "4b50d53774a46cb364d3bca3df0621f14f4b6da4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/LeadAssociation__c/fields/Lead_Name__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/LeadAssociation__c/fields/Lead_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 501,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "d3970e4d004ed4e50b0a23fdba9bf4cb3ede4eb6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/LeadAssociation__c/fields/Property_Name__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/LeadAssociation__c/fields/Property_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 619,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "ab9d454ad1625b9108b9716427fb251d33bc620e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "e8ef1e6ca000032e20cde1b180848e8b3a17e057",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/Property__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/Property__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2186,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "10cc05afa3912c27891e7434273d73d4515b84c9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/compactLayouts",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/compactLayouts",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "6090013c56ec66c627fbb64f1e135c3d4e595eb8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/compactLayouts/Property_Compact_Layout.compactLayout-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/compactLayouts/Property_Compact_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "size": 356,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "3e30d624372e00823cfa781b526f80f988359744",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields",
+            "isDirectory": true,
+            "size": 884,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "8347596ac8881395eb5cc71d42a889d1eef1a888",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Address__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Address__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 446,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "1a226f009dd63c156d3971f8c3763a7070e754cb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Assessed_Value__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Assessed_Value__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 463,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "cf5658464be2f9fde5fa17e212379ccc64ab8c62",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Baths__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Baths__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 469,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "fbdd0427a69eb5d4613442448d535b54aa23ac00",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Beds__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Beds__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 467,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "42a87a704a89133b81fa0d30c2ee7ce853678818",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Broker__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Broker__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 590,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "1adfb82fcd63bd84e97886f1f40eab71dd23da7b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/City__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/City__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 439,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "9252e41ea4860528be191fc3940f202e3aa4da71",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Date_Agreement__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Date_Agreement__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 408,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "50fc12cf023ffb086c47e4621b16bf08d4b1b0d6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Date_Closed__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Date_Closed__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 402,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "37cdcf1162540f4cbdc414d9807409d71c4f4ec9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Date_Listed__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Date_Listed__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 402,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "654ce3fa571dd55331b8601e927c6ee610993264",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Days_On_Market__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Days_On_Market__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 550,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "ce40ee2e334d4751df64c99e0cc6618f50ab87d3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Description__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Description__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 441,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "4ddbf7bf3ad4964ecf48265f567ae78f92778728",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Location__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Location__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 483,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "412bfb6e08fb55d374f40c7dc28a7cf2c3aabb46",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Picture_IMG__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Picture_IMG__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 535,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "f7cfd015c7c68ea514e3287cd830159b60d9013d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Picture__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Picture__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 393,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "d067b497c7d1660d752e69f88b49ce2c79af5537",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Price__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Price__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 442,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "55572fea8d72d76790b99420a2252132a601c722",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Record_Link__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Record_Link__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 553,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "0436083fdeb5938c36af328cbb53ebc447084313",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Sq_Feet__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Sq_Feet__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 474,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "cb6da7408d129f680a1f65e7edee1a9a112e487c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/State__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/State__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 441,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "0946570c4ff99b95a14de2fa788428bead211499",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Status__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1198,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "8eb6b0ea8e7d6cedd465dd927ecba4fc236913ae",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Tags__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Tags__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 440,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "f16ce261391485bd043c9363860f4b9c5a2334ad",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Thumbnail_IMG__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Thumbnail_IMG__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 543,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "fd1f295a2a894c14f72f59659154dce0f14dbe7a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Thumbnail__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Thumbnail__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 397,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "e5bb343d5d3dc341a33563bfef587324ffb541f7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Title__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Title__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 442,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "b5160ea3018d0b196a6260135fee211b6700431c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Zip__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/fields/Zip__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 437,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "cdabe1dd18e0352ec9bc40bf10a762bac1b1f805",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/listViews",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/listViews",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "dd8467e453efb4c52ec25382d1f7155f2c25dbc9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 326,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "2880d5b0d580ff7b7df8b437c163aad73c093f54",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/listViews/All1.listView-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/listViews/All1.listView-meta.xml",
+            "isDirectory": false,
+            "size": 205,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "301c9a001074105644f45e03f6240b10381e43c0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/listViews/New_Listings.listView-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/listViews/New_Listings.listView-meta.xml",
+            "isDirectory": false,
+            "size": 391,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "4b3bb09780c05bc82d66a17c6083be9a0d2e6b3f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/listViews/Top_Listings.listView-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/objects/Property__c/listViews/Top_Listings.listView-meta.xml",
+            "isDirectory": false,
+            "size": 627,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "b70cd788a94afb8274601142490c033d9b309170",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/pages",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/pages",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "b78e18bafdb9589dd4c72fe894656b568b908405",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/pages/DataImport.page",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/pages/DataImport.page",
+            "isDirectory": false,
+            "size": 21500,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "accd0499bd75924726a765fbd4a6ab38f34051a3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/pages/DataImport.page-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/pages/DataImport.page-meta.xml",
+            "isDirectory": false,
+            "size": 286,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "375c5fc354239ea48b40b7d30a9e99ae9ef04ef7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/pages/DreamhouseLeads.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/pages/DreamhouseLeads.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1321,
+            "modifiedTime": 1509492308000,
+            "changeTime": 1509492308000,
+            "contentHash": "669bf384f3f7f5bbdc225b22e35d5d0e12ac7a85"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/pages/DreamhouseLeads.page-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/pages/DreamhouseLeads.page-meta.xml",
+            "isDirectory": false,
+            "size": 291,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "e7e5677e678731025b0066f29f88be0985deae6a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/pages/Similar_Properties.page",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/pages/Similar_Properties.page",
+            "isDirectory": false,
+            "size": 558,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "01ca6ed83c5b1c2c71aaa1d0f7949a1195033496",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/pages/Similar_Properties.page-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/pages/Similar_Properties.page-meta.xml",
+            "isDirectory": false,
+            "size": 294,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "e82aa4f19bcbae68678046fdc726b077495ad161",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1506085543000,
+            "changeTime": 1508181658000,
+            "contentHash": "9c33417cdc750d9b5633554aa2d0502b12e557eb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/permissionsets/All.permissionset-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/permissionsets/All.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 7691,
+            "modifiedTime": 1508187367000,
+            "changeTime": 1508187367000,
+            "contentHash": "a3e64abbcfa802acbeb4f8e1f602156d612b6271",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1507942330000,
+            "changeTime": 1508181678000,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 26263,
+            "modifiedTime": 1509051635000,
+            "changeTime": 1509051635000,
+            "contentHash": "5a9f57176d2b9a446c4d0287bdf6ed911858aec8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/remoteSiteSettings",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/remoteSiteSettings",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "f9890bb40bbd0b03c8dedc0031d45e15db0ec1e5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/remoteSiteSettings/ApexDevNet.remoteSite-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/remoteSiteSettings/ApexDevNet.remoteSite-meta.xml",
+            "isDirectory": false,
+            "size": 260,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "57960f0ebf2014c63da0d6e977d3efabd6eabc16",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/remoteSiteSettings/NeighborhoodExplorer.remoteSite-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/remoteSiteSettings/NeighborhoodExplorer.remoteSite-meta.xml",
+            "isDirectory": false,
+            "size": 272,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "1495f0199b690bf04ece0d27964916dcbdc8842a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/settings",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/settings",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1508191222000,
+            "changeTime": 1508191222000,
+            "contentHash": "e364e4d3c503804e0ca6d6bb92ab9cc0ceac2327",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/settings/Security.settings-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/settings/Security.settings-meta.xml",
+            "isDirectory": false,
+            "size": 2300,
+            "modifiedTime": 1508191222000,
+            "changeTime": 1508191222000,
+            "contentHash": "8ab60fe89472be4feea6d9801bdcfbacd16b757e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "42a73216bf2c878becb71c9e4992afab5f8d07b9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources/Leaflet",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources/Leaflet",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "becd83b7ba7e1f143ff2b586b41742041a0fee6d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources/Leaflet/images",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources/Leaflet/images",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources/Leaflet/images/layers-2x.png",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources/Leaflet/images/layers-2x.png",
+            "isDirectory": false,
+            "size": 1259,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources/Leaflet/images/layers.png",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources/Leaflet/images/layers.png",
+            "isDirectory": false,
+            "size": 696,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources/Leaflet/images/marker-icon-2x.png",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources/Leaflet/images/marker-icon-2x.png",
+            "isDirectory": false,
+            "size": 2586,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "95a44b9ca71fe03fdf65ddd8eea12f1910f38de2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources/Leaflet/images/marker-icon.png",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources/Leaflet/images/marker-icon.png",
+            "isDirectory": false,
+            "size": 1466,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources/Leaflet/images/marker-shadow.png",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources/Leaflet/images/marker-shadow.png",
+            "isDirectory": false,
+            "size": 618,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources/Leaflet/leaflet-src.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources/Leaflet/leaflet-src.js",
+            "isDirectory": false,
+            "size": 381638,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "9eb2eb22ceefb1dcff6af56a6fff3d13d8494982",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources/Leaflet/leaflet-src.map",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources/Leaflet/leaflet-src.map",
+            "isDirectory": false,
+            "size": 487792,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "3a41d6ab3f286cb3bd77fe9937ed4b82e9533a3e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources/Leaflet/leaflet.css",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources/Leaflet/leaflet.css",
+            "isDirectory": false,
+            "size": 13736,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "6545749a666f2cca71b01a40169e326bef7ef6c8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources/Leaflet/leaflet.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources/Leaflet/leaflet.js",
+            "isDirectory": false,
+            "size": 145327,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "b584b8dd5349a154aa375cf5378d3b5572cfd407",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources/Leaflet.resource-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/staticresources/Leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "b73a0c6e6be1100b0d8137973d23457a703efd33",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/tabs/Broker__c.tab-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/tabs/Broker__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 220,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "0b992cea7f900c88e6ef02748f12e09e52f8e21c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/tabs/Data_Import.tab-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/tabs/Data_Import.tab-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "2e0a73f77dd861c4fea74093113ad8a415d2bcb7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/tabs/Leads.tab-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/tabs/Leads.tab-meta.xml",
+            "isDirectory": false,
+            "size": 249,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "6939c35aef712d52d61d389e534a8c51acd412ae",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/tabs/Property__c.tab-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/tabs/Property__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 231,
+            "modifiedTime": 1508179868000,
+            "changeTime": 1508179868000,
+            "contentHash": "50be02508529f3f1d43482ba9d9dfcb3d75b5b7f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK",
+            "isDirectory": true,
+            "size": 340,
+            "modifiedTime": 1509049079000,
+            "changeTime": 1509049079000,
+            "contentHash": "49e2074b7fd8de8f6ed1f1ba0c582eff4f43a95c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/ContractUpload",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/ContractUpload",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1508956376000,
+            "changeTime": 1508956376000,
+            "contentHash": "ee88d1af60f1970c512e51cefd379c73d37654b0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/ContractUpload/ContractUpload.cmp",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/ContractUpload/ContractUpload.cmp",
+            "isDirectory": false,
+            "size": 613,
+            "modifiedTime": 1509488862000,
+            "changeTime": 1509488862000,
+            "contentHash": "b6b5d0dc5f938d04316b49ba258474f341b7ba65",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/ContractUpload/ContractUpload.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/ContractUpload/ContractUpload.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1508956376000,
+            "changeTime": 1508956376000,
+            "contentHash": "4589e82954f91da03b5f2aa246cebcd1a4fdc56c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/ContractUpload/ContractUpload.css",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/ContractUpload/ContractUpload.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1508956376000,
+            "changeTime": 1508956376000,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/ContractUpload/ContractUploadController.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/ContractUpload/ContractUploadController.js",
+            "isDirectory": false,
+            "size": 215,
+            "modifiedTime": 1508957685000,
+            "changeTime": 1508957685000,
+            "contentHash": "ed7f3a8e25083c65b885c6093b360444ddd4576f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/ContractUpload/ContractUploadHelper.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/ContractUpload/ContractUploadHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1508956376000,
+            "changeTime": 1508956376000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/ContractUpload/ContractUploadRenderer.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/ContractUpload/ContractUploadRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1508956376000,
+            "changeTime": 1508956376000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flows/Set_Closed_Date-2.flow-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flows/Set_Closed_Date-2.flow-meta.xml",
+            "isDirectory": false,
+            "size": 10317,
+            "modifiedTime": 1509055507000,
+            "changeTime": 1509055507000,
+            "contentHash": "42d6ac6eb4fea8628505f984ffd46e63b5266e40",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flows/Set_Closed_Date-1.flow-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flows/Set_Closed_Date-1.flow-meta.xml",
+            "isDirectory": false,
+            "size": 7462,
+            "modifiedTime": 1509055507000,
+            "changeTime": 1509055507000,
+            "contentHash": "65a1fd6fa993a8bb37e8971cf9ffd8ef0a690613",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flowDefinitions/Set_Closed_Date.flowDefinition-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flowDefinitions/Set_Closed_Date.flowDefinition-meta.xml",
+            "isDirectory": false,
+            "size": 171,
+            "modifiedTime": 1509055507000,
+            "changeTime": 1509055507000,
+            "contentHash": "795cc139f192885d653394326c2a130b7c62654a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/workflows/Property__c.workflow-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/workflows/Property__c.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1509055507000,
+            "changeTime": 1509055507000,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/pathAssistants/Sales_Path.pathAssistant-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/pathAssistants/Sales_Path.pathAssistant-meta.xml",
+            "isDirectory": false,
+            "size": 314,
+            "modifiedTime": 1509055507000,
+            "changeTime": 1509055507000,
+            "contentHash": "135623afe469f976911d16d4becb3a61ceff58cc",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flows",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flows",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1509055507000,
+            "changeTime": 1509055507000,
+            "contentHash": "dca3a82d1c4dcbdea68e9240f69c2ef4abe542aa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flowDefinitions",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flowDefinitions",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1509055507000,
+            "changeTime": 1509055507000,
+            "contentHash": "8679d7342462ee5e1042f1f527f2c7118a9094eb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/workflows",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/workflows",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1509055507000,
+            "changeTime": 1509055507000,
+            "contentHash": "46bf0913e670be9a2b79c29d229c42ca30958279",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/pathAssistants",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/pathAssistants",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1509055507000,
+            "changeTime": 1509055507000,
+            "contentHash": "cbbf6b65f016c4b9f5d29f839e41ed253dcd613c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerDetails",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerDetails",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1509051388000,
+            "changeTime": 1509051388000,
+            "contentHash": "d6e5e502c534adc422468c13ca9d7209728120bb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerDetails/BrokerDetails.cmp",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerDetails/BrokerDetails.cmp",
+            "isDirectory": false,
+            "size": 1522,
+            "modifiedTime": 1509481674000,
+            "changeTime": 1509481674000,
+            "contentHash": "5eeb43f11aec2d7e2d0d44ead779188b88c7219b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerDetails/BrokerDetails.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerDetails/BrokerDetails.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 245,
+            "modifiedTime": 1509051388000,
+            "changeTime": 1509051388000,
+            "contentHash": "4ee1c75120d7be69cab0f661e0d401e1762dcf4f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerDetails/BrokerDetails.css",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerDetails/BrokerDetails.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1509051388000,
+            "changeTime": 1509051388000,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerDetails/BrokerDetailsController.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerDetails/BrokerDetailsController.js",
+            "isDirectory": false,
+            "size": 187,
+            "modifiedTime": 1509478946000,
+            "changeTime": 1509478946000,
+            "contentHash": "fe50ac8e1c207ddcd6b2caa2def58b8521953f9d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerDetails/BrokerDetailsHelper.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerDetails/BrokerDetailsHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1509051388000,
+            "changeTime": 1509051388000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerDetails/BrokerDetailsRenderer.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerDetails/BrokerDetailsRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1509051388000,
+            "changeTime": 1509051388000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/connectedApps/recordViewer.connectedApp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/connectedApps/recordViewer.connectedApp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 465,
+            "modifiedTime": 1509492308000,
+            "changeTime": 1509492308000,
+            "contentHash": "5b0eea866981e5d565e66ffbd9f7d26c81e91cce"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/connectedApps",
+        {
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/connectedApps",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1509492308000,
+            "changeTime": 1509492308000,
+            "contentHash": "f0a28e588ac76d2f0c5b5b717b5b1d0554a1a457"
+        }
+    ]
+]

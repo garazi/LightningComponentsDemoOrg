@@ -1,0 +1,27 @@
+<aura:component>
+	<aura:attribute name="recordId" type="Id" />
+	<!-- <aura:attribute name="recordFields" type="Object" />
+	<aura:handler name="change" value="{!v.recordId}" action="{!c.doInit}" />
+	<force:recordData aura:id="brokerRecord" targetFields="{!v.recordFields}" fields="Picture__c" layoutType="FULL" /> -->
+
+	<div>
+		<aura:if isTrue="{!v.recordId}">
+			<lightning:recordViewForm recordId="{!v.recordId}" objectApiName="Broker__c">
+				<lightning:layout multipleRows="true">
+					<lightning:layoutItem size="6">
+						<lightning:outputField fieldName="Name" />
+					</lightning:layoutItem>
+					<lightning:layoutItem size="6">
+						<lightning:outputField fieldName="Email__c" />
+					</lightning:layoutItem>
+					<lightning:layoutItem size="6">
+						<lightning:outputField fieldName="Phone__c" />
+					</lightning:layoutItem>
+					<lightning:layoutItem size="6">
+						<lightning:outputField fieldName="Mobile_Phone__c" />
+					</lightning:layoutItem>
+				</lightning:layout>
+			</lightning:recordViewForm>
+		</aura:if>
+	</div>
+</aura:component>

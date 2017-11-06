@@ -1,0 +1,20 @@
+<design:component label="Custom Property Record Page Template">
+	<flexipage:template >
+		<flexipage:region name="header" defaultWidth="LARGE">
+		</flexipage:region>
+		<flexipage:region name="tile_1" defaultWidth="SMALL">
+			<flexipage:formfactor type="MEDIUM" width="SMALL" />
+		</flexipage:region>
+		<flexipage:region name="tile_2" defaultWidth="SMALL">
+			<flexipage:formfactor type="MEDIUM" width="SMALL" />
+		</flexipage:region>
+		<flexipage:region name="tile_3" defaultWidth="SMALL">
+			<flexipage:formfactor type="MEDIUM" width="SMALL" />
+		</flexipage:region>
+		<flexipage:region name="main" defaultWidth="LARGE">
+			<flexipage:formfactor type="MEDIUM" width="LARGE" />
+		</flexipage:region>
+        <flexipage:region name="rt_col" defaultWidth="SMALL">
+		</flexipage:region>
+	</flexipage:template>
+</design:component>

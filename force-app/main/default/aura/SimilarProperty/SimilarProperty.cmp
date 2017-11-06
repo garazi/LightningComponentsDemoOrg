@@ -1,0 +1,41 @@
+<aura:component implements="force:hasRecordId" access="global">
+    <aura:attribute name="propertyId" type="Id" />
+    <aura:attribute name="targetFields" type="Property__c" />
+    <aura:attribute name="showDialog" type="String" />
+    <aura:attribute name="remoteRecordId" type="Id" />
+    <force:recordData aura:id="propertyRecord" 
+                    recordId="{!v.propertyId}" 
+                    targetFields="{!v.targetFields}" 
+                    fields="Name, Beds__c, Baths__c, Price__c, Status__c, Thumbnail__c" />
+
+    <lightning:recordViewForm recordId="{!v.propertyId}" objectApiName="Property__c">
+        <div class="slds-media">
+            <div class="slds-media__figure">
+                <img src="{!v.targetFields.Thumbnail__c}" class="slds-avatar_large slds-avatar_circle" alt="{!v.targetFields.Title_c}" />
+            </div>
+            <div class="slds-media__body">
+                <div class="slds-grid">
+                    <a onclick="{!c.navToRecord}">
+                        <h3 class="slds-text-heading_small slds-m-bottom_xx-small">{!v.targetFields.Name}</h3>
+                    </a>
+                    <lightning:buttonIcon iconName="utility:edit" class="slds-col_bump-left" variant="bare" alternativeText="Edit Record" onclick="{!c.editRecord}" />
+                </div>
+                <div aura:id="propertyDetails">
+                    <lightning:layout multipleRows="true" >
+                        <lightning:layoutItem size="6"  >
+                            <lightning:outputField fieldName="Beds__c"/>
+                        </lightning:layoutItem>
+                        <lightning:layoutItem size="6"  >
+                            <lightning:outputField fieldName="Baths__c" />
+                        </lightning:layoutItem>
+                        <lightning:layoutItem size="6"  >
+                            <lightning:outputField fieldName="Price__c" />
+                        </lightning:layoutItem>
+                        <lightning:layoutItem size="6"  >
+                            <lightning:outputField fieldName="Status__c" />
+                        </lightning:layoutItem>
+                    </lightning:layout>
+                </div>
+            </div></div>
+    </lightning:recordViewForm>
+</aura:component>

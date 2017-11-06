@@ -1,0 +1,37 @@
+<aura:component>
+	<aura:attribute name="recordId" type="Id" />
+	<aura:attribute name="recordFields" type="Object" />
+	<aura:handler name="change" value="{!v.recordId}" action="{!c.doInit}" />
+	<force:recordData aura:id="brokerRecord" targetFields="{!v.recordFields}" fields="Picture__c" layoutType="FULL" />
+
+	<div>
+		<aura:if isTrue="{!v.recordId}">
+			<lightning:recordViewForm recordId="{!v.recordId}" objectApiName="Broker__c">
+				<lightning:layout multipleRows="true">
+					<lightning:layoutItem size="6">
+						<div class="slds-media">
+							<div class="slds-media__figure">
+								<img src="{!v.recordFields.Picture__c}" class="slds-avatar_large slds-avatar_circle" alt="{!v.recordFields.Title_c}" />
+							</div>
+							<div class="slds-media__body">
+								<a onclick="{!c.navToRecord}">
+									<h3 class="slds-text-heading_small slds-m-bottom_xx-small">{!v.recordFields.Name}</h3>
+								</a>
+								<p class="slds-form-element__static slds-p-top_xxx-small">{!v.recordFields.Title__c}</p>
+							</div>
+						</div>
+					</lightning:layoutItem>
+					<lightning:layoutItem size="6">
+						<lightning:outputField fieldName="Email__c" />
+					</lightning:layoutItem>
+					<lightning:layoutItem size="6">
+						<lightning:outputField fieldName="Phone__c" />
+					</lightning:layoutItem>
+					<lightning:layoutItem size="6">
+						<lightning:outputField fieldName="Mobile_Phone__c" />
+					</lightning:layoutItem>
+				</lightning:layout>
+			</lightning:recordViewForm>
+		</aura:if>
+	</div>
+</aura:component>

@@ -1,0 +1,32 @@
+<aura:component implements="lightning:recordHomeTemplate" description="A single column with a background image">
+	<aura:attribute name="main" type="Aura.Component[]" />
+	<aura:attribute name="header" type="Aura.Component[]" />
+	<aura:attribute name="tile_1" type="Aura.Component[]" />
+	<aura:attribute name="tile_2" type="Aura.Component[]" />
+	<aura:attribute name="tile_3" type="Aura.Component[]" />
+	<aura:attribute name="rt_col" type="Aura.Component[]" />
+	<lightning:layout>
+		<lightning:layoutItem size="12" class="slds-m-bottom_small">
+			{!v.header}
+		</lightning:layoutItem>
+	</lightning:layout>
+	<lightning:layout verticalAlign="stretch" class="slds-m-bottom_small">
+		<lightning:layoutItem size="4" class="slds-m-right_small">
+			{!v.tile_1}
+		</lightning:layoutItem>
+		<lightning:layoutItem flexibility="grow" class="slds-m-right_small">
+			{!v.tile_2}
+		</lightning:layoutItem>
+		<lightning:layoutItem size="4">
+			{!v.tile_3}
+		</lightning:layoutItem>
+	</lightning:layout>
+	<lightning:layout pullToBoundary="small">
+		<lightning:layoutItem flexibility="grow" padding="horizontal-small">
+			{!v.main}
+		</lightning:layoutItem>
+		<lightning:layoutItem size="3" class="slds-m-right_small">
+			{!v.rt_col}
+		</lightning:layoutItem>
+	</lightning:layout>
+</aura:component>

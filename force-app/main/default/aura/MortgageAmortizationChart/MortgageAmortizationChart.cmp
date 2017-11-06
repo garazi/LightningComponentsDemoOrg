@@ -1,0 +1,40 @@
+<aura:component implements="flexipage:availableForAllPageTypes">
+    
+    <aura:attribute name="amortization" type="Object[]"/>
+    
+    <aura:handler event="c:MortgageChange" action="{!c.mortgageChange}"/>
+    
+    <lightning:card iconName="utility:moneybag" title="Mortgage Amortization">
+        <div class="indent">
+            <table class="slds-table slds-table--bordered">
+                <thead>
+                    <tr>
+                        <th>Year</th>
+                        <th class="principal">Principal</th>
+                        <th class="stretch"></th>
+                        <th class="interest">Interest</th>
+                        <th>Balance</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <aura:iteration items="{!v.amortization}" var="year" indexVar="index">
+                        <tr>
+                            <td>{!index + 1}</td>
+                            <td class="principal">
+                                <lightning:formattedNumber value="{!year.principalY}" style="currency" currencyCode="USD" maximumFractionDigits="0" />
+                            </td>
+                            <td class="stretch">
+                                <div class="flex">
+                                    <div class="bar principal" style="{!'flex:'+year.principalY+';-webkit-flex:'+year.principalY}"></div>
+                                    <div class="bar interest" style="{!'flex:'+year.interestY+';-webkit-flex:'+year.interestY}"></div>
+                                </div>
+                            </td>
+                            <td class="interest"><lightning:formattedNumber value="{!year.interestY}" style="currency" currencyCode="USD" maximumFractionDigits="0" /></td>
+                            <td><lightning:formattedNumber value="{!year.balance}" style="currency" currencyCode="USD" maximumFractionDigits="0"/></td>
+                        </tr>
+                    </aura:iteration>
+                </tbody>
+            </table>
+        </div>
+    </lightning:card> 
+</aura:component>
