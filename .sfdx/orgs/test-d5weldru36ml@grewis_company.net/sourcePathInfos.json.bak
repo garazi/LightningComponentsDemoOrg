@@ -119,15 +119,15 @@
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard/BrokerCard.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard/BrokerCard.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2066,
             "modifiedTime": 1509930736000,
             "changeTime": 1509930736000,
-            "isWorkspace": false,
-            "contentHash": "17e31201351728c449cb66b8153354261b8ba5ae"
+            "contentHash": "17e31201351728c449cb66b8153354261b8ba5ae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -225,14 +225,13 @@
         {
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerDetails/BrokerDetails.cmp",
             "isDirectory": false,
-            "size": 1522,
-            "modifiedTime": 1509481674000,
-            "changeTime": 1509481674000,
-            "contentHash": "5eeb43f11aec2d7e2d0d44ead779188b88c7219b",
+            "size": 1057,
+            "modifiedTime": 1509931274000,
+            "changeTime": 1509931274000,
+            "contentHash": "6476b88b9ad5a5601363bdf0fc3a70f3e2d6f0e2",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -2181,14 +2180,14 @@
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Property_Record_Page2.flexipage-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Property_Record_Page2.flexipage-meta.xml",
             "isDirectory": false,
-            "size": 5739,
-            "modifiedTime": 1509924042000,
-            "changeTime": 1509924042000,
-            "contentHash": "8aaf0e458b53b52ea1b322d06afec7b6221a2fc3",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 7053,
+            "modifiedTime": 1509931661000,
+            "changeTime": 1509931661000,
+            "contentHash": "00c4b29d45f2431c1498cf9de15f7417505e3171"
         }
     ],
     [

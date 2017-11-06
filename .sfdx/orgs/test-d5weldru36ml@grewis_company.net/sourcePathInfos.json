@@ -90,15 +90,15 @@
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 748,
-            "modifiedTime": 1509641387000,
-            "changeTime": 1509641387000,
-            "contentHash": "18cef2494beeba042c20822b34659b414ead1011",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 782,
+            "modifiedTime": 1509936589000,
+            "changeTime": 1509936589000,
+            "isWorkspace": false,
+            "contentHash": "243b11b82f9099875998456f13edb52af389e00d"
         }
     ],
     [
@@ -119,15 +119,15 @@
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard/BrokerCard.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard/BrokerCard.cmp",
             "isDirectory": false,
-            "size": 2066,
-            "modifiedTime": 1509930736000,
-            "changeTime": 1509930736000,
-            "contentHash": "17e31201351728c449cb66b8153354261b8ba5ae",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 2139,
+            "modifiedTime": 1509936558000,
+            "changeTime": 1509936558000,
+            "isWorkspace": false,
+            "contentHash": "ab4eccdedb19178e640f8f36e5d8193e22a1ba8c"
         }
     ],
     [
@@ -2180,14 +2180,14 @@
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Property_Record_Page2.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Property_Record_Page2.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 7053,
             "modifiedTime": 1509931661000,
             "changeTime": 1509931661000,
-            "contentHash": "00c4b29d45f2431c1498cf9de15f7417505e3171"
+            "contentHash": "00c4b29d45f2431c1498cf9de15f7417505e3171",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -3733,16 +3733,15 @@
     [
         "/Users/grewis/Development/LightningComponentsBRK",
         {
+            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK",
             "isDirectory": true,
-            "size": 340,
-            "modifiedTime": 1509049079000,
-            "changeTime": 1509049079000,
-            "contentHash": "49e2074b7fd8de8f6ed1f1ba0c582eff4f43a95c",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 374,
+            "modifiedTime": 1509932698000,
+            "changeTime": 1509932698000,
             "isWorkspace": true,
-            "isArtifactRoot": false
+            "contentHash": "d7d75fad7e912d3aca5ba7e2af02c81da912348a"
         }
     ],
     [
@@ -3899,6 +3898,97 @@
             "contentHash": "1732d973cc3b02bb65ae3f282d9de7023b767634",
             "isMetadataFile": false,
             "state": "u"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyOverride",
+        {
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyOverride",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1509936589000,
+            "changeTime": 1509936589000,
+            "contentHash": "47fe08acff587fd2b4c34d189594755002a6b844"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyOverride/PropertyOverride.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyOverride/PropertyOverride.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2741,
+            "modifiedTime": 1509936693000,
+            "changeTime": 1509936693000,
+            "contentHash": "567ad8a247a131ec86be70601a3b3ce64ca1c55f"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyOverride/PropertyOverride.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyOverride/PropertyOverride.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 248,
+            "modifiedTime": 1509936589000,
+            "changeTime": 1509936589000,
+            "contentHash": "fb524e8d126d2b8d158f309117d833d01d989079"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyOverride/PropertyOverride.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyOverride/PropertyOverride.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1509936589000,
+            "changeTime": 1509936589000,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyOverride/PropertyOverrideController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyOverride/PropertyOverrideController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2816,
+            "modifiedTime": 1509936718000,
+            "changeTime": 1509936718000,
+            "contentHash": "9fa9682d2073dcaeb21b6523b89869bbc2f19050"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyOverride/PropertyOverrideHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyOverride/PropertyOverrideHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 206,
+            "modifiedTime": 1509936844000,
+            "changeTime": 1509936844000,
+            "contentHash": "67d3ea67a3bc3299bc17ee31a7814a1f060da13b"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyOverride/PropertyOverrideRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyOverride/PropertyOverrideRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1509936589000,
+            "changeTime": 1509936589000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
