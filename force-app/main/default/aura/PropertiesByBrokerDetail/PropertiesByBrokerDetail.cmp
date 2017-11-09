@@ -1,0 +1,27 @@
+<aura:component >
+        <aura:attribute name="recordId" type="Id" />
+        <aura:attribute name="tab" type="Integer" />
+        <aura:attribute name="propertyRecord" type="Property__c" />
+        <force:recordData aura:id="propertyLookup" 
+                          recordId="{!v.recordId}"
+                          targetFields="{!v.propertyRecord}" 
+                          layoutType="FULL"  />
+        <lightning:accordionSection name="{!v.tab}" label="{!v.propertyRecord.Name}" title="{!v.propertyRecord.Name}">
+            <lightning:recordViewForm recordId="{!v.recordId}" objectApiName="Property__c">
+                <lightning:layout multipleRows="true">
+                    <lightning:layoutItem size="6" >
+                        <lightning:outputField fieldName="Beds__c" />
+                    </lightning:layoutItem>
+                    <lightning:layoutItem size="6" >
+                        <lightning:outputField fieldName="Baths__c" />
+                    </lightning:layoutItem>
+                    <lightning:layoutItem size="6" >
+                        <lightning:outputField fieldName="Price__c" />
+                    </lightning:layoutItem>
+                    <lightning:layoutItem size="6" >
+                        <lightning:outputField fieldName="Status__c" />
+                    </lightning:layoutItem>
+                </lightning:layout>
+            </lightning:recordViewForm>
+        </lightning:accordionSection>
+    </aura:component>

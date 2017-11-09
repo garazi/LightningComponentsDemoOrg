@@ -8,7 +8,7 @@
 			var brokerInfo = response.getReturnValue();
 			component.set("v.Broker", brokerInfo);
 		})
-		$A.enqueueAction(action);
+		// $A.enqueueAction(action);
 	},
 	updateBroker: function(component, event, helper) {
 		var tempRec = component.find("brokerRecord");

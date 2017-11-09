@@ -29,17 +29,17 @@
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
-            <componentName>force:relatedListContainer</componentName>
+            <componentName>PropertyMap</componentName>
         </componentInstances>
-        <mode>Replace</mode>
-        <name>relatedTabContent</name>
+        <name>Facet-36q9xjwtzsu</name>
         <type>Facet</type>
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
-            <componentName>PropertyMap</componentName>
+            <componentName>force:relatedListContainer</componentName>
         </componentInstances>
-        <name>Facet-36q9xjwtzsu</name>
+        <mode>Replace</mode>
+        <name>relatedTabContent</name>
         <type>Facet</type>
     </flexiPageRegions>
     <flexiPageRegions>
@@ -76,22 +76,22 @@
         <componentInstances>
             <componentInstanceProperties>
                 <name>body</name>
-                <value>relatedTabContent</value>
+                <value>Facet-36q9xjwtzsu</value>
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>title</name>
-                <value>Standard.Tab.relatedLists</value>
+                <value>Map</value>
             </componentInstanceProperties>
             <componentName>flexipage:tab</componentName>
         </componentInstances>
         <componentInstances>
             <componentInstanceProperties>
                 <name>body</name>
-                <value>Facet-36q9xjwtzsu</value>
+                <value>relatedTabContent</value>
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>title</name>
-                <value>Map</value>
+                <value>Standard.Tab.relatedLists</value>
             </componentInstanceProperties>
             <componentName>flexipage:tab</componentName>
         </componentInstances>
@@ -127,6 +127,13 @@
         </componentInstances>
         <componentInstances>
             <componentName>PropertyDaysOnMarketChart</componentName>
+            <visibilityRule>
+                <criteria>
+                    <leftValue>{!Record.Status__c}</leftValue>
+                    <operator>NE</operator>
+                    <rightValue>Sold</rightValue>
+                </criteria>
+            </visibilityRule>
         </componentInstances>
         <componentInstances>
             <componentName>BrokerCard</componentName>
@@ -138,7 +145,7 @@
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>searchCriteria</name>
-                <value>Bedrooms</value>
+                <value>Price</value>
             </componentInstanceProperties>
             <componentName>SimilarProperties</componentName>
         </componentInstances>
@@ -149,7 +156,7 @@
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>searchCriteria</name>
-                <value>Price</value>
+                <value>Bedrooms</value>
             </componentInstanceProperties>
             <componentName>SimilarProperties</componentName>
         </componentInstances>
