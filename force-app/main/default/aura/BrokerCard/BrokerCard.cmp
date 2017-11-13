@@ -18,9 +18,9 @@
 
 	<lightning:card iconName="standard:user" title="{! 'Broker for ' + v.Property.Name}">
 		<div class="slds-p-left_large slds-p-right_medium">
-			<!-- <c:BrokerDetails recordId="{!v.Property.Broker__c}" /> -->
+			<c:BrokerDetails recordId="{!v.Property.Broker__c}" />
 
-			<div class="slds-media">
+			<!-- <div class="slds-media">
 				<div class="slds-media__figure">
 					<img src="{!v.Broker.Picture__c}" class="slds-avatar_large slds-avatar_circle" alt="{!v.Broker.Title_c}" />
 				</div>
@@ -38,7 +38,7 @@
 						</ul>
 					</div>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</lightning:card>
 </aura:component>
