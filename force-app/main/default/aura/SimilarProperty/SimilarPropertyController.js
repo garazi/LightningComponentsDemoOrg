@@ -22,5 +22,13 @@
         //     "recordId": recId
         // });
         // editRecordEvent.fire();
+    },
+    enableEdit: function(component,event,helper) {
+        var foo = component.find("editButton");
+        foo.set("v.disabled", false);
+    },
+    disableEdit: function(component,event,helper) {
+        var foo = component.find("editButton");
+        foo.set("v.disabled", true);
     }
 })

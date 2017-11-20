@@ -18,6 +18,8 @@
 
 	<lightning:card iconName="standard:user" title="{! 'Broker for ' + v.Property.Name}">
 		<div class="slds-p-left_large slds-p-right_medium">
+			    <lightning:buttonIcon iconName="utility:settings"  alternativeText="Settings" class="slds-button_icon-brand"/>
+				
 			<c:BrokerDetails recordId="{!v.Property.Broker__c}" />
 
 			<!-- <div class="slds-media">

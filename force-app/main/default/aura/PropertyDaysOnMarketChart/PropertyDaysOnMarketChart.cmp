@@ -11,7 +11,7 @@
                       fields="Id, Date_Listed__c, Days_On_Market__c" 
                       recordUpdated="{!c.recordUpdated}"
                       />
-    <lightning:card iconName="utility:event" title="Days on the Market">
+    <lightning:card iconName="standard:event" title="Days on the Market">
         <div class="indent">
         <lightning:layout >
             <lightning:layoutitem class="{! 'days-block ' + v.status + ' bgcolor'}">

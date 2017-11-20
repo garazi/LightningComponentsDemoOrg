@@ -20,7 +20,7 @@
             <div class="slds-modal__content slds-p-around--medium slds-grid slds-wrap slds-grid--align-spread">
                 <lightning:input aura:id="propName" name="propName" label="Property Name" required="true" value="{!v.selectedProperty.fields.Name.value}" class="slds-size--1-of-1 slds-p-horizontal--x-small" />
                 <lightning:input aura:id="propBeds" name="propBeds" type="number" label="Beds" value="{!v.selectedProperty.fields.Beds__c.value}" class="slds-size--1-of-2 slds-p-horizontal--x-small" />
-                <lightning:input aura:id="propBaths" name="propBaths" type="number" label="Baths" value="{!v.selectedProperty.fields.Baths__c.value}" class="slds-size--1-of-2 slds-p-horizontal--x-small" />
+                <lightning:input aura:id="propBaths" name="propBaths"  label="Baths" value="{!v.selectedProperty.fields.Baths__c.value}" class="slds-size--1-of-2 slds-p-horizontal--x-small" />
                 <lightning:input aura:id="propPrice" name="propPrice" type="number" label="Price" value="{!v.selectedProperty.fields.Price__c.value}" class="slds-size--1-of-2 slds-p-horizontal--x-small" />
                 <lightning:select aura:id="propStatus" name="select1" label="Status" value="{!v.selectedProperty.fields.Status__c.value}" class="slds-size--1-of-2 slds-p-horizontal--x-small">
                     <aura:iteration items="{!v.picklistValues}" var="item">

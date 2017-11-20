@@ -1,0 +1,11 @@
+.THIS {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: red;
+    min-height: 900px;
+    /* background-image: url("/resource/tortola"); */
+    color: white;
+}

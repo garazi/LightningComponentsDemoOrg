@@ -10,14 +10,15 @@
                           fields="Picture__c" 
                           layoutType="FULL"  />
 
-        <lightning:card iconName="custom:custom85" title="{! 'Properties for' + v.brokerRecord.Name }">
-            <aura:iteration items="{!v.propertyRecords}" var="item" indexVar="i">
+        <lightning:card iconName="custom:custom85" title="{! 'Properties for ' + v.brokerRecord.Name }">
+            <!-- Demo Step 1 -->
+        <!-- <aura:iteration items="{!v.propertyRecords}" var="item" indexVar="i">
                 <ul>
-                    <li>{!v.PropertyRecords.Name}</li>
+                    <li>{!item.Name}</li>
                 </ul>
-            </aura:iteration>
+            </aura:iteration> -->
 
-        <!-- <lightning:accordion >
+        <lightning:accordion >
             <aura:iteration items="{!v.propertyRecords}" var="item" indexVar="i">
                  <lightning:accordionSection name="{!i}" label="{!item.Name}" title="{!item.Name}">
                     <lightning:recordViewForm recordId="{!item.Id}" objectApiName="Property__c">
@@ -38,7 +39,7 @@
                     </lightning:recordViewForm>
                 </lightning:accordionSection> 
             </aura:iteration>
-        </lightning:accordion> -->
+        </lightning:accordion>
         <!-- <c:PropertiesByBrokerDetail recordId="{!item.Id}" tab="{!i}" /> -->
     </lightning:card>
 </aura:component>

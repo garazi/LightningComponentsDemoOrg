@@ -23,7 +23,7 @@
 	<aura:handler name="change" value="{!v.currentRecord}" action="{!c.recordUpdated}" />
 	<aura:handler name="change" value="{!v.resultList}" action="{!c.hideSpinner}" />
 	<div class="small" aura:id="main">
-		<lightning:card iconName="utility:location" title="Neighborhood Explorer">
+		<lightning:card iconName="standard:location" title="Neighborhood Explorer">
 			<lightning:tabset variant="scoped" selectedTabId="schoolList" aura:id="myTabs" onselect="{!c.selectedTab}" class="slds-m-top--small">
 				<lightning:tab label="{!v.tab1}" title="List of restaurants nearby" id="schoolList" onfocus="{!c.recordUpdated}" />
 				<lightning:tab label="{!v.tab2}" aura:id="tab2" title="List of stores nearby" id="shoppingList" onfocus="{!c.doShopping}" />

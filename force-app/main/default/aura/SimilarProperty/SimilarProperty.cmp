@@ -7,7 +7,6 @@
                     recordId="{!v.propertyId}" 
                     targetFields="{!v.targetFields}" 
                     fields="Name, Beds__c, Baths__c, Price__c, Status__c, Thumbnail__c" />
-
     <lightning:recordViewForm recordId="{!v.propertyId}" objectApiName="Property__c">
         <div class="slds-media">
             <div class="slds-media__figure">
@@ -18,12 +17,12 @@
                     <a onclick="{!c.navToRecord}">
                         <h3 class="slds-text-heading_small slds-m-bottom_xx-small">{!v.targetFields.Name}</h3>
                     </a>
-                    <lightning:buttonIcon iconName="utility:edit" class="slds-col_bump-left" variant="bare" alternativeText="Edit Record" onclick="{!c.editRecord}" />
+                    <lightning:buttonIcon aura:id="editButton" iconName="utility:edit" class="slds-col_bump-left" variant="bare" alternativeText="Edit Record" onclick="{!c.editRecord}" />
                 </div>
                 <div aura:id="propertyDetails">
                     <lightning:layout multipleRows="true" >
                         <lightning:layoutItem size="6"  >
-                            <lightning:outputField fieldName="Beds__c"/>
+                            <div class="slds-form slds-form_horizontal"><lightning:outputField fieldName="Beds__c"/></div>
                         </lightning:layoutItem>
                         <lightning:layoutItem size="6"  >
                             <lightning:outputField fieldName="Baths__c" />
@@ -36,6 +35,7 @@
                         </lightning:layoutItem>
                     </lightning:layout>
                 </div>
-            </div></div>
+            </div>
+        </div>
     </lightning:recordViewForm>
 </aura:component>

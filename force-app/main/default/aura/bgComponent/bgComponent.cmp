@@ -1,0 +1,9 @@
+<aura:component controller="UserController" implements="flexipage:availableForRecordHome">
+    <aura:attribute name="currentUser" type="String" default="Greg" />
+    <aura:attribute name="randomNum" type="Integer" default="42" />
+
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+    
+	<p style="{! 'background-image: url(/resource/' + v.randomNum +');'}" >Hello, {!v.currentUser}! You are number {!v.randomNum}.</p>
+
+</aura:component>
