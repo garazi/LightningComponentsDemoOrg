@@ -123,11 +123,11 @@
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard/BrokerCard.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 2244,
-            "modifiedTime": 1510869008000,
-            "changeTime": 1510869008000,
+            "size": 2253,
+            "modifiedTime": 1511288485000,
+            "changeTime": 1511288485000,
             "isWorkspace": false,
-            "contentHash": "92126f189ebad589d7e7bfa5f48faa03c2ee300d"
+            "contentHash": "1607c96fcf634af2bb6588540f25966a771be987"
         }
     ],
     [
@@ -2166,9 +2166,9 @@
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Property_Record_Page2.flexipage-meta.xml",
             "isDirectory": false,
             "size": 7324,
-            "modifiedTime": 1510189185000,
-            "changeTime": 1510189185000,
-            "contentHash": "33bcc4af7dd603d9beadaf9b7994788b3bf39a83",
+            "modifiedTime": 1511288331000,
+            "changeTime": 1511288331000,
+            "contentHash": "fbd916d3ee6209ceaef3091fe2584e489cefc055",
             "isMetadataFile": true,
             "state": "u"
         }

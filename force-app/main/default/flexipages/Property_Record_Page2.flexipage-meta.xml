@@ -29,17 +29,17 @@
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
-            <componentName>PropertyMap</componentName>
-        </componentInstances>
-        <name>Facet-36q9xjwtzsu</name>
-        <type>Facet</type>
-    </flexiPageRegions>
-    <flexiPageRegions>
-        <componentInstances>
             <componentName>force:relatedListContainer</componentName>
         </componentInstances>
         <mode>Replace</mode>
         <name>relatedTabContent</name>
+        <type>Facet</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <componentInstances>
+            <componentName>PropertyMap</componentName>
+        </componentInstances>
+        <name>Facet-36q9xjwtzsu</name>
         <type>Facet</type>
     </flexiPageRegions>
     <flexiPageRegions>
@@ -76,22 +76,22 @@
         <componentInstances>
             <componentInstanceProperties>
                 <name>body</name>
-                <value>Facet-36q9xjwtzsu</value>
+                <value>relatedTabContent</value>
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>title</name>
-                <value>Map</value>
+                <value>Standard.Tab.relatedLists</value>
             </componentInstanceProperties>
             <componentName>flexipage:tab</componentName>
         </componentInstances>
         <componentInstances>
             <componentInstanceProperties>
                 <name>body</name>
-                <value>relatedTabContent</value>
+                <value>Facet-36q9xjwtzsu</value>
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>title</name>
-                <value>Standard.Tab.relatedLists</value>
+                <value>Map</value>
             </componentInstanceProperties>
             <componentName>flexipage:tab</componentName>
         </componentInstances>
