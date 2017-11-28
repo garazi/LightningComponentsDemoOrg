@@ -4608,10 +4608,10 @@
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpSlider/cmpSlider.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 487,
-            "modifiedTime": 1511826644000,
-            "changeTime": 1511826644000,
-            "contentHash": "0bf4787edd788943c18458819c3706f86882db3b"
+            "size": 774,
+            "modifiedTime": 1511827091000,
+            "changeTime": 1511827091000,
+            "contentHash": "da9f5cd474d1fb8ea2202038476f8d54e6eb066a"
         }
     ],
     [
@@ -4643,14 +4643,14 @@
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpSlider/cmpSliderController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpSlider/cmpSliderController.js",
             "isDirectory": false,
-            "size": 124,
-            "modifiedTime": 1511826395000,
-            "changeTime": 1511826395000,
-            "contentHash": "293e49406ae65d637ce14276932a6247ad672f64",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 252,
+            "modifiedTime": 1511827026000,
+            "changeTime": 1511827026000,
+            "contentHash": "524631f8778e521275fa059e55703c2ac911e7ed"
         }
     ],
     [

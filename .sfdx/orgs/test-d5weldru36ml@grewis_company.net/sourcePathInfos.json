@@ -118,15 +118,15 @@
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard/BrokerCard.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard/BrokerCard.cmp",
             "isDirectory": false,
-            "size": 2275,
-            "modifiedTime": 1511310371000,
-            "changeTime": 1511310371000,
-            "contentHash": "f68413c36cce66db9f61f1e118f4e4541879d6cd",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 2279,
+            "modifiedTime": 1511910739000,
+            "changeTime": 1511910739000,
+            "isWorkspace": false,
+            "contentHash": "e3cbb5531592e021d88c5e9fabcfc9e2bad50826"
         }
     ],
     [
@@ -4604,14 +4604,14 @@
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpSlider/cmpSlider.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpSlider/cmpSlider.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 774,
             "modifiedTime": 1511827091000,
             "changeTime": 1511827091000,
-            "contentHash": "da9f5cd474d1fb8ea2202038476f8d54e6eb066a"
+            "contentHash": "da9f5cd474d1fb8ea2202038476f8d54e6eb066a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -4643,14 +4643,14 @@
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpSlider/cmpSliderController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpSlider/cmpSliderController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 252,
             "modifiedTime": 1511827026000,
             "changeTime": 1511827026000,
-            "contentHash": "524631f8778e521275fa059e55703c2ac911e7ed"
+            "contentHash": "524631f8778e521275fa059e55703c2ac911e7ed",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
