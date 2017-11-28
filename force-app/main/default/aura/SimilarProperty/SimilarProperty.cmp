@@ -22,7 +22,9 @@
                 <div aura:id="propertyDetails">
                     <lightning:layout multipleRows="true" >
                         <lightning:layoutItem size="6"  >
-                            <div class="slds-form slds-form_horizontal"><lightning:outputField fieldName="Beds__c"/></div>
+                            <!-- <div class="slds-form slds-form_horizontal"> -->
+                                <lightning:outputField fieldName="Beds__c"/>
+                            <!-- </div> -->
                         </lightning:layoutItem>
                         <lightning:layoutItem size="6"  >
                             <lightning:outputField fieldName="Baths__c" />

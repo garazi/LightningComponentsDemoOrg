@@ -5,7 +5,8 @@
 	<aura:attribute name="tile_2" type="Aura.Component[]" />
 	<aura:attribute name="tile_3" type="Aura.Component[]" />
 	<aura:attribute name="rt_col" type="Aura.Component[]" />
-	<lightning:layout>
+	<aura:handler event="c:toggleColumn" action="{!c.doIt}" />
+	<lightning:layout >
 		<lightning:layoutItem size="12" class="slds-m-bottom_small">
 			<c:bgComponent />
 		</lightning:layoutItem>
@@ -25,7 +26,10 @@
 		<lightning:layoutItem flexibility="grow" padding="horizontal-small">
 			{!v.main}
 		</lightning:layoutItem>
-		<lightning:layoutItem size="3" class="slds-m-right_small">
+		<lightning:layoutItem aura:id="rtCol" size="3" class="slds-m-right_small">
+			<lightning:card iconName="standard:account" title="Right Column"> 
+				<p>This is a card</p>
+				</lightning:card>
 			{!v.rt_col}
 		</lightning:layoutItem>
 	</lightning:layout>

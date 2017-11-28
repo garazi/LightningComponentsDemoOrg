@@ -1,0 +1,18 @@
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" access="global">
+    <aura:attribute name="myval" default="10" type="Integer" />
+    <lightning:card title="Tile Component" class="slds-card_boundary">
+        <div class="slds-p-left_large slds-p-right_medium">
+            <lightning:slider
+                    aura:id="cmpSlider" 
+                    value="{!v.myval}" 
+                    onchange="{! c.handleRangeChange }" 
+                    title="Slider" 
+                    class="slds-m-around_small"
+                    min="10" 
+                    max="50"
+                    step="5"
+                    variant="label-hidden" 
+                    onblur="{!c.blurIt}" />
+        </div>
+    </lightning:card>
+</aura:component>
