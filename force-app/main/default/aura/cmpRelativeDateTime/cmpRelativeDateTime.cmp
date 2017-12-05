@@ -1,0 +1,32 @@
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" access="global">
+	<aura:attribute name="SfdcDay" type="Object" />
+	<aura:attribute name="today9AM" type="Object" />
+	<aura:attribute name="now" type="Object" />
+	<aura:attribute name="future20500104" type="Object" />
+	<aura:handler name="init" value="{! this }" action="{! c.doInit }" />
+	<lightning:card title="Slider Component" class="slds-card_boundary">
+		<div class="slds-p-left_large slds-p-right_medium">
+
+			<div class="slds-m-vertical_small">
+				Day SFDC was born - February 1999:
+				<lightning:relativeDateTime value="{! v.SfdcDay }" class="slds-text-title_caps"/>
+			</div>
+
+			<div class="slds-m-vertical_small">
+				Today 9:00 AM:
+				<strong><lightning:relativeDateTime value="{! v.today9AM }"/></strong>
+			</div>
+
+			<div class="slds-m-vertical_small">
+				Right now:
+				<strong><lightning:relativeDateTime value="{! v.now }"/></strong>
+			</div>
+
+			<div class="slds-m-vertical_small">
+				Future - January 2050:
+				<strong><lightning:relativeDateTime value="{! v.future20500104 }"/></strong>
+			</div>
+		</div>
+</lightning:card>
+</aura:component>
+

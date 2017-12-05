@@ -3,9 +3,11 @@
 	<div>
 		<aura:if isTrue="{!v.recordId}">
 			<lightning:recordViewForm recordId="{!v.recordId}" objectApiName="Broker__c">
+				
 				<lightning:layout multipleRows="true">
 					<lightning:layoutItem size="6">
-						<lightning:outputField fieldName="Name" />
+							<div class="slds-form_horizontal">
+						<lightning:outputField fieldName="Name" /></div>
 					</lightning:layoutItem>
 					<lightning:layoutItem size="6">
 						<lightning:outputField fieldName="Email__c" />
@@ -20,4 +22,6 @@
 			</lightning:recordViewForm>
 		</aura:if>
 	</div>
+
+	
 </aura:component>

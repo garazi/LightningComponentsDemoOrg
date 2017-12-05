@@ -1,6 +1,6 @@
 <aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" access="global">
     <aura:attribute name="myval" default="10" type="Integer" />
-    <lightning:card title="Tile Component" class="slds-card_boundary">
+    <lightning:card title="Slider Component" class="slds-card_boundary">
         <div class="slds-p-left_large slds-p-right_medium">
             <lightning:slider
                     aura:id="cmpSlider" 

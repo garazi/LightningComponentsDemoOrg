@@ -78,7 +78,7 @@
     height: 34px;
     flex: 1;
     border: solid 1px rgb(216, 221, 230);
-    z-index: 9999;
+    z-index: 999;
     position: relative;
 }
 

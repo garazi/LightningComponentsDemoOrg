@@ -44,6 +44,46 @@
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
+            <componentName>cmpAvatar</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentName>cmpBreadcrumbs</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentName>cmpButtonMenu</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentName>cmpCheckboxGroup</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentName>cmpCombobox</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentName>cmpPicklistPath</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentName>cmpDatepicker</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentName>cmpRelativeDateTime</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentName>cmpSelect</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentName>cmpSlider</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentName>cmpTile</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentName>cmpTree</componentName>
+        </componentInstances>
+        <name>facet-5546c2fa-5d7d-4170-a2b1-b3b70555912d</name>
+        <type>Facet</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <componentInstances>
             <componentInstanceProperties>
                 <name>active</name>
                 <value>true</value>
@@ -92,6 +132,17 @@
             <componentInstanceProperties>
                 <name>title</name>
                 <value>Map</value>
+            </componentInstanceProperties>
+            <componentName>flexipage:tab</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentInstanceProperties>
+                <name>body</name>
+                <value>facet-5546c2fa-5d7d-4170-a2b1-b3b70555912d</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>title</name>
+                <value>Components</value>
             </componentInstanceProperties>
             <componentName>flexipage:tab</componentName>
         </componentInstances>

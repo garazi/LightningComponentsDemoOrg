@@ -1,0 +1,10 @@
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" access="global">
+            <lightning:card title="Breadcrumbs Component" class="slds-card_boundary">
+            <div class="slds-p-left_large slds-p-right_medium">
+                    <lightning:breadcrumbs>
+                            <lightning:breadcrumb label="Parent Entity" href="path/to/place/1"/>
+                            <lightning:breadcrumb label="Parent Record Name" href="path/to/place/2"/>
+                        </lightning:breadcrumbs>
+            </div>
+        </lightning:card>
+    </aura:component>

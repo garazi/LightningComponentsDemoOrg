@@ -1,0 +1,25 @@
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" access="global">
+        <aura:attribute name="buttonstate" type="Boolean" default="false"/>
+	<lightning:card title="ButtonMenu Component" class="slds-card_boundary">
+		<div class="slds-p-left_large slds-p-right_medium">
+			<lightning:buttonMenu aura:id="menu" iconName="utility:settings" alternativeText="Show menu" onselect="{! c.handleSelect }">
+				<lightning:menuItem label="Menu Item One" value="MenuItemOne" />
+				<lightning:menuItem label="Menu Item Two" value="MenuItemTwo" />
+				<lightning:menuItem label="Menu Item Three" value="MenuItemThree" disabled="true" />
+				<lightning:menuItem label="Menu Item Four" value="MenuItemFour" />
+            </lightning:buttonMenu>
+            
+            <lightning:buttonStateful
+                labelWhenOff="Follow"
+                labelWhenOn="Following"
+                labelWhenHover="Unfollow"
+                iconNameWhenOff="utility:add"
+                iconNameWhenOn="utility:check"
+                iconNameWhenHover="utility:close"
+                state="{! v.buttonstate }"
+                onclick="{! c.handleClick }"
+            />
+		</div>
+	</lightning:card>
+</aura:component>
+

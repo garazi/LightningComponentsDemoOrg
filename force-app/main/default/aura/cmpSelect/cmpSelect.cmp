@@ -1,0 +1,16 @@
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" access="global">
+    <aura:attribute name="selected" type="String" />
+	<lightning:card title="Select Component" class="slds-card_boundary">
+		<div class="slds-p-left_large slds-p-right_medium">
+			<lightning:select aura:id="select" name="select" label="Select a pie" onchange="{! c.onChange }" class="slds-m-bottom_large">
+                <option value="">choose one...</option>
+                <option value="apple">apple</option>
+                <option value="pumpkin">pumpkin</option>
+                <option value="cherry">cherry</option>
+                <option value="blueberry">blueberry</option>
+                <option value="pickle">pickle</option>
+            </lightning:select>
+            <p>{!v.selected}</p>
+		</div>
+	</lightning:card>
+</aura:component>

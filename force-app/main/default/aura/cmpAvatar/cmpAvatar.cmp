@@ -1,0 +1,7 @@
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" access="global">
+        <lightning:card title="Avatar Component" class="slds-card_boundary">
+            <div class="slds-p-left_large slds-p-right_medium">
+                    <lightning:avatar src="{!$Resource.alps}" alternativeText="Codey Bear"/>                    
+            </div>
+        </lightning:card>
+    </aura:component>

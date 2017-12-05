@@ -1,0 +1,10 @@
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" access="global">
+    <aura:attribute name="options" type="List" />
+    <aura:handler name="init" value="{! this }" action="{! c.loadOptions }"/> 
+    
+	<lightning:card title="Combobox Component" class="slds-card_boundary">
+		<div class="slds-p-left_large slds-p-right_medium">
+			<lightning:combobox name="progress" label="Status" value="inProgress" placeholder="Select Progress" options="{! v.options }" onchange="{! c.handleChange }" />
+		</div>
+	</lightning:card>
+</aura:component>
