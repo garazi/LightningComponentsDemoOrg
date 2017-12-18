@@ -1,14 +1,11 @@
 <aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" access="global">
-        <aura:attribute name="variant" type="String" default="non-linear"/>
-        <aura:attribute name="hideUpdateButton" type="Boolean" default="false"/>        
-        <lightning:card title="Picklist Component" class="slds-card_boundary">
-            <div class="slds-p-left_large slds-p-right_medium">
-                
-                <lightning:path aura:id="path" recordId="{!v.recordId}"
-                    variant="{!v.variant}"
-                    hideUpdateButton="{!v.hideUpdateButton}"
-                    onselect="{!c.handleSelect}"
-                />
-            </div>
-        </lightning:card>
-    </aura:component>
+	<aura:attribute name="recordId" type="Id" />
+	<aura:attribute name="variant" type="String" default="non-linear" />
+	<aura:attribute name="hideUpdateButton" type="Boolean" default="false" />
+	<lightning:card title="Picklist Component" class="slds-card_boundary">
+		<div class="slds-p-left_large slds-p-right_medium">
+			<lightning:picklistPath aura:id="picklistPath" recordId="{!v.recordId}" variant="non-linear" picklistFieldApiName="Status__c" onselect="{!c.handleSelect}">
+			</lightning:picklistPath>
+		</div>
+	</lightning:card>
+</aura:component>

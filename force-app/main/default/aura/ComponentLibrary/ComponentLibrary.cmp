@@ -1,0 +1,48 @@
+<aura:component implements="flexipage:availableForAllPageTypes,force:hasRecordId,force:appHostable" access="global">
+	<aura:attribute name="recordId" type="Id" />
+	<div class="slds-card">
+		<c:cmpPath recordId="{!v.recordId}" />
+		<div class="slds-p-left_large slds-p-right_medium slds-grid slds-wrap slds-grid_align-spread">
+			<div class="slds-size_1-of-2 slds-col slds-p-horizontal_small slds-m-top_small">
+				<c:cmpAvatar />
+			</div>
+			<div class="slds-size_1-of-2 slds-col slds-p-horizontal_small slds-m-top_small">
+				<c:cmpBreadcrumbs />
+			</div>
+			<div class="slds-size_1-of-2 slds-col slds-p-horizontal_small slds-m-top_small">
+				<c:cmpButtonMenu />
+			</div>
+			<div class="slds-size_1-of-2 slds-col slds-p-horizontal_small slds-m-top_small">
+				<c:cmpCheckboxGroup />
+			</div>
+			<div class="slds-size_1-of-2 slds-col slds-p-horizontal_small slds-m-top_small">
+				<c:cmpCombobox />
+			</div>
+			<div class="slds-size_1-of-2 slds-col slds-p-horizontal_small slds-m-top_small">
+				<c:cmpDatepicker />
+			</div>
+			<div class="slds-size_1-of-1 slds-col slds-p-horizontal_small slds-m-top_small">
+				<c:cmpPath />
+			</div>
+			<div class="slds-size_1-of-1 slds-col slds-p-horizontal_small slds-m-top_small">
+				<c:cmpPicklistPath />
+			</div>
+			<div class="slds-size_1-of-2 slds-col slds-p-horizontal_small slds-m-top_small">
+				<c:cmpRelativeDateTime />
+			</div>
+			<div class="slds-size_1-of-2 slds-col slds-p-horizontal_small slds-m-top_small">
+				<c:cmpSelect />
+			</div>
+			<div class="slds-size_1-of-2 slds-col slds-p-horizontal_small slds-m-top_small">
+				<c:cmpSlider />
+			</div>
+			<div class="slds-size_1-of-2 slds-col slds-p-horizontal_small slds-m-top_small">
+				<c:cmpTile />
+			</div>
+			<div class="slds-size_1-of-2 slds-col slds-p-horizontal_small slds-m-top_small">
+				<c:cmpTree />
+			</div>
+		</div>
+	</div>
+</aura:component>
+

@@ -7,7 +7,7 @@
 	<aura:attribute name="searchCriteria" type="String" default="Price" />
 	<aura:attribute name="priceRange" type="String" default="100000" />
 	<aura:attribute name="designStatus" type="String" />
-	<aura:attribute name="width" type="String" default="SMALL" />
+	<aura:attribute name="width" type="String" default="LARGE" />
 	<lightning:flexipageRegionInfo width="{!v.width}" />
 
 	<aura:handler event="c:recordUpdated" action="{!c.doSearch}" />

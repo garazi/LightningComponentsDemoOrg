@@ -5,7 +5,7 @@
 	<aura:attribute name="sortedDirection" type="String" />
 	<aura:handler name="init" value="{!this}" action="{!c.doInit}" />
 	<lightning:flexipageRegionInfo width="{!v.width}" />
-	<lightning:card iconName="standard:avatar" title="Leads">
-		<lightning:datatable data="{!v.leads}" columns="{!v.columns}" onrowselection="{!c.doSelect}" onsort="{!c.updateColumnSorting}" />
+	<lightning:card iconName="standard:avatar" title="Leads table">
+		<lightning:datatable aura:id="datatable" data="{!v.leads}" columns="{!v.columns}" onrowselection="{!c.doSelect}" keyField="id" onsort="{!c.updateColumnSorting}" hideCheckboxColumn="false" />
 	</lightning:card>
 </aura:component>

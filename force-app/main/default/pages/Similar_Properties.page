@@ -1,5 +1,5 @@
 <apex:page standardController="Property__c" extensions="GetPropertiesApexController">
-    <apex:pageBlock >
+    <!-- <apex:pageBlock >
       <apex:pageBlockTable value="{! properties }" var="ct" id="leads_list">
             <apex:column value="{! ct.name}" />
             <apex:column value="{! ct.beds__c}" />
@@ -8,5 +8,42 @@
             <apex:column value="{! ct.price__c}" />
             <apex:column value="{! ct.status__c}" />
         </apex:pageBlockTable>
-   </apex:pageBlock>
+   </apex:pageBlock> -->
+    <apex:includeLightning />
+    <apex:slds />
+    <style>
+        html, body {
+        margin: 0;
+        padding: 0;
+        }
+        #lightningComponent {width: 100%;}
+    </style>
+    <div id="content">
+        <div id="lightningComponent" />
+    </div>
+    <script>
+    var recordId = '{!Property__c.Id}';
+    var myUserContext = "{!$User.UITheme}";
+    $Lightning.use("c:SimilarPropertiesApp", function() {
+        $Lightning.createComponent("c:SimilarProperties",
+                                   {recordId: recordId},
+                                   "lightningComponent",
+                                   function(cmp) {
+                                       cmp.addEventHandler('force:navigateToSObject',
+                                           function(event) {
+                                               if (myUserContext == 'Theme4t' || myUserContext == 'Theme4d') {
+                                                   // The Visualforce page is in S1 or Lightning Experience
+                                                   sforce.one.navigateToSObject(event.getParams().recordId);
+                                               } else if (myUserContext == 'Theme3') {
+                                                   // The Visualforce page is  running in Classic
+                                                   window.parent.location = '/' + event.getParams().recordId;
+                                               } else {
+                                                   console.log("Unsupported theme");   
+                                               }
+                                           }
+                                       );
+                                   }
+                                  );
+    });
+    </script>
 </apex:page>

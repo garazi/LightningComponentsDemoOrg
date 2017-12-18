@@ -12,7 +12,7 @@
     <actionOverrides>
         <actionName>View</actionName>
         <comment>Action override created by Lightning App Builder during activation.</comment>
-        <content>Property_Record_Page2</content>
+        <content>Property_Record_Page</content>
         <formFactor>Large</formFactor>
         <skipRecordTypeSelect>false</skipRecordTypeSelect>
         <type>Flexipage</type>
@@ -22,18 +22,18 @@
         <headerColor>#088B06</headerColor>
         <logo>DreamhouseLogo</logo>
         <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
     </brand>
     <formFactors>Large</formFactors>
     <label>Dreamhouse Lightning</label>
     <navType>Standard</navType>
-    <tab>standard-home</tab>
-    <tab>Property__c</tab>
-    <tab>Broker__c</tab>
-    <tab>Leads</tab>
-    <tab>standard-Event</tab>
-    <tab>standard-Contact</tab>
-    <tab>standard-Feed</tab>
-    <tab>Data_Import</tab>
+    <tabs>standard-home</tabs>
+    <tabs>Property__c</tabs>
+    <tabs>Broker__c</tabs>
+    <tabs>Leads</tabs>
+    <tabs>standard-Event</tabs>
+    <tabs>Data_Import</tabs>
+    <tabs>Component_Library</tabs>
     <uiType>Lightning</uiType>
-    <utilityBar>undefined_UtilityBar</utilityBar>
+    <utilityBar>SimpleTest_UtilityBar</utilityBar>
 </CustomApplication>

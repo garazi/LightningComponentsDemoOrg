@@ -1,13 +1,18 @@
 <aura:component>
 	<aura:attribute name="recordId" type="Id" />
+	<aura:attribute name="broker" type="Broker__c" />
+	<aura:handler event="force:refreshView" action="{!c.doInit}" />
+	<force:recordData aura:id="brokerRecord" recordId="{!v.recordId}" targetFields="{!v.broker}" layoutType="FULL" mode="EDIT" />
+
 	<div>
 		<aura:if isTrue="{!v.recordId}">
-			<lightning:recordViewForm recordId="{!v.recordId}" objectApiName="Broker__c">
-				
+			<lightning:recordViewForm aura:id="viewForm" recordId="{!v.recordId}" objectApiName="Broker__c">
 				<lightning:layout multipleRows="true">
-					<lightning:layoutItem size="6">
-							<div class="slds-form_horizontal">
-						<lightning:outputField fieldName="Name" /></div>
+					<lightning:layoutItem size="5">
+						<lightning:outputField aura:id="nameField" fieldName="Name" />
+					</lightning:layoutItem>
+					<lightning:layoutItem size="1">
+						<lightning:buttonIcon aura:id="editButton" iconName="utility:edit" class="slds-col_bump-left" variant="bare" alternativeText="Edit Record" onclick="{!c.editRecord}" />
 					</lightning:layoutItem>
 					<lightning:layoutItem size="6">
 						<lightning:outputField fieldName="Email__c" />
@@ -20,8 +25,27 @@
 					</lightning:layoutItem>
 				</lightning:layout>
 			</lightning:recordViewForm>
+
+			<lightning:recordEditForm aura:id="editForm" recordId="{!v.recordId}" objectApiName="Broker__c" class="slds-hide" onsubmit="{!c.fireToast}">
+				<lightning:layout multipleRows="true">
+					<lightning:layoutItem size="6">
+						<lightning:inputField aura:id="nameField" fieldName="Name" />
+					</lightning:layoutItem>
+					<lightning:layoutItem size="6">
+						<lightning:inputField fieldName="Email__c" />
+					</lightning:layoutItem>
+					<lightning:layoutItem size="6">
+						<lightning:inputField fieldName="Phone__c" />
+					</lightning:layoutItem>
+					<lightning:layoutItem size="6">
+						<lightning:inputField fieldName="Mobile_Phone__c" />
+					</lightning:layoutItem>
+					<lightning:layoutItem size="12">
+						<lightning:button variant="brand" label="Submit" title="Submit" type="submit" class="slds-m-top_large" />
+					</lightning:layoutItem>
+				</lightning:layout>
+			</lightning:recordEditForm>
 		</aura:if>
 	</div>
-
-	
 </aura:component>
+

@@ -3,7 +3,6 @@
         var tempRec = component.find("editRecord");
         tempRec.set("v.recordId", component.get("v.remoteRecordId"));
         tempRec.reloadRecord();
-        console.log('foo: ', component.get("v.picklistValues"))
     },
     toggleDialog : function(component, event, helper) {
         helper.showHideModal(component);

@@ -1,3 +1,0 @@
-<aura:component implements="force:lightningQuickActionWithoutHeader" >
-	Hello
-</aura:component>

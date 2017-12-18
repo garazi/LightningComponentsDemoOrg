@@ -1,0 +1,21 @@
+<aura:component implements="flexipage:availableForAllPageTypes,force:hasRecordId" access="global">
+		<aura:attribute name="listOptions" type="List" default="[]"/>
+		<aura:attribute name="defaultOptions" type="List" default="[]"/>
+		<aura:attribute name="requiredOptions" type="List" default="[]"/>
+		<aura:handler name="init" value="{! this }" action="{! c.initialize }"/>
+
+	<lightning:card title="Tree Component" class="slds-card_boundary">
+		<div class="slds-p-left_large slds-p-right_medium">
+			<lightning:dualListbox aura:id="selectOptions" 
+								name="Select Options"  
+								label= "Select Options" 
+								sourceLabel="Available Options" 
+								selectedLabel="Selected Options" 
+								options="{! v.listOptions }"
+								value="{! v.defaultOptions }"
+								requiredOptions="{! v.requiredOptions }"
+								onchange="{! c.handleChange }"/>
+		</div>
+	</lightning:card>
+</aura:component>
+

@@ -1,4 +1,0 @@
-<aura:component implements="force:appHostable,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes" access="global" >
-    <aura:attribute name="hello" type="String" />
-    Hello, {!v.hello}!
-</aura:component>

@@ -127,7 +127,7 @@
   </types>
   <types>
     <name>PermissionSet</name>
-    <members>All</members>
+    <members>All_Access</members>
   </types>
   <types>
     <name>RemoteSiteSetting</name>
@@ -181,6 +181,6 @@
     <name>WorkflowRule</name>
     <members>*</members>
   </types>
-  <version>41.0</version>
+  <version>42.0</version>
   <fullName>lightningComponentsBRK</fullName>
 </Package>
