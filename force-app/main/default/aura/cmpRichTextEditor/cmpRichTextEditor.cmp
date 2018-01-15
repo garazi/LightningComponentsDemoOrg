@@ -1,0 +1,19 @@
+<aura:component>
+        <aura:attribute name="myVal" type="String" />
+        <div id="editOverlay" class="pop-over slds-popover slds-popover_panel slds-nubbin_left-top " role="dialog">
+                <div class="slds-popover__header">
+                    <div class="slds-media slds-m-bottom_small slds-media_center">
+                        <div class="slds-media__figure">
+                            <span class="slds-icon_container slds-icon-standard-account">
+                                  <lightning:icon iconName="standard:account" />
+                            </span>
+                        </div>
+                        <div class="slds-media__body">
+                            <p class="slds-text-heading_medium slds-hyphenate">Write a Review</p>
+                        </div>
+                    </div>
+                    <lightning:inputRichText value="{!v.myVal}" placeholder="Type something interesting"/>
+                </div>
+            </div>
+        
+</aura:component>	

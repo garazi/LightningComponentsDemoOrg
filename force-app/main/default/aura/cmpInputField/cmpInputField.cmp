@@ -1,0 +1,17 @@
+<aura:component implements="flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId" access="global" >
+    <lightning:card title='Input Component' class='slds-card_boundary'>
+    <div class='slds-p-left_large slds-p-right_medium'>
+            <lightning:recordEditForm recordId="{!v.recordId}" objectApiName="Contact">
+                    <lightning:messages />
+                    <lightning:inputField fieldName="FirstName" />
+                    <lightning:inputField fieldName="LastName" />  
+                    <lightning:inputField fieldName="Email" />
+                    <lightning:inputField fieldName="Phone" />
+                    <lightning:inputField fieldName="AccountId" />
+                    <lightning:inputField fieldName="MailingAddress" />      
+                    <lightning:inputField fieldName="LeadSource" />
+                    <lightning:inputField fieldName="Salutation" />   
+                </lightning:recordEditForm>
+    </div>
+    </lightning:card>
+</aura:component>

@@ -7,6 +7,9 @@
 	<div>
 		<aura:if isTrue="{!v.recordId}">
 			<lightning:recordViewForm aura:id="viewForm" recordId="{!v.recordId}" objectApiName="Broker__c">
+					<lightning:inputField fieldName="Name" />
+					<lightning:inputField fieldName="Email__c" />
+					<lightning:inputField fieldName="Phone__c" />
 				<lightning:layout multipleRows="true">
 					<lightning:layoutItem size="5">
 						<lightning:outputField aura:id="nameField" fieldName="Name" />

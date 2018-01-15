@@ -1,0 +1,28 @@
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" access="global">
+	<lightning:card title='Carousel Component' class='slds-card_boundary'>
+    <div class='slds-p-left_large slds-p-right_medium'>
+            <lightning:carousel aura:id="carousel" disableAutoRefresh="true">
+                    <lightning:carouselImage
+                        src = "{! $Resource.cImage01}"
+                        header = "Mobile"
+                        description = "first card description"
+                        alternativeText = "This is a card"
+                        href = "https://www.salesforce.com">
+                    </lightning:carouselImage>
+                    <lightning:carouselImage
+                        src = "{! $Resource.cImage02}"
+                        header = "Desktop"
+                        description = "second card description"
+                        alternativeText = "This is the second card"
+                        href = "https://www.salesforce.com">
+                    </lightning:carouselImage><lightning:carouselImage
+                        src = "{! $Resource.cImage03}"
+                        header = "Apps"
+                        description = "This is the third card"
+                        alternativeText = "This is the third card"
+                        href = "https://www.salesforce.com">
+                    </lightning:carouselImage>
+                </lightning:carousel>
+            </div>
+    </lightning:card>
+</aura:component>

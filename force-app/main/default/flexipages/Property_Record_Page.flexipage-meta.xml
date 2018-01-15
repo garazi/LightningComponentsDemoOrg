@@ -87,6 +87,9 @@
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
+            <componentName>cmpDuallistBox</componentName>
+        </componentInstances>
+        <componentInstances>
             <componentName>ComponentLibrary</componentName>
         </componentInstances>
         <name>facet-779463ce-b7e5-4d1e-b56d-1ed9dcc4c54b</name>
@@ -187,6 +190,9 @@
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
+        <componentInstances>
+            <componentName>cmpCarousel</componentName>
+        </componentInstances>
         <componentInstances>
             <componentName>ContractUpload</componentName>
             <visibilityRule>

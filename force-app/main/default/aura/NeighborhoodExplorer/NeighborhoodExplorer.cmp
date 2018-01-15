@@ -64,6 +64,11 @@
 										<li class="slds-list__item">{!item.city}, {!item.state}</li>
 										<li class="slds-list__item">{!item.phone}</li>
 									</ul>
+									<div class="slds-grid" >
+									<lightning:button variant="neutral" label="Write a Review" class="slds-col_bump-left"/>
+									
+								</div>
+								
 									<div class="slds-media slds-m-top--medium">
 										<div class="slds-media__figure">
 											<img src="{!item.image}" class="slds-avatar--large slds-avatar--circle" alt="Placeholder" />

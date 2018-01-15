@@ -1,0 +1,13 @@
+.THIS {	
+	position: relative;
+}
+
+.THIS #editOverlay {
+	position: relative;
+}
+
+.THIS .pop-over {
+position: absolute;
+top: -1.2rem;
+left: 6rem;
+}
