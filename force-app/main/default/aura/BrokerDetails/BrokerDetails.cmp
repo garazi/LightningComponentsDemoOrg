@@ -7,9 +7,6 @@
 	<div>
 		<aura:if isTrue="{!v.recordId}">
 			<lightning:recordViewForm aura:id="viewForm" recordId="{!v.recordId}" objectApiName="Broker__c">
-					<lightning:inputField fieldName="Name" />
-					<lightning:inputField fieldName="Email__c" />
-					<lightning:inputField fieldName="Phone__c" />
 				<lightning:layout multipleRows="true">
 					<lightning:layoutItem size="5">
 						<lightning:outputField aura:id="nameField" fieldName="Name" />
@@ -17,14 +14,23 @@
 					<lightning:layoutItem size="1">
 						<lightning:buttonIcon aura:id="editButton" iconName="utility:edit" class="slds-col_bump-left" variant="bare" alternativeText="Edit Record" onclick="{!c.editRecord}" />
 					</lightning:layoutItem>
-					<lightning:layoutItem size="6">
+					<lightning:layoutItem size="5">
 						<lightning:outputField fieldName="Email__c" />
 					</lightning:layoutItem>
-					<lightning:layoutItem size="6">
+					<lightning:layoutItem size="1">
+						<lightning:buttonIcon aura:id="editButton" iconName="utility:edit" class="slds-col_bump-left" variant="bare" alternativeText="Edit Record" onclick="{!c.editRecord}" />
+					</lightning:layoutItem>
+					<lightning:layoutItem size="5">
 						<lightning:outputField fieldName="Phone__c" />
 					</lightning:layoutItem>
-					<lightning:layoutItem size="6">
+					<lightning:layoutItem size="1">
+						<lightning:buttonIcon aura:id="editButton" iconName="utility:edit" class="slds-col_bump-left" variant="bare" alternativeText="Edit Record" onclick="{!c.editRecord}" />
+					</lightning:layoutItem>
+					<lightning:layoutItem size="5">
 						<lightning:outputField fieldName="Mobile_Phone__c" />
+					</lightning:layoutItem>
+					<lightning:layoutItem size="1">
+						<lightning:buttonIcon aura:id="editButton" iconName="utility:edit" class="slds-col_bump-left" variant="bare" alternativeText="Edit Record" onclick="{!c.editRecord}" />
 					</lightning:layoutItem>
 				</lightning:layout>
 			</lightning:recordViewForm>

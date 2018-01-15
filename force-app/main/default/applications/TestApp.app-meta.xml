@@ -2,13 +2,11 @@
 <CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
     <brand>
         <headerColor>#0070D2</headerColor>
-        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
     </brand>
     <formFactors>Large</formFactors>
     <label>TestApp</label>
     <navType>Standard</navType>
-    <tabs>Broker__c</tabs>
-    <tabs>standard-Feed</tabs>
+    <tab>standard-Account</tab>
     <uiType>Lightning</uiType>
-    <utilityBar>TestApp_UtilityBar</utilityBar>
+    <utilityBar>TestApp_UtilityBar1</utilityBar>
 </CustomApplication>

@@ -22,18 +22,17 @@
         <headerColor>#088B06</headerColor>
         <logo>DreamhouseLogo</logo>
         <logoVersion>1</logoVersion>
-        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
     </brand>
     <formFactors>Large</formFactors>
     <label>Dreamhouse Lightning</label>
     <navType>Standard</navType>
-    <tabs>standard-home</tabs>
-    <tabs>Property__c</tabs>
-    <tabs>Broker__c</tabs>
-    <tabs>Leads</tabs>
-    <tabs>standard-Event</tabs>
-    <tabs>Data_Import</tabs>
-    <tabs>Component_Library</tabs>
+    <tab>standard-home</tab>
+    <tab>Property__c</tab>
+    <tab>Broker__c</tab>
+    <tab>Leads</tab>
+    <tab>standard-Event</tab>
+    <tab>Data_Import</tab>
+    <tab>Component_Library</tab>
     <uiType>Lightning</uiType>
     <utilityBar>SimpleTest_UtilityBar</utilityBar>
 </CustomApplication>
