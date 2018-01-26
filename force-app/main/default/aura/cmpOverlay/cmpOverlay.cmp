@@ -1,0 +1,7 @@
+<aura:component implements="flexipage:availableForAllPageTypes,force:hasRecordId" access="global">
+<lightning:card title='Overlay Library' class='slds-card_boundary'>
+<div class='slds-p-left_large slds-p-right_medium'>
+    <lightning:overlayLibrary aura:id="overlayLib"/>
+    <lightning:button name="modal" label="Show Modal" onclick="{!c.handleShowModal}"/></div>
+</lightning:card>
+</aura:component>	

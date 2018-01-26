@@ -25,7 +25,7 @@
     var recordId = '{!Property__c.Id}';
     var myUserContext = "{!$User.UITheme}";
     $Lightning.use("c:SimilarPropertiesApp", function() {
-        $Lightning.createComponent("c:cmpDuallistBox",
+        $Lightning.createComponent("c:cmpVerticalNavigation",
                                    {recordId: recordId},
                                    "lightningComponent",
                                    function(cmp) {

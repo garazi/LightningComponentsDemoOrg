@@ -53,6 +53,9 @@
             <componentName>cmpButtonMenu</componentName>
         </componentInstances>
         <componentInstances>
+            <componentName>cmpCarousel</componentName>
+        </componentInstances>
+        <componentInstances>
             <componentName>cmpCheckboxGroup</componentName>
         </componentInstances>
         <componentInstances>
@@ -190,9 +193,6 @@
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
-        <componentInstances>
-            <componentName>cmpCarousel</componentName>
-        </componentInstances>
         <componentInstances>
             <componentName>ContractUpload</componentName>
             <visibilityRule>
