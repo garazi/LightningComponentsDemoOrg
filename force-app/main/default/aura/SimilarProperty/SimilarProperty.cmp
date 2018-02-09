@@ -17,6 +17,7 @@
                     <a onclick="{!c.navToRecord}">
                         <h3 class="slds-text-heading_small slds-m-bottom_xx-small">{!v.targetFields.Name}</h3>
                     </a>
+                    <lightning:dynamicIcon type="ellie" alternativeText="Ellie intelligence" class="slds-icon_large"/>
                     <lightning:buttonIcon aura:id="editButton" iconName="utility:edit" class="slds-col_bump-left" variant="bare" alternativeText="Edit Record" onclick="{!c.editRecord}" />
                 </div>
                 <div aura:id="propertyDetails">

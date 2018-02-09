@@ -6,6 +6,6 @@
 	<aura:handler name="init" value="{!this}" action="{!c.doInit}" />
 	<lightning:flexipageRegionInfo width="{!v.width}" />
 	<lightning:card iconName="standard:avatar" title="Leads">
-		<lightning:datatable aura:id="datatable" data="{!v.leads}" columns="{!v.columns}" onrowselection="{!c.doSelect}" keyField="id" onsort="{!c.updateColumnSorting}" hideCheckboxColumn="false" resizeColumnDisabled="true" />
+		<lightning:datatable aura:id="datatable" data="{!v.leads}" columns="{!v.columns}" onrowselection="{!c.doSelect}" keyField="id" onsort="{!c.updateColumnSorting}" resizeColumnDisabled="true" />
 	</lightning:card>
 </aura:component>

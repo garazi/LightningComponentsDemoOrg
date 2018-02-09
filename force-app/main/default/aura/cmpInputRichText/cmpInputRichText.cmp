@@ -1,0 +1,8 @@
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" access="global">
+        <aura:attribute name="myVal" type="String" />
+<lightning:card title='inputRichText' class='slds-card_boundary'>
+<div class='slds-p-left_large slds-p-right_medium'>
+    <lightning:inputRichText value="{!v.myVal}" placeholder="Type something interesting"/>
+</div>
+</lightning:card>
+</aura:component>	

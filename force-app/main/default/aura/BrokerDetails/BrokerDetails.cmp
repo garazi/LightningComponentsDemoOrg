@@ -1,4 +1,4 @@
-<aura:component>
+<aura:component >
 	<aura:attribute name="recordId" type="Id" />
 	<aura:attribute name="broker" type="Broker__c" />
 
@@ -75,4 +75,3 @@
 			</lightning:recordEditForm>
 	</aura:if>
 </aura:component>
-

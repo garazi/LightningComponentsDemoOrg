@@ -44,7 +44,13 @@
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
+            <componentName>cmpVerticalNavigation</componentName>
+        </componentInstances>
+        <componentInstances>
             <componentName>cmpAvatar</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentName>cmpOverlay</componentName>
         </componentInstances>
         <componentInstances>
             <componentName>cmpBreadcrumbs</componentName>
@@ -60,6 +66,9 @@
         </componentInstances>
         <componentInstances>
             <componentName>cmpCombobox</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentName>cmpInputRichText</componentName>
         </componentInstances>
         <componentInstances>
             <componentName>cmpPath</componentName>
@@ -86,16 +95,6 @@
             <componentName>cmpTree</componentName>
         </componentInstances>
         <name>facet-5546c2fa-5d7d-4170-a2b1-b3b70555912d</name>
-        <type>Facet</type>
-    </flexiPageRegions>
-    <flexiPageRegions>
-        <componentInstances>
-            <componentName>cmpDuallistBox</componentName>
-        </componentInstances>
-        <componentInstances>
-            <componentName>ComponentLibrary</componentName>
-        </componentInstances>
-        <name>facet-779463ce-b7e5-4d1e-b56d-1ed9dcc4c54b</name>
         <type>Facet</type>
     </flexiPageRegions>
     <flexiPageRegions>
@@ -159,17 +158,6 @@
             <componentInstanceProperties>
                 <name>title</name>
                 <value>Components</value>
-            </componentInstanceProperties>
-            <componentName>flexipage:tab</componentName>
-        </componentInstances>
-        <componentInstances>
-            <componentInstanceProperties>
-                <name>body</name>
-                <value>facet-779463ce-b7e5-4d1e-b56d-1ed9dcc4c54b</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>title</name>
-                <value>Component Library</value>
             </componentInstanceProperties>
             <componentName>flexipage:tab</componentName>
         </componentInstances>

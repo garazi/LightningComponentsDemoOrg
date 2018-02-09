@@ -1,0 +1,21 @@
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" access="global">
+	<aura:attribute name="recordId" type="Id" />
+    <aura:attribute name="objectName" type="String" default="Contact" />
+    <aura:attribute name="theRecord" type="Object" />
+    
+    <force:recordData aura:id="aRecord" 
+						   recordId="{!v.recordId}" 
+						   targetFields="{!v.theRecord}" 
+                           layoutType="FULL" />
+                           
+	<lightning:card title='TEST' iconName="custom:custom103" class='slds-card_boundary'>
+		<div class='slds-p-left_large slds-p-right_medium'>
+            {!v.theRecord.Name}
+			<lightning:recordEditForm recordId="{!v.recordId}" objectApiName="{!v.objectName}">
+				<lightning:outputField fieldName="Name" />
+				<lightning:inputField fieldName="AccountId" />
+			</lightning:recordEditForm>
+		</div>
+	</lightning:card>
+</aura:component>
+
