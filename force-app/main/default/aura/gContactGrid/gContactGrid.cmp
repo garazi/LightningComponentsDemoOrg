@@ -1,0 +1,32 @@
+<aura:component controller="gContacts" implements="flexipage:availableForRecordHome,force:hasRecordId" access="global" >
+    <aura:attribute name="recordId" type="Id" />
+    <aura:attribute name="contactRecords" type="Contact" />
+    <aura:attribute name="gridColumns" type="List" />
+    <aura:attribute name="gridData" type="Object" />
+    <aura:attribute name="acct" type="Account" />
+    <aura:attribute name="selectedRecord" type="String" />
+    <aura:attribute name="showDialog" type="String" />
+    
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+
+    <force:recordData aura:id="accountRecord" 
+                      recordId="{!v.recordId}" 
+                      targetFields="{!v.acct}" 
+                      layoutType="FULL" 
+                      />
+
+    <force:recordData aura:id="tmp"
+                      targetFields="{!v.temp}"
+                      layoutType="FULL"
+                      recordUpdated="{!c.doReload}" />
+
+    <lightning:card iconName="standard:user" title="{! 'Contacts for ' + v.acct.Name}">
+        <lightning:treeGrid columns="{! v.gridColumns }"
+                            data="{! v.gridData }"
+                            keyField="Id"
+                            onrowaction="{! c.handleRowAction }">
+        </lightning:treeGrid>
+        <c:gContactGridEdit recordId="{!v.selectedRecord}" showDialog="{!v.showDialog}" />
+        
+    </lightning:card>
+</aura:component>

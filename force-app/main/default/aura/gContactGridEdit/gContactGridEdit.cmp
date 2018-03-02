@@ -1,0 +1,31 @@
+<aura:component >
+    <aura:attribute name="showDialog" type="String" default="false" />
+    
+    <aura:attribute name="recordId" type="Id"/>
+    <aura:handler name="change" value="{!v.showDialog}" action="{!c.toggleDialog}" />
+    
+    <div aura:id="editDialog" id="eDialog" role="dialog" tabindex="-1" aria-labelledby="header43" class="slds-modal">
+        <div class="slds-modal__container">
+            <div class="slds-modal__header">
+                <lightning:buttonIcon iconName="utility:close" class="slds-modal__close" variant="bare-inverse" onclick="{! c.toggleDialog }" alternativeText="Close window" />
+                <h2 class="slds-text-heading--medium">Edit Record</h2>
+            </div>
+            <div class="slds-modal__content slds-p-around--medium slds-grid slds-wrap slds-grid--align-center">
+                
+                <lightning:recordEditForm aura:id="editForm" recordId="{!v.recordId}" objectApiName="Contact" onsuccess="{!c.fireToast}">
+                    <lightning:messages />
+                            <lightning:inputField aura:id="nameField" fieldName="Name" />
+                    <lightning:inputField fieldName="Title" /> 
+                    <lightning:inputField fieldName="MailingAddress" />
+                    <lightning:inputField fieldName="Phone" />
+                    <lightning:inputField fieldName="Email" />
+                        <lightning:layout horizontalAlign="center" class="slds-m-top_large">
+                            <lightning:button variant="neutral" label="Cancel" title="Cancel" type="button" onclick="{!c.toggleDialog}"/>
+                            <lightning:button variant="brand" label="Submit" title="Submit" type="submit" />
+                        </lightning:layout>
+                </lightning:recordEditForm>
+            </div>
+        </div>
+    </div>
+    <div aura:id="overlay" class="slds-backdrop"></div>
+</aura:component>

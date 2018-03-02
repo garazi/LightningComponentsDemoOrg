@@ -70,7 +70,8 @@
             "contentHash": "272f7645dcdffd423708df9a2009088b2a62cd00",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -83,20 +84,22 @@
             "changeTime": 1516045550183,
             "contentHash": "bf39bb902229084615b33f09aeec4c98ad2bcdcd",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 1760,
-            "modifiedTime": 1517956447462,
-            "changeTime": 1517956447462,
-            "contentHash": "4c12c620a28b8885996ea1a6b9c047844b510cd6",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 1856,
+            "modifiedTime": 1520014819306,
+            "changeTime": 1520014819306,
+            "contentHash": "bd0260e746945f68f4a38acd7784f739c8363f1b"
         }
     ],
     [
@@ -119,10 +122,10 @@
         {
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard/BrokerCard.cmp",
             "isDirectory": false,
-            "size": 2272,
-            "modifiedTime": 1517937642444,
-            "changeTime": 1517937642444,
-            "contentHash": "0c55d05384b11e07dedc53f862e97d55919c232e",
+            "size": 2133,
+            "modifiedTime": 1519862623723,
+            "changeTime": 1519862623723,
+            "contentHash": "3db4ed1511d49ffa3d4968aa8ef0691c30ee6e8e",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -163,14 +166,13 @@
         {
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard/BrokerCardController.js",
             "isDirectory": false,
-            "size": 839,
-            "modifiedTime": 1511299479000,
-            "changeTime": 1511299479000,
-            "contentHash": "4b5e91d75b9bba7bc275a5918c49b149ca71c45f",
+            "size": 845,
+            "modifiedTime": 1519862657609,
+            "changeTime": 1519862657609,
+            "contentHash": "67d7bb32ef65c710d7592b7797d8d8c8e79cd0ff",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -210,7 +212,7 @@
             "isDirectory": true,
             "size": 256,
             "modifiedTime": 1517428676231,
-            "changeTime": 1509051388000,
+            "changeTime": 1517428676231,
             "contentHash": "d6e5e502c534adc422468c13ca9d7209728120bb",
             "isMetadataFile": false,
             "state": "u",
@@ -224,11 +226,13 @@
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerDetails/BrokerDetails.cmp",
             "isDirectory": false,
             "size": 4198,
-            "modifiedTime": 1517448342866,
-            "changeTime": 1517448342866,
+            "modifiedTime": 1519325622011,
+            "changeTime": 1519325622011,
             "contentHash": "e7e525c58883cf49401a8cfb3c4cacec33f2bb31",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -241,7 +245,9 @@
             "changeTime": 1517428676226,
             "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -254,7 +260,9 @@
             "changeTime": 1517428676231,
             "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -267,7 +275,9 @@
             "changeTime": 1517428676227,
             "contentHash": "99c754fcaae0176c4e89e1a9caa6be3c0bdac690",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -280,7 +290,9 @@
             "changeTime": 1517428676229,
             "contentHash": "45d12b7c3a646365e319e10b44b37fe423c0d1fe",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -293,7 +305,9 @@
             "changeTime": 1517428676228,
             "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -532,7 +546,8 @@
             "contentHash": "6b889951b7727191534d89c83cf2a0bbb043000e",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -555,13 +570,14 @@
         {
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/LeadsComponent/LeadsComponentController.js",
             "isDirectory": false,
-            "size": 1685,
-            "modifiedTime": 1518194884614,
-            "changeTime": 1518194884614,
-            "contentHash": "8cc95c89e6b93025dfd745100a49ac58becf576d",
+            "size": 1690,
+            "modifiedTime": 1519258982588,
+            "changeTime": 1519258982588,
+            "contentHash": "86267bca380738667b8b9e9dbd0199b0f93ec1ae",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1055,7 +1071,8 @@
             "contentHash": "fe1db6e4c0395fdf4233acc6bc81b7c1389a4e8d",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1142,6 +1159,156 @@
             "modifiedTime": 1509726445000,
             "changeTime": 1509726445000,
             "contentHash": "0c1b09f07522024c0128168653e5ff5254f1714e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1516915483934,
+            "changeTime": 1516915483934,
+            "contentHash": "3920d91b49588dccdc90a3fa771a64dc86cf587f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverride.auradoc",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverride.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1516915483933,
+            "changeTime": 1516915483933,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverride.cmp",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverride.cmp",
+            "isDirectory": false,
+            "size": 2003,
+            "modifiedTime": 1516982491308,
+            "changeTime": 1516982491308,
+            "contentHash": "33a7fc3c9e12d494189fad3c68e6ad19e818e84d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverride.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverride.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 251,
+            "modifiedTime": 1517257546016,
+            "changeTime": 1517257546016,
+            "contentHash": "0afd87d5967b59872415b3230452aec2eaf37546",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverride.css",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverride.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1516915483931,
+            "changeTime": 1516915483931,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverride.design",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverride.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1516915483934,
+            "changeTime": 1516915483934,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverride.svg",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverride.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1516915483933,
+            "changeTime": 1516915483933,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverrideController.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverrideController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1516915483930,
+            "changeTime": 1516915483930,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverrideHelper.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverrideHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1516915483930,
+            "changeTime": 1516915483930,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverrideRenderer.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverrideRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1516915483932,
+            "changeTime": 1516915483932,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -1969,7 +2136,8 @@
             "contentHash": "a28f0d54f6d718e6aa8313c2296292d84f6c290f",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -2170,15 +2338,16 @@
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarProperty/SimilarProperty.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/SimilarProperty/SimilarProperty.cmp",
             "isDirectory": false,
+            "size": 2307,
+            "modifiedTime": 1519259112781,
+            "changeTime": 1519259112781,
+            "contentHash": "dc0e560137902b963b2bce1ae5487bfb27d84cdd",
             "isMetadataFile": false,
-            "size": 2426,
-            "modifiedTime": 1518200975367,
-            "changeTime": 1518200975367,
+            "state": "u",
             "isWorkspace": false,
-            "contentHash": "42cad3e604fab8590e8fce0c6e392ccc3ea9cdac"
+            "isArtifactRoot": false
         }
     ],
     [
@@ -3197,7 +3366,8 @@
             "contentHash": "b3e910d9152c5ed310175f910db6189793aa336a",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -3381,6 +3551,305 @@
         }
     ],
     [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1517937676549,
+            "changeTime": 1517937676549,
+            "contentHash": "296f3e832724f488bed0244ca619c966af55f94c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichText.auradoc",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichText.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1517937676549,
+            "changeTime": 1517937676549,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichText.cmp",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichText.cmp",
+            "isDirectory": false,
+            "size": 404,
+            "modifiedTime": 1517938082105,
+            "changeTime": 1517938082105,
+            "contentHash": "70cb772769ea7033aa92b5b92036c0ae7733c1a2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichText.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichText.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 248,
+            "modifiedTime": 1517937676547,
+            "changeTime": 1517937676547,
+            "contentHash": "ba7da4d41940d2c505c9ff399acf85ac3e1e55e1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichText.css",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichText.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1517937676548,
+            "changeTime": 1517937676548,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichText.design",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichText.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1517937676549,
+            "changeTime": 1517937676549,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichText.svg",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichText.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1517937676548,
+            "changeTime": 1517937676548,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichTextController.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichTextController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1517937676547,
+            "changeTime": 1517937676547,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichTextHelper.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichTextHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1517937676547,
+            "changeTime": 1517937676547,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichTextRenderer.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichTextRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1517937676548,
+            "changeTime": 1517937676548,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1517956447465,
+            "changeTime": 1517956447465,
+            "contentHash": "51bf0eba4daab8b06abe32beb32af1604cee7508",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTest.auradoc",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTest.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1517956447465,
+            "changeTime": 1517956447465,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTest.cmp",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTest.cmp",
+            "isDirectory": false,
+            "size": 1548,
+            "modifiedTime": 1519860094398,
+            "changeTime": 1519860094398,
+            "contentHash": "5d8d487a6ca395ea087a904b0f0015056fb2b3e9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTest.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTest.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1517956691182,
+            "changeTime": 1517956691182,
+            "contentHash": "09655c50fd05c47e239f2cf685fa334b1ac0807f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTest.css",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTest.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1517956447464,
+            "changeTime": 1517956447464,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTest.design",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTest.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1517956447465,
+            "changeTime": 1517956447465,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTest.svg",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTest.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1517956447464,
+            "changeTime": 1517956447464,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTestController.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTestController.js",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1517959441235,
+            "changeTime": 1517959441235,
+            "contentHash": "b304c05cd2d260a7b843ff1783d455d9736b45ef",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTestHelper.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTestHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1517956447463,
+            "changeTime": 1517956447463,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTestRenderer.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTestRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1517956447464,
+            "changeTime": 1517956447464,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpListView",
         {
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpListView",
@@ -3415,10 +3884,10 @@
         {
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpListView/cmpListView.cmp",
             "isDirectory": false,
-            "size": 37,
-            "modifiedTime": 1513717332259,
-            "changeTime": 1513717332259,
-            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
+            "size": 498,
+            "modifiedTime": 1519315548794,
+            "changeTime": 1519315548794,
+            "contentHash": "97539d6af25f0e4b3fbcc6421df09a47747d1a5b",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -3431,9 +3900,9 @@
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpListView/cmpListView.cmp-meta.xml",
             "isDirectory": false,
             "size": 243,
-            "modifiedTime": 1513717332260,
-            "changeTime": 1513717332260,
-            "contentHash": "a7bfc3ec83a249d25351528eb9c3057b98177b99",
+            "modifiedTime": 1519315342145,
+            "changeTime": 1519315342145,
+            "contentHash": "bfb7af0b4d7d1bb778a8f715a4f414e2bdde0836",
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -3523,6 +3992,306 @@
             "size": 50,
             "modifiedTime": 1513717332262,
             "changeTime": 1513717332262,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1516907255729,
+            "changeTime": 1516907255729,
+            "contentHash": "e74f1a3d9eaa4a3622f9c0619da447b82c518c7b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContent.auradoc",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContent.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1516907255729,
+            "changeTime": 1516907255729,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContent.cmp",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContent.cmp",
+            "isDirectory": false,
+            "size": 165,
+            "modifiedTime": 1516907272128,
+            "changeTime": 1516907272128,
+            "contentHash": "d39a77d529e119adb84ceea388488097ab13b45f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContent.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1516907255727,
+            "changeTime": 1516907255727,
+            "contentHash": "b933cfe1b4561fe131b2b28dc7cebcadb3a528df",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContent.css",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContent.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1516907255728,
+            "changeTime": 1516907255728,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContent.design",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContent.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1516907255729,
+            "changeTime": 1516907255729,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContent.svg",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContent.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1516907255728,
+            "changeTime": 1516907255728,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContentController.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContentController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1516907255727,
+            "changeTime": 1516907255727,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContentHelper.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContentHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1516907255728,
+            "changeTime": 1516907255728,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContentRenderer.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContentRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1516907255728,
+            "changeTime": 1516907255728,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1516906755998,
+            "changeTime": 1516906755998,
+            "contentHash": "14b77ce324ffe2eec8ff2874155e207f17b8ee4d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlay.auradoc",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlay.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1516906755998,
+            "changeTime": 1516906755998,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlay.cmp",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlay.cmp",
+            "isDirectory": false,
+            "size": 401,
+            "modifiedTime": 1516907395724,
+            "changeTime": 1516907395724,
+            "contentHash": "18f38fb75a3cb5412bc947516b47a7f3a9797958",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlay.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlay.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1516906755996,
+            "changeTime": 1516906755996,
+            "contentHash": "c978e1523433bc761f94530cd7c180f1088780ed",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlay.css",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlay.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1516906755997,
+            "changeTime": 1516906755997,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlay.design",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlay.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1516906755998,
+            "changeTime": 1516906755998,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlay.svg",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlay.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1516906755997,
+            "changeTime": 1516906755997,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlayController.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlayController.js",
+            "isDirectory": false,
+            "size": 1005,
+            "modifiedTime": 1516907461431,
+            "changeTime": 1516907461431,
+            "contentHash": "94fb916bcfd89d9f7d31730b5b6d49884086dad3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlayHelper.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlayHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1516906755996,
+            "changeTime": 1516906755996,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlayRenderer.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlayRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1516906755997,
+            "changeTime": 1516906755997,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
             "state": "u",
@@ -4311,6 +5080,156 @@
         }
     ],
     [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1517009322089,
+            "changeTime": 1517009322089,
+            "contentHash": "1825d43d8842cc7be6aa83300e3dd29bd6a51fd6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrash.auradoc",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrash.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1517009322089,
+            "changeTime": 1517009322089,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrash.cmp",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrash.cmp",
+            "isDirectory": false,
+            "size": 37,
+            "modifiedTime": 1517009322086,
+            "changeTime": 1517009322086,
+            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrash.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrash.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 240,
+            "modifiedTime": 1517009322087,
+            "changeTime": 1517009322087,
+            "contentHash": "7b2f3f672d4738e7fad9d6ed21eb02c339618c1b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrash.css",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrash.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1517009322088,
+            "changeTime": 1517009322088,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrash.design",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrash.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1517009322089,
+            "changeTime": 1517009322089,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrash.svg",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrash.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1517009322089,
+            "changeTime": 1517009322089,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrashController.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrashController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1517009322087,
+            "changeTime": 1517009322087,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrashHelper.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrashHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1517009322088,
+            "changeTime": 1517009322088,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrashRenderer.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrashRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1517009322088,
+            "changeTime": 1517009322088,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTree",
         {
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTree",
@@ -4416,6 +5335,305 @@
         }
     ],
     [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTreeGrid",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTreeGrid",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1519314850116,
+            "changeTime": 1519314850116,
+            "contentHash": "93d3dfafa7842eb624abde3afce9aea2bae9bc18",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTreeGrid/cmpTreeGrid.auradoc",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTreeGrid/cmpTreeGrid.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1519314850116,
+            "changeTime": 1519314850116,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTreeGrid/cmpTreeGrid.cmp",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTreeGrid/cmpTreeGrid.cmp",
+            "isDirectory": false,
+            "size": 752,
+            "modifiedTime": 1519315151371,
+            "changeTime": 1519315151371,
+            "contentHash": "5ce14d90a4539c93a4acd71033665b897942883a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTreeGrid/cmpTreeGrid.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTreeGrid/cmpTreeGrid.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 243,
+            "modifiedTime": 1519314850114,
+            "changeTime": 1519314850114,
+            "contentHash": "d3ea7aac2bd31ca5fa37ed4888ec5ec228174a21",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTreeGrid/cmpTreeGrid.css",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTreeGrid/cmpTreeGrid.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1519314850115,
+            "changeTime": 1519314850115,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTreeGrid/cmpTreeGrid.design",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTreeGrid/cmpTreeGrid.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1519314850116,
+            "changeTime": 1519314850116,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTreeGrid/cmpTreeGrid.svg",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTreeGrid/cmpTreeGrid.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1519314850115,
+            "changeTime": 1519314850115,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTreeGrid/cmpTreeGridController.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTreeGrid/cmpTreeGridController.js",
+            "isDirectory": false,
+            "size": 7995,
+            "modifiedTime": 1519845037843,
+            "changeTime": 1519845037843,
+            "contentHash": "65e1c9c149c2ebbef85bb8b157f3cedadf619208",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTreeGrid/cmpTreeGridHelper.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTreeGrid/cmpTreeGridHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1519314850114,
+            "changeTime": 1519314850114,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTreeGrid/cmpTreeGridRenderer.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTreeGrid/cmpTreeGridRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1519314850115,
+            "changeTime": 1519314850115,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1516982054291,
+            "changeTime": 1516982054291,
+            "contentHash": "83d436972044db85e6fb65dda3135f2fe568c8b4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigation.auradoc",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigation.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1516982054291,
+            "changeTime": 1516982054291,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigation.cmp",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigation.cmp",
+            "isDirectory": false,
+            "size": 1135,
+            "modifiedTime": 1516982262517,
+            "changeTime": 1516982262517,
+            "contentHash": "5f070bd99f6d2850cc0d63eb7cb652b1c809794a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigation.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigation.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 253,
+            "modifiedTime": 1516982054289,
+            "changeTime": 1516982054289,
+            "contentHash": "1d9b05b7ceeafdc29f963ade5e77aa5632555c23",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigation.css",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigation.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1516982054290,
+            "changeTime": 1516982054290,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigation.design",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigation.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1516982054292,
+            "changeTime": 1516982054292,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigation.svg",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigation.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1516982054291,
+            "changeTime": 1516982054291,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigationController.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigationController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1516982054289,
+            "changeTime": 1516982054289,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigationHelper.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigationHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1516982054290,
+            "changeTime": 1516982054290,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigationRenderer.js",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigationRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1516982054290,
+            "changeTime": 1516982054290,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/recordUpdated",
         {
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/recordUpdated",
@@ -4454,6 +5672,51 @@
             "modifiedTime": 1508179868000,
             "changeTime": 1508179868000,
             "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/standaloneApp",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/standaloneApp",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1516398392444,
+            "changeTime": 1516398392444,
+            "contentHash": "11d5b54666c1559cd90288c85efc9a13c068eacf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/standaloneApp/standaloneApp.app",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/standaloneApp/standaloneApp.app",
+            "isDirectory": false,
+            "size": 608,
+            "modifiedTime": 1516398392444,
+            "changeTime": 1516398392444,
+            "contentHash": "871284ed422543f4f676d3ec3fe1c14b2ef25f2c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/standaloneApp/standaloneApp.app-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/standaloneApp/standaloneApp.app-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1516398392444,
+            "changeTime": 1516398392444,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -4508,16 +5771,14 @@
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes",
         {
+            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes",
             "isDirectory": true,
-            "size": 960,
-            "modifiedTime": 1510687307000,
-            "changeTime": 1510687307000,
-            "contentHash": "734f86241c0ca29e421419f9a8c96f1d86f4e278",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 1024,
+            "modifiedTime": 1520014819325,
+            "changeTime": 1520014819325,
+            "contentHash": "71ee5d6211d829b2cf28d45921ce237e965da58a"
         }
     ],
     [
@@ -5033,14 +6294,14 @@
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages",
         {
+            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages",
             "isDirectory": true,
-            "size": 384,
-            "modifiedTime": 1518028147053,
-            "changeTime": 1518028147053,
-            "contentHash": "b69701264ca9cea6962020fab69687b69ce04fb4",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 448,
+            "modifiedTime": 1520014819315,
+            "changeTime": 1520014819315,
+            "contentHash": "70bc65ba9ce369caaedaa86161f1e1a0f0df56de"
         }
     ],
     [
@@ -5074,6 +6335,21 @@
         }
     ],
     [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Contact_Record_Page1.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Contact_Record_Page1.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 6104,
+            "modifiedTime": 1518028147053,
+            "changeTime": 1518028147053,
+            "contentHash": "5f29b4b562abee01c429b16e89329607007cdfb6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Custom_Property_record_template.flexipage-meta.xml",
         {
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Custom_Property_record_template.flexipage-meta.xml",
@@ -5091,14 +6367,14 @@
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Property_Record_Page.flexipage-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Property_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
-            "size": 9891,
-            "modifiedTime": 1518028147050,
-            "changeTime": 1518028147050,
-            "contentHash": "617e6c78bc6741219b26df9ff8ad16b55f1c2377",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 10005,
+            "modifiedTime": 1520014819324,
+            "changeTime": 1520014819324,
+            "contentHash": "57640805a2729a8097e687ea36b1d38358994662"
         }
     ],
     [
@@ -5124,6 +6400,21 @@
             "size": 381,
             "modifiedTime": 1513628985033,
             "changeTime": 1513628985033,
+            "contentHash": "aa82780a605ac7022df69fd73f5de49d569d1643",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/TestApp_UtilityBar1.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/TestApp_UtilityBar1.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 381,
+            "modifiedTime": 1516045550180,
+            "changeTime": 1516045550180,
             "contentHash": "aa82780a605ac7022df69fd73f5de49d569d1643",
             "isMetadataFile": true,
             "state": "u",
@@ -5186,7 +6477,39 @@
             "changeTime": 1518028147042,
             "contentHash": "bc99a2a2397e4199ccd0c9918a9d948ec16a472f",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 10876,
+            "modifiedTime": 1518028147042,
+            "changeTime": 1518028147042,
+            "contentHash": "793b1f644e44aca6a284596be2c2b479adc2af43",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 10860,
+            "modifiedTime": 1518028147038,
+            "changeTime": 1518028147038,
+            "contentHash": "c802b3cd9b8ebdff5c108af4e28c392b5444f171",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -6250,7 +7573,8 @@
             "contentHash": "44085e6d8f1263e0d9601dabe9334c9850327d73",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -6305,7 +7629,7 @@
             "isDirectory": true,
             "size": 128,
             "modifiedTime": 1516052811669,
-            "changeTime": 1513211579000,
+            "changeTime": 1516052811669,
             "contentHash": "7adeb2afb79212cb5e58e4ec00cadcf2737045c1",
             "isMetadataFile": false,
             "state": "u",
@@ -6323,7 +7647,9 @@
             "changeTime": 1516052811669,
             "contentHash": "fdd6c87995f23dbbf287ea2a437a9207b7dcb856",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -6333,7 +7659,7 @@
             "isDirectory": true,
             "size": 128,
             "modifiedTime": 1516052799563,
-            "changeTime": 1513102812000,
+            "changeTime": 1516052799563,
             "contentHash": "7e77a1548f243fe20b9fcb5e587dd5e11a6d0d9e",
             "isMetadataFile": false,
             "state": "u",
@@ -6346,12 +7672,14 @@
         {
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 26970,
-            "modifiedTime": 1516053940426,
-            "changeTime": 1516053940426,
-            "contentHash": "5789154649ad8ae987a1949b69ed4e5e77e8008d",
+            "size": 27067,
+            "modifiedTime": 1518722364429,
+            "changeTime": 1518722364429,
+            "contentHash": "df11d5e847ab424ea80de4709d7c1e0bd206aeaa",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -6439,7 +7767,9 @@
             "changeTime": 1516398392483,
             "contentHash": "9440017bf76d81a104091737cde7a79890341215",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -6923,1004 +8253,185 @@
         }
     ],
     [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/TestApp_UtilityBar1.flexipage-meta.xml",
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGrid/gContactGrid.cmp-meta.xml",
         {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/TestApp_UtilityBar1.flexipage-meta.xml",
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGrid/gContactGrid.cmp-meta.xml",
             "isDirectory": false,
-            "size": 381,
-            "modifiedTime": 1516045550180,
-            "changeTime": 1516045550180,
-            "contentHash": "aa82780a605ac7022df69fd73f5de49d569d1643",
             "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/standaloneApp/standaloneApp.app-meta.xml",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/standaloneApp/standaloneApp.app-meta.xml",
-            "isDirectory": false,
             "size": 228,
-            "modifiedTime": 1516398392444,
-            "changeTime": 1516398392444,
-            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "modifiedTime": 1520014819304,
+            "changeTime": 1520014819304,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGrid/gContactGrid.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGrid/gContactGrid.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1439,
+            "modifiedTime": 1520014819305,
+            "changeTime": 1520014819305,
+            "contentHash": "b8dc8f8b5dd6956e0783a41cabde27ad7824de6f"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGrid/gContactGridHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGrid/gContactGridHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1808,
+            "modifiedTime": 1520014819305,
+            "changeTime": 1520014819305,
+            "contentHash": "2f6b4b9457dd433aafb4ef104808a65e981db446"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGrid/gContactGridController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGrid/gContactGridController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2607,
+            "modifiedTime": 1520014819305,
+            "changeTime": 1520014819305,
+            "contentHash": "ca0af2bd86d0f1a26b2940850573c1d67b5f1464"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGridEdit/gContactGridEdit.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGridEdit/gContactGridEdit.cmp-meta.xml",
+            "isDirectory": false,
             "isMetadataFile": true,
-            "state": "u"
+            "size": 228,
+            "modifiedTime": 1520014819306,
+            "changeTime": 1520014819306,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772"
         }
     ],
     [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/standaloneApp/standaloneApp.app",
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGridEdit/gContactGridEdit.cmp",
         {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/standaloneApp/standaloneApp.app",
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGridEdit/gContactGridEdit.cmp",
             "isDirectory": false,
-            "size": 608,
-            "modifiedTime": 1516398392444,
-            "changeTime": 1516398392444,
-            "contentHash": "871284ed422543f4f676d3ec3fe1c14b2ef25f2c",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 1914,
+            "modifiedTime": 1520014819307,
+            "changeTime": 1520014819307,
+            "contentHash": "c3db4540fa9d938431b24c78a39d112ede92291f"
         }
     ],
     [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/standaloneApp",
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGridEdit/gContactGridEditHelper.js",
         {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/standaloneApp",
-            "isDirectory": true,
-            "size": 128,
-            "modifiedTime": 1516398392444,
-            "changeTime": 1516398392444,
-            "contentHash": "11d5b54666c1559cd90288c85efc9a13c068eacf",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent",
-            "isDirectory": true,
-            "size": 352,
-            "modifiedTime": 1516907255729,
-            "changeTime": 1516907255729,
-            "contentHash": "e74f1a3d9eaa4a3622f9c0619da447b82c518c7b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay",
-            "isDirectory": true,
-            "size": 352,
-            "modifiedTime": 1516906755998,
-            "changeTime": 1516906755998,
-            "contentHash": "14b77ce324ffe2eec8ff2874155e207f17b8ee4d",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContent.auradoc",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContent.auradoc",
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGridEdit/gContactGridEditHelper.js",
             "isDirectory": false,
-            "size": 209,
-            "modifiedTime": 1516907255729,
-            "changeTime": 1516907255729,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 562,
+            "modifiedTime": 1520014819307,
+            "changeTime": 1520014819307,
+            "contentHash": "f0105bad21730a46b3a6b0bbfa5fdedc565c277e"
         }
     ],
     [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContent.cmp",
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGridEdit/gContactGridEditController.js",
         {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContent.cmp",
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGridEdit/gContactGridEditController.js",
             "isDirectory": false,
-            "size": 165,
-            "modifiedTime": 1516907272128,
-            "changeTime": 1516907272128,
-            "contentHash": "d39a77d529e119adb84ceea388488097ab13b45f",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 477,
+            "modifiedTime": 1520014819307,
+            "changeTime": 1520014819307,
+            "contentHash": "b969955870e3082f57aa1d6372242fcfe63f54d1"
         }
     ],
     [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContent.cmp-meta.xml",
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
         {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContent.cmp-meta.xml",
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
-            "size": 247,
-            "modifiedTime": 1516907255727,
-            "changeTime": 1516907255727,
-            "contentHash": "b933cfe1b4561fe131b2b28dc7cebcadb3a528df",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 6240,
+            "modifiedTime": 1520014819310,
+            "changeTime": 1520014819310,
+            "contentHash": "dd6ab3c135471967dbe941680149b90e72281892"
         }
     ],
     [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContent.css",
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Contact_Record_Page2.flexipage-meta.xml",
         {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContent.css",
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Contact_Record_Page2.flexipage-meta.xml",
             "isDirectory": false,
-            "size": 10,
-            "modifiedTime": 1516907255728,
-            "changeTime": 1516907255728,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContent.design",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContent.design",
-            "isDirectory": false,
-            "size": 40,
-            "modifiedTime": 1516907255729,
-            "changeTime": 1516907255729,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContent.svg",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContent.svg",
-            "isDirectory": false,
-            "size": 661,
-            "modifiedTime": 1516907255728,
-            "changeTime": 1516907255728,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContentController.js",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContentController.js",
-            "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1516907255727,
-            "changeTime": 1516907255727,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContentHelper.js",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContentHelper.js",
-            "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1516907255728,
-            "changeTime": 1516907255728,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContentRenderer.js",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpModalContent/cmpModalContentRenderer.js",
-            "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1516907255728,
-            "changeTime": 1516907255728,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlay.auradoc",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlay.auradoc",
-            "isDirectory": false,
-            "size": 209,
-            "modifiedTime": 1516906755998,
-            "changeTime": 1516906755998,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlay.cmp",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlay.cmp",
-            "isDirectory": false,
-            "size": 401,
-            "modifiedTime": 1516907395724,
-            "changeTime": 1516907395724,
-            "contentHash": "18f38fb75a3cb5412bc947516b47a7f3a9797958",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlay.cmp-meta.xml",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlay.cmp-meta.xml",
-            "isDirectory": false,
-            "size": 242,
-            "modifiedTime": 1516906755996,
-            "changeTime": 1516906755996,
-            "contentHash": "c978e1523433bc761f94530cd7c180f1088780ed",
             "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlay.css",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlay.css",
-            "isDirectory": false,
-            "size": 10,
-            "modifiedTime": 1516906755997,
-            "changeTime": 1516906755997,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlay.design",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlay.design",
-            "isDirectory": false,
-            "size": 40,
-            "modifiedTime": 1516906755998,
-            "changeTime": 1516906755998,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlay.svg",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlay.svg",
-            "isDirectory": false,
-            "size": 661,
-            "modifiedTime": 1516906755997,
-            "changeTime": 1516906755997,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlayController.js",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlayController.js",
-            "isDirectory": false,
-            "size": 1005,
-            "modifiedTime": 1516907461431,
-            "changeTime": 1516907461431,
-            "contentHash": "94fb916bcfd89d9f7d31730b5b6d49884086dad3",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlayHelper.js",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlayHelper.js",
-            "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1516906755996,
-            "changeTime": 1516906755996,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlayRenderer.js",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpOverlay/cmpOverlayRenderer.js",
-            "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1516906755997,
-            "changeTime": 1516906755997,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride",
-            "isDirectory": true,
-            "size": 352,
-            "modifiedTime": 1516915483934,
-            "changeTime": 1516915483934,
-            "contentHash": "3920d91b49588dccdc90a3fa771a64dc86cf587f",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverride.auradoc",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverride.auradoc",
-            "isDirectory": false,
-            "size": 209,
-            "modifiedTime": 1516915483933,
-            "changeTime": 1516915483933,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverride.cmp",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverride.cmp",
-            "isDirectory": false,
-            "size": 2003,
-            "modifiedTime": 1516982491308,
-            "changeTime": 1516982491308,
-            "contentHash": "33a7fc3c9e12d494189fad3c68e6ad19e818e84d",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverride.cmp-meta.xml",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverride.cmp-meta.xml",
-            "isDirectory": false,
-            "size": 251,
-            "modifiedTime": 1517257546016,
-            "changeTime": 1517257546016,
-            "contentHash": "0afd87d5967b59872415b3230452aec2eaf37546",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverride.css",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverride.css",
-            "isDirectory": false,
-            "size": 10,
-            "modifiedTime": 1516915483931,
-            "changeTime": 1516915483931,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverride.design",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverride.design",
-            "isDirectory": false,
-            "size": 40,
-            "modifiedTime": 1516915483934,
-            "changeTime": 1516915483934,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverride.svg",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverride.svg",
-            "isDirectory": false,
-            "size": 661,
-            "modifiedTime": 1516915483933,
-            "changeTime": 1516915483933,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverrideController.js",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverrideController.js",
-            "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1516915483930,
-            "changeTime": 1516915483930,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverrideHelper.js",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverrideHelper.js",
-            "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1516915483930,
-            "changeTime": 1516915483930,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverrideRenderer.js",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/NewPropertyOverride/NewPropertyOverrideRenderer.js",
-            "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1516915483932,
-            "changeTime": 1516915483932,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation",
-            "isDirectory": true,
-            "size": 352,
-            "modifiedTime": 1516982054291,
-            "changeTime": 1516982054291,
-            "contentHash": "83d436972044db85e6fb65dda3135f2fe568c8b4",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigation.auradoc",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigation.auradoc",
-            "isDirectory": false,
-            "size": 209,
-            "modifiedTime": 1516982054291,
-            "changeTime": 1516982054291,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigation.cmp",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigation.cmp",
-            "isDirectory": false,
-            "size": 1135,
-            "modifiedTime": 1516982262517,
-            "changeTime": 1516982262517,
-            "contentHash": "5f070bd99f6d2850cc0d63eb7cb652b1c809794a",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigation.cmp-meta.xml",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigation.cmp-meta.xml",
-            "isDirectory": false,
-            "size": 253,
-            "modifiedTime": 1516982054289,
-            "changeTime": 1516982054289,
-            "contentHash": "1d9b05b7ceeafdc29f963ade5e77aa5632555c23",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigation.css",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigation.css",
-            "isDirectory": false,
-            "size": 10,
-            "modifiedTime": 1516982054290,
-            "changeTime": 1516982054290,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigation.design",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigation.design",
-            "isDirectory": false,
-            "size": 40,
-            "modifiedTime": 1516982054292,
-            "changeTime": 1516982054292,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigation.svg",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigation.svg",
-            "isDirectory": false,
-            "size": 661,
-            "modifiedTime": 1516982054291,
-            "changeTime": 1516982054291,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigationController.js",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigationController.js",
-            "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1516982054289,
-            "changeTime": 1516982054289,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigationHelper.js",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigationHelper.js",
-            "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1516982054290,
-            "changeTime": 1516982054290,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigationRenderer.js",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpVerticalNavigation/cmpVerticalNavigationRenderer.js",
-            "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1516982054290,
-            "changeTime": 1516982054290,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash",
-            "isDirectory": true,
-            "size": 352,
-            "modifiedTime": 1517009322089,
-            "changeTime": 1517009322089,
-            "contentHash": "1825d43d8842cc7be6aa83300e3dd29bd6a51fd6",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrash.auradoc",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrash.auradoc",
-            "isDirectory": false,
-            "size": 209,
-            "modifiedTime": 1517009322089,
-            "changeTime": 1517009322089,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrash.cmp",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrash.cmp",
-            "isDirectory": false,
-            "size": 37,
-            "modifiedTime": 1517009322086,
-            "changeTime": 1517009322086,
-            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrash.cmp-meta.xml",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrash.cmp-meta.xml",
-            "isDirectory": false,
-            "size": 240,
-            "modifiedTime": 1517009322087,
-            "changeTime": 1517009322087,
-            "contentHash": "7b2f3f672d4738e7fad9d6ed21eb02c339618c1b",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrash.css",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrash.css",
-            "isDirectory": false,
-            "size": 10,
-            "modifiedTime": 1517009322088,
-            "changeTime": 1517009322088,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrash.design",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrash.design",
-            "isDirectory": false,
-            "size": 40,
-            "modifiedTime": 1517009322089,
-            "changeTime": 1517009322089,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrash.svg",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrash.svg",
-            "isDirectory": false,
-            "size": 661,
-            "modifiedTime": 1517009322089,
-            "changeTime": 1517009322089,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrashController.js",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrashController.js",
-            "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1517009322087,
-            "changeTime": 1517009322087,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrashHelper.js",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrashHelper.js",
-            "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1517009322088,
-            "changeTime": 1517009322088,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrashRenderer.js",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTrash/cmpTrashRenderer.js",
-            "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1517009322088,
-            "changeTime": 1517009322088,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText",
-            "isDirectory": true,
-            "size": 352,
-            "modifiedTime": 1517937676549,
-            "changeTime": 1517937676549,
-            "contentHash": "296f3e832724f488bed0244ca619c966af55f94c",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichText.auradoc",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichText.auradoc",
-            "isDirectory": false,
-            "size": 209,
-            "modifiedTime": 1517937676549,
-            "changeTime": 1517937676549,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichText.cmp",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichText.cmp",
-            "isDirectory": false,
-            "size": 404,
-            "modifiedTime": 1517938082105,
-            "changeTime": 1517938082105,
-            "contentHash": "70cb772769ea7033aa92b5b92036c0ae7733c1a2",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichText.cmp-meta.xml",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichText.cmp-meta.xml",
-            "isDirectory": false,
-            "size": 248,
-            "modifiedTime": 1517937676547,
-            "changeTime": 1517937676547,
-            "contentHash": "ba7da4d41940d2c505c9ff399acf85ac3e1e55e1",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichText.css",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichText.css",
-            "isDirectory": false,
-            "size": 10,
-            "modifiedTime": 1517937676548,
-            "changeTime": 1517937676548,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichText.design",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichText.design",
-            "isDirectory": false,
-            "size": 40,
-            "modifiedTime": 1517937676549,
-            "changeTime": 1517937676549,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichText.svg",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichText.svg",
-            "isDirectory": false,
-            "size": 661,
-            "modifiedTime": 1517937676548,
-            "changeTime": 1517937676548,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichTextController.js",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichTextController.js",
-            "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1517937676547,
-            "changeTime": 1517937676547,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichTextHelper.js",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichTextHelper.js",
-            "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1517937676547,
-            "changeTime": 1517937676547,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichTextRenderer.js",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpInputRichText/cmpInputRichTextRenderer.js",
-            "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1517937676548,
-            "changeTime": 1517937676548,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest",
-            "isDirectory": true,
-            "size": 352,
-            "modifiedTime": 1517956447465,
-            "changeTime": 1517956447465,
-            "contentHash": "51bf0eba4daab8b06abe32beb32af1604cee7508",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTest.auradoc",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTest.auradoc",
-            "isDirectory": false,
-            "size": 209,
-            "modifiedTime": 1517956447465,
-            "changeTime": 1517956447465,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTest.cmp",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTest.cmp",
-            "isDirectory": false,
-            "size": 902,
-            "modifiedTime": 1518193554471,
-            "changeTime": 1518027772995,
-            "contentHash": "634f9baa5cdf3f6bac1453a758abe4a5452afe5d",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTest.cmp-meta.xml",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTest.cmp-meta.xml",
-            "isDirectory": false,
-            "size": 242,
-            "modifiedTime": 1517956691182,
-            "changeTime": 1517956691182,
-            "contentHash": "09655c50fd05c47e239f2cf685fa334b1ac0807f",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTest.css",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTest.css",
-            "isDirectory": false,
-            "size": 10,
-            "modifiedTime": 1517956447464,
-            "changeTime": 1517956447464,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTest.design",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTest.design",
-            "isDirectory": false,
-            "size": 40,
-            "modifiedTime": 1517956447465,
-            "changeTime": 1517956447465,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTest.svg",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTest.svg",
-            "isDirectory": false,
-            "size": 661,
-            "modifiedTime": 1517956447464,
-            "changeTime": 1517956447464,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTestController.js",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTestController.js",
-            "isDirectory": false,
-            "size": 196,
-            "modifiedTime": 1517959441235,
-            "changeTime": 1517959441235,
-            "contentHash": "b304c05cd2d260a7b843ff1783d455d9736b45ef",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTestHelper.js",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTestHelper.js",
-            "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1517956447463,
-            "changeTime": 1517956447463,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTestRenderer.js",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpLDSTest/cmpLDSTestRenderer.js",
-            "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1517956447464,
-            "changeTime": 1517956447464,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
-            "isDirectory": false,
-            "size": 10860,
-            "modifiedTime": 1518028147038,
-            "changeTime": 1518028147038,
-            "contentHash": "c802b3cd9b8ebdff5c108af4e28c392b5444f171",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
-            "isDirectory": false,
-            "size": 10876,
-            "modifiedTime": 1518028147042,
-            "changeTime": 1518028147042,
-            "contentHash": "793b1f644e44aca6a284596be2c2b479adc2af43",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Contact_Record_Page1.flexipage-meta.xml",
-        {
-            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Contact_Record_Page1.flexipage-meta.xml",
-            "isDirectory": false,
             "size": 6104,
-            "modifiedTime": 1518028147053,
-            "changeTime": 1518028147053,
-            "contentHash": "5f29b4b562abee01c429b16e89329607007cdfb6",
+            "modifiedTime": 1520014819315,
+            "changeTime": 1520014819315,
+            "contentHash": "5f29b4b562abee01c429b16e89329607007cdfb6"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/gContacts.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/gContacts.cls-meta.xml",
+            "isDirectory": false,
             "isMetadataFile": true,
-            "state": "u"
+            "size": 174,
+            "modifiedTime": 1520014819325,
+            "changeTime": 1520014819325,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/gContacts.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/gContacts.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 227,
+            "modifiedTime": 1520014819325,
+            "changeTime": 1520014819325,
+            "contentHash": "8e9cf2f681d88718b27de053d9edc33628d27539"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGrid",
+        {
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGrid",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1520014819305,
+            "changeTime": 1520014819305,
+            "contentHash": "509d34d13824440f0cc36682b95e590de800616d"
+        }
+    ],
+    [
+        "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGridEdit",
+        {
+            "state": "u",
+            "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGridEdit",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1520014819307,
+            "changeTime": 1520014819307,
+            "contentHash": "66b6901ec83318153d5ef954d091391f79bf74f1"
         }
     ]
 ]

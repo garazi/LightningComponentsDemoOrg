@@ -15,7 +15,7 @@
         action.setCallback(this, function(response){
             var leads = response.getReturnValue();
             leads.forEach(element => {
-                element.Id = "/foo/" + element.Id
+                element.Id = "/sObject/" + element.Id;
             });
             component.set("v.leads", leads);
             console.log("foobar: ", component.get("v.leads"));

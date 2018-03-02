@@ -2,7 +2,7 @@
 	<aura:attribute name="recordId" type="Id" />
     <aura:attribute name="objectName" type="String" default="Contact" />
     <aura:attribute name="theRecord" type="Object" />
-    
+    <aura:attribute name="myBool" type="Boolean" default="true"/>
     <force:recordData aura:id="aRecord" 
 						   recordId="{!v.recordId}" 
 						   targetFields="{!v.theRecord}" 
@@ -10,7 +10,17 @@
                            
 	<lightning:card title='TEST' iconName="custom:custom103" class='slds-card_boundary'>
 		<div class='slds-p-left_large slds-p-right_medium'>
-            {!v.theRecord.Name}
+			{!v.theRecord.Name}
+			<lightning:input type="tel" label="Phone field with pattern matching" name="phone3" value="343-343-3434" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" maxlength='10'/>
+
+			<lightning:icon iconName="utility:warning" alternativeText="warning" variant="warning" size="x-small"/>
+			<div class="slds-form-element">
+				<label class="slds-form-element__label slds-align-middle" for="form-help">Text Label
+					<lightning:helptext content="Helptext..." />
+				</label>
+				<lightning:input name="input1" label="Enter some text" variant="label-hidden"/>
+		   </div>
+<ui:outputCheckbox value="{!v.myBool}"/>
 			<lightning:recordEditForm recordId="{!v.recordId}" objectApiName="{!v.objectName}">
 				<lightning:outputField fieldName="Name" />
 				<lightning:inputField fieldName="AccountId" />

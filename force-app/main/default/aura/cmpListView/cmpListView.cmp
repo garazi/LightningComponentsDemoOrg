@@ -1,3 +1,14 @@
-<aura:component>
-
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" access="global">
+<lightning:card title='ListView' class='slds-card_boundary'>
+<div class='slds-p-left_large slds-p-right_medium'>
+        <lightning:listView aura:id="listViewAccounts"
+        objectApiName="Property__c"
+        listName="My_Listings"
+        rows="5"
+        showActionBar="false"
+        enableInlineEdit="true"
+        showRowLevelActions="false"
+    />
+</div>
+</lightning:card>
 </aura:component>	

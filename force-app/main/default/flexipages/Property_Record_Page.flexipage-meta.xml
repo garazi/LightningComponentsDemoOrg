@@ -44,6 +44,9 @@
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
+            <componentName>cmpTreeGrid</componentName>
+        </componentInstances>
+        <componentInstances>
             <componentName>cmpVerticalNavigation</componentName>
         </componentInstances>
         <componentInstances>
