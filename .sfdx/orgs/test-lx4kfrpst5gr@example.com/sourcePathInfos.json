@@ -92,14 +92,14 @@
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 1856,
             "modifiedTime": 1520014819306,
             "changeTime": 1520014819306,
-            "contentHash": "bd0260e746945f68f4a38acd7784f739c8363f1b"
+            "contentHash": "bd0260e746945f68f4a38acd7784f739c8363f1b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -5771,14 +5771,14 @@
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 1024,
             "modifiedTime": 1520014819325,
             "changeTime": 1520014819325,
-            "contentHash": "71ee5d6211d829b2cf28d45921ce237e965da58a"
+            "contentHash": "71ee5d6211d829b2cf28d45921ce237e965da58a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -6294,14 +6294,14 @@
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages",
         {
-            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 448,
             "modifiedTime": 1520014819315,
             "changeTime": 1520014819315,
-            "contentHash": "70bc65ba9ce369caaedaa86161f1e1a0f0df56de"
+            "contentHash": "70bc65ba9ce369caaedaa86161f1e1a0f0df56de",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -6367,14 +6367,14 @@
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Property_Record_Page.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Property_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10005,
             "modifiedTime": 1520014819324,
             "changeTime": 1520014819324,
-            "contentHash": "57640805a2729a8097e687ea36b1d38358994662"
+            "contentHash": "57640805a2729a8097e687ea36b1d38358994662",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -8255,66 +8255,66 @@
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGrid/gContactGrid.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGrid/gContactGrid.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1520014819304,
             "changeTime": 1520014819304,
-            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772"
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGrid/gContactGrid.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGrid/gContactGrid.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1439,
             "modifiedTime": 1520014819305,
             "changeTime": 1520014819305,
-            "contentHash": "b8dc8f8b5dd6956e0783a41cabde27ad7824de6f"
+            "contentHash": "b8dc8f8b5dd6956e0783a41cabde27ad7824de6f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGrid/gContactGridHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGrid/gContactGridHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1808,
             "modifiedTime": 1520014819305,
             "changeTime": 1520014819305,
-            "contentHash": "2f6b4b9457dd433aafb4ef104808a65e981db446"
+            "contentHash": "2f6b4b9457dd433aafb4ef104808a65e981db446",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGrid/gContactGridController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGrid/gContactGridController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2607,
             "modifiedTime": 1520014819305,
             "changeTime": 1520014819305,
-            "contentHash": "ca0af2bd86d0f1a26b2940850573c1d67b5f1464"
+            "contentHash": "ca0af2bd86d0f1a26b2940850573c1d67b5f1464",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGridEdit/gContactGridEdit.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGridEdit/gContactGridEdit.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1520014819306,
             "changeTime": 1520014819306,
-            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772"
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -8324,114 +8324,114 @@
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGridEdit/gContactGridEdit.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1914,
-            "modifiedTime": 1520014819307,
-            "changeTime": 1520014819307,
-            "contentHash": "c3db4540fa9d938431b24c78a39d112ede92291f"
+            "size": 2027,
+            "modifiedTime": 1520034667572,
+            "changeTime": 1520034667572,
+            "contentHash": "3ee57709065d43c56569a5f8d92d0ebb75a5ff68"
         }
     ],
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGridEdit/gContactGridEditHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGridEdit/gContactGridEditHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 562,
             "modifiedTime": 1520014819307,
             "changeTime": 1520014819307,
-            "contentHash": "f0105bad21730a46b3a6b0bbfa5fdedc565c277e"
+            "contentHash": "f0105bad21730a46b3a6b0bbfa5fdedc565c277e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGridEdit/gContactGridEditController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGridEdit/gContactGridEditController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 477,
             "modifiedTime": 1520014819307,
             "changeTime": 1520014819307,
-            "contentHash": "b969955870e3082f57aa1d6372242fcfe63f54d1"
+            "contentHash": "b969955870e3082f57aa1d6372242fcfe63f54d1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6240,
             "modifiedTime": 1520014819310,
             "changeTime": 1520014819310,
-            "contentHash": "dd6ab3c135471967dbe941680149b90e72281892"
+            "contentHash": "dd6ab3c135471967dbe941680149b90e72281892",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Contact_Record_Page2.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/flexipages/Contact_Record_Page2.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6104,
             "modifiedTime": 1520014819315,
             "changeTime": 1520014819315,
-            "contentHash": "5f29b4b562abee01c429b16e89329607007cdfb6"
+            "contentHash": "5f29b4b562abee01c429b16e89329607007cdfb6",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/gContacts.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/gContacts.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1520014819325,
             "changeTime": 1520014819325,
-            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/gContacts.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/classes/gContacts.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 227,
             "modifiedTime": 1520014819325,
             "changeTime": 1520014819325,
-            "contentHash": "8e9cf2f681d88718b27de053d9edc33628d27539"
+            "contentHash": "8e9cf2f681d88718b27de053d9edc33628d27539",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGrid",
         {
-            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGrid",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1520014819305,
             "changeTime": 1520014819305,
-            "contentHash": "509d34d13824440f0cc36682b95e590de800616d"
+            "contentHash": "509d34d13824440f0cc36682b95e590de800616d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGridEdit",
         {
-            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/gContactGridEdit",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1520014819307,
             "changeTime": 1520014819307,
-            "contentHash": "66b6901ec83318153d5ef954d091391f79bf74f1"
+            "contentHash": "66b6901ec83318153d5ef954d091391f79bf74f1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]

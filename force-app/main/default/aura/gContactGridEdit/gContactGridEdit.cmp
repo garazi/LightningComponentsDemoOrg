@@ -13,6 +13,8 @@
             <div class="slds-modal__content slds-p-around--medium slds-grid slds-wrap slds-grid--align-center">
                 
                 <lightning:recordEditForm aura:id="editForm" recordId="{!v.recordId}" objectApiName="Contact" onsuccess="{!c.fireToast}">
+                        <lightning:icon iconName="doctype:audio" alternativeText="Audio file" variant="bare" />
+
                     <lightning:messages />
                             <lightning:inputField aura:id="nameField" fieldName="Name" />
                     <lightning:inputField fieldName="Title" /> 
