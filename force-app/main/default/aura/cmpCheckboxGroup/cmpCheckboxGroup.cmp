@@ -6,12 +6,13 @@
         <aura:attribute name="value" type="List" default="option1"/>
         <lightning:card title="Checkbox Group Component" class="slds-card_boundary">
             <div class="slds-p-left_large slds-p-right_medium">
+                    <lightning:input type="toggle" label="Basic option" name="input1"/>
                     <lightning:checkboxGroup name="Checkbox Group"
                                              label="Checkbox Group"
                                              options="{! v.options }"
                                              value="{! v.value }"
                                              onchange="{! c.handleChange }"
-                                             class="slds-m-top_large" />
+                                             class="slds-m-top_large slds-checkbox_stacked" />
             </div>
         </lightning:card>
     </aura:component>

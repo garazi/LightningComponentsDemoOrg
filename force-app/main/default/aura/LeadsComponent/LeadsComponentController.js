@@ -6,7 +6,7 @@
         ];
         component.set("v.columns", [
             {label:"First Name", fieldName:"FirstName", type:"text"},
-            {label:"Last Name", fieldName:"LastName", type:"text"},
+            {label:"Last Name", fieldName:"LastName", type:"text",initialWidth:"85px"},
             {label:"Phone", fieldName:"Phone", type:"phone", sortable:"true"},
             {label:"Id", fieldName:"Id", type:"url"},
             { type: 'action', typeAttributes: { rowActions: actions } }

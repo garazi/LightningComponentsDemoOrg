@@ -1,6 +1,5 @@
 <aura:component >
 	<aura:attribute name="recordId" type="Id" />
-	<aura:attribute name="broker" type="Broker__c" />
 
 	<aura:if isTrue="{!v.recordId}">
 			<lightning:recordViewForm aura:id="viewForm" recordId="{!v.recordId}" objectApiName="Broker__c">

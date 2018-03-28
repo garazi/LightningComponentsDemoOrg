@@ -4,5 +4,7 @@
         <aura:dependency resource="c:SimilarPropertyEdit" />
         <aura:dependency resource="c:cmpTree" />
         <aura:dependency resource="c:cmpDuallistBox" />
+        <aura:dependency resource="c:BrokerCard" />
+        <aura:dependency resource="c:BrokerDetails" />
         <aura:dependency resource="markup://force:*" type="EVENT"/>
     </aura:application>

@@ -21,7 +21,7 @@
             console.log(result.state);
             if (result.state === "SUCCESS" || result.state === "DRAFT") {
                 var event = $A.get("e.c:recordUpdated");
-                // event.fire();
+                event.fire();
             } else if (result.state === "ERROR") {
                 console.log('Error: ' + JSON.stringify(result.error));
             } else {

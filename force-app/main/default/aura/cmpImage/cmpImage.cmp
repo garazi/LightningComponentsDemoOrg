@@ -1,0 +1,5 @@
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId">
+<div class="slds-card">
+    <img src="{! $Resource.puntadeleste}" width="122px" />
+</div>
+</aura:component>	
