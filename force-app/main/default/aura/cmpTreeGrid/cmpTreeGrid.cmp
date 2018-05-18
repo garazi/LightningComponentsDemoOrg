@@ -3,14 +3,19 @@
         <aura:attribute name="gridColumns" type="List" access="PRIVATE" />
         <aura:attribute name="gridData" type="Object" access="PRIVATE" />
         <aura:attribute name="gridExpandedRows" type="Object" access="PRIVATE" />
+        <aura:attribute name="selectedRows" type="Object"  />
+        <aura:attribute name="lastSelectedRow" type="Object" access="PRIVATE" />
 <lightning:card title='TreeGrid' class='slds-card_boundary'>
 <div class='slds-p-left_large slds-p-right_medium'>
 
         <lightning:treeGrid
+            aura:id="treeGrid"
             columns="{! v.gridColumns }"
             data="{! v.gridData }"
             expandedRows="{! v.gridExpandedRows }"
+            selectedRows="{! v.selectedRows }"
             keyField="name"
+            onrowselection="{!c.handleRowSelection}"
         />
 </div>
 </lightning:card>

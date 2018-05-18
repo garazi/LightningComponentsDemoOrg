@@ -1,0 +1,21 @@
+.THIS {
+    min-height: 10rem;
+}
+.THIS .stageRight {
+    position: absolute;
+    top:0;
+    left:0;
+    bottom:0;
+    right:0;
+    transform: translateX(200%);
+    overflow-y: auto;
+    z-index: 99;
+}
+.THIS .centerStage {
+    transform: translateX(0);
+    transition: transform .5s linear 0;
+}
+.THIS .suppressOverflow {
+    position: relative;
+    overflow: hidden;
+}

@@ -1,1 +1,3 @@
-<aura:event type="APPLICATION" description="Event template" />
+<aura:event type="APPLICATION" description="Event template">
+    <aura:attribute name="field" type="String"/>
+</aura:event>

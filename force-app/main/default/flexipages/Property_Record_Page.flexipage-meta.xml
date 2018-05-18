@@ -44,6 +44,9 @@
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
+            <componentName>cmpDuallistBox</componentName>
+        </componentInstances>
+        <componentInstances>
             <componentName>cmpTreeGrid</componentName>
         </componentInstances>
         <componentInstances>
@@ -185,6 +188,9 @@
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
+            <componentName>testCmp</componentName>
+        </componentInstances>
+        <componentInstances>
             <componentName>ContractUpload</componentName>
             <visibilityRule>
                 <criteria>
@@ -210,7 +216,7 @@
         <componentInstances>
             <componentInstanceProperties>
                 <name>priceRange</name>
-                <value>100000</value>
+                <value>50000</value>
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>searchCriteria</name>

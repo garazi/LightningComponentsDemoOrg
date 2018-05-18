@@ -1,0 +1,69 @@
+<aura:component implements="flexipage:availableForAllPageTypes,force:hasRecordId">
+	<aura:attribute name="recordId" type="Id" default="" />
+	<aura:attribute name="objectType" type="String" default="Contact" />
+	<aura:attribute name="fieldsToDisplay" type="String" />
+	<aura:attribute name="layoutType" type="String" default="Custom" />
+	<aura:attribute name="numberOfColumns" type="String" default="2" />
+	<aura:attribute name="myFields" type="String[]" default="['Name','Email','Phone','AccountId','Title']" />
+	<aura:attribute name="selectedTab" type="String" />
+	<lightning:card title='Test Component' class='slds-card_boundary'>
+		<ul class="slds-tabs_mobile suppressOverflow">
+			<li class="slds-tabs_mobile__item" onclick="{!c.showHidePanel}">
+				<div class="slds-tabs_mobile__title slds-grid">
+					<button class="slds-tabs_mobile__title-action slds-button slds-button_reset">
+                                <span class="slds-truncate">Item One</span><lightning:icon iconName="utility:chevronright" class="slds-col_bump-left" size="x-small" />
+                                </button>
+				</div>
+				<div data-tab="Tab One" class="slds-panel slds-panel_docked slds-panel_docked-left slds-is-directional slds-panel_slide-in stageRight" aria-hidden="false">
+					<div class="slds-panel__header">
+						<button class="slds-button slds-button_icon slds-panel__close slds-button_icon-small" title="Close Filter Panel">
+                                                                        <lightning:icon iconName="utility:chevronleft" size="x-small" />
+                                                                        <span class="slds-assistive-text">Close Filter Panel</span>
+                                                                          </button>
+						<h2 class="slds-panel__header-title slds-text-heading_small">{!v.selectedTab}</h2>
+
+					</div>
+					<div class="slds-panel__body">A panel body accepts any layout or component</div>
+				</div>
+			</li>
+			<li class="slds-tabs_mobile__item" onclick="{!c.showHidePanel}">
+				<div class="slds-tabs_mobile__title slds-grid">
+					<button class="slds-tabs_mobile__title-action slds-button slds-button_reset" onclick="{!c.showHidePanel}">
+                                <span class="slds-truncate" title="Item Two">Item Two</span><lightning:icon iconName="utility:chevronright" class="slds-col_bump-left" size="x-small" />
+                                </button>
+				</div>
+				<div data-tab="Tab One" class="slds-panel slds-panel_docked slds-panel_docked-left slds-is-directional slds-panel_slide-in stageRight" aria-hidden="false">
+					<div class="slds-panel__header">
+						<button class="slds-button slds-button_icon slds-panel__close slds-button_icon-small" title="Close Filter Panel">
+                                                                        <lightning:icon iconName="utility:chevronleft" size="x-small" />
+                                                                        <span class="slds-assistive-text">Close Filter Panel</span>
+                                                                          </button>
+						<h2 class="slds-panel__header-title slds-text-heading_small">{!v.selectedTab}</h2>
+
+					</div>
+					<div class="slds-panel__body">A panel body accepts any layout or component</div>
+				</div>
+			</li>
+			<li class="slds-tabs_mobile__item" onclick="{!c.showHidePanel}">
+				<div class="slds-tabs_mobile__title slds-grid">
+					<button class="slds-tabs_mobile__title-action slds-button slds-button_reset">
+                                <span class="slds-truncate" title="Item Two">Item Three</span><lightning:icon iconName="utility:chevronright" class="slds-col_bump-left" size="x-small" />
+                                </button>
+				</div>
+				<div data-tab="Tab One" class="slds-panel slds-panel_docked slds-panel_docked-left slds-is-directional slds-panel_slide-in stageRight" aria-hidden="false">
+					<div class="slds-panel__header">
+						<button class="slds-button slds-button_icon slds-panel__close slds-button_icon-small" title="Close Filter Panel">
+                                                                        <lightning:icon iconName="utility:chevronleft" size="x-small" />
+                                                                        <span class="slds-assistive-text">Close Filter Panel</span>
+                                                                          </button>
+						<h2 class="slds-panel__header-title slds-text-heading_small">{!v.selectedTab}</h2>
+
+					</div>
+					<div class="slds-panel__body">A panel body accepts any layout or component</div>
+				</div>
+			</li>
+		</ul>
+
+	</lightning:card>
+</aura:component>
+

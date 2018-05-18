@@ -7,8 +7,7 @@
         rows="5"
         showActionBar="false"
         enableInlineEdit="true"
-        showRowLevelActions="false"
-    />
+        showRowLevelActions="false"/>
 </div>
 </lightning:card>
 </aura:component>	

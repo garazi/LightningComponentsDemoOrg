@@ -11,7 +11,8 @@
                       fields="Id,Name,Beds__c,Baths__c,Price__c,Status__c"
                       mode="EDIT" />
     <c:PicklistValues sObjectName="Property__c" fieldName="Status__c" picklistValues="{!v.picklistValues}" />
-    <div aura:id="editDialog" role="dialog" tabindex="-1" aria-labelledby="header43" class="slds-modal">
+    
+    <div aura:id="editDialog" role="dialog" tabindex="-1" class="slds-modal">
         <div class="slds-modal__container">
             <div class="slds-modal__header">
                 <lightning:buttonIcon iconName="utility:close" class="slds-modal__close" variant="bare-inverse" onclick="{! c.toggleDialog }" alternativeText="Close window" />
@@ -28,7 +29,7 @@
                     </aura:iteration>
                 </lightning:select>
             </div>
-            <div class="slds-modal__footer">
+            <div class="slds-modal__footer slds-show slds-hide">
                 <button class="slds-button slds-button--neutral" onclick="{!c.toggleDialog}">Cancel</button>
                 <button class="slds-button slds-button--brand" onclick="{!c.saveRecord}">Save</button>
             </div>

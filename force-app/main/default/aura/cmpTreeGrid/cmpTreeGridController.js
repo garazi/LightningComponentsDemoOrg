@@ -188,5 +188,41 @@
         var expandedRows = ["123556", "123556-A", "123556-B", "123556-B-B", "123557"];
 
         cmp.set('v.gridExpandedRows', expandedRows);
+    },
+    handleRowSelection : function(component,event,helper) {
+        var last = component.get("v.lastSelectedRow");
+        var bar = new Array();
+        
+        var currentSelection = component.find("treeGrid");
+        currentSelection = currentSelection.getSelectedRows();
+        var foo = new Array();
+        currentSelection.forEach(element => {
+            foo.push(element);
+        })
+        console.log("current: ", foo)
+        if (last) {
+            last.forEach(element => {
+                bar.push(element);
+            })
+            var validList = bar.filter((item) => {
+                return foo.includes(item);
+              })
+            console.log("did it work? ", validList)
+            // console.log("before: ", last);
+            // console.log("after: ", currentSelection);
+            // foo.forEach(element => {
+            //     console.log("checking: ", element.accountName)
+            //     console.log("foo: ", bar)
+            //     if (bar.includes(element)) {
+            //         console.log('found', element)
+            //     } else {
+            //         console.log("not found", element)
+            //     }
+            // });
+        } else {
+            component.set("v.lastSelectedRow", currentSelection)
+            console.log("first: ", component.get("v.lastSelectedRow"))
+        }
+
     }
 }); // eslint-disable-line

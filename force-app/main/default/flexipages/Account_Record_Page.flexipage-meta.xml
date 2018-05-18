@@ -145,9 +145,6 @@
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
-            <componentName>gContactGrid</componentName>
-        </componentInstances>
-        <componentInstances>
             <componentInstanceProperties>
                 <name>tabs</name>
                 <value>sidebartabs</value>

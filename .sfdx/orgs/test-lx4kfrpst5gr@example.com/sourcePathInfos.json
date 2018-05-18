@@ -124,10 +124,10 @@
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard/BrokerCard.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 2119,
-            "modifiedTime": 1522250677380,
-            "changeTime": 1522250677380,
-            "contentHash": "4a9e71615421f610ff23ecb8e581fcd826bbb691"
+            "size": 2129,
+            "modifiedTime": 1522282589236,
+            "changeTime": 1522282589236,
+            "contentHash": "a83284ae8036eca4af2f9b8c5c4a52782542af8c"
         }
     ],
     [
@@ -163,14 +163,14 @@
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard/BrokerCardController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/BrokerCard/BrokerCardController.js",
             "isDirectory": false,
-            "size": 844,
-            "modifiedTime": 1522208667852,
-            "changeTime": 1522208667852,
-            "contentHash": "691535a036d87ef8eb262a809bed91553716c443",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 844,
+            "modifiedTime": 1522277474148,
+            "changeTime": 1522277474148,
+            "contentHash": "691535a036d87ef8eb262a809bed91553716c443"
         }
     ],
     [

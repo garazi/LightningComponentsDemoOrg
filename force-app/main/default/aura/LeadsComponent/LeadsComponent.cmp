@@ -1,11 +1,11 @@
-<aura:component controller="DreamhouseLeads" implements="flexipage:availableForRecordHome,force:hasRecordId" access="global">
+<aura:component controller="DreamhouseLeads" implements="flexipage:availableForRecordHome,force:hasRecordId,force:lightningQuickAction" access="global">
 	<aura:attribute name="leads" type="Object[]" />
 	<aura:attribute name="columns" type="List" />
 	<aura:attribute name="sortedBy" type="String" />
 	<aura:attribute name="sortedDirection" type="String" />
 	<aura:handler name="init" value="{!this}" action="{!c.doInit}" />
 	<lightning:flexipageRegionInfo width="{!v.width}" />
-	<lightning:card iconName="standard:avatar" title="Leads">
+	<lightning:card iconName="standard:avatar" title="Leads" class="slds-modal_large">
 		<lightning:datatable aura:id="datatable" data="{!v.leads}" columns="{!v.columns}" onrowselection="{!c.doSelect}" keyField="id" onsort="{!c.updateColumnSorting}" resizeColumnDisabled="true" />
 	</lightning:card>
 </aura:component>

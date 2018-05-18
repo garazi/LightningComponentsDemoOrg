@@ -1,6 +1,6 @@
 <aura:component >
 	<aura:attribute name="recordId" type="Id" />
-
+	<aura:attribute name="myFields" type="String[]" default="['Name','Email__c','Phone__c','Mobile_Phone__c']" />
 	<aura:if isTrue="{!v.recordId}">
 			<lightning:recordViewForm aura:id="viewForm" recordId="{!v.recordId}" objectApiName="Broker__c">
 				<lightning:layout multipleRows="true">
@@ -48,18 +48,18 @@
 			</lightning:recordViewForm>
 
 			<lightning:recordEditForm aura:id="editForm" recordId="{!v.recordId}" objectApiName="Broker__c" class="slds-hide" onsubmit="{!c.fireToast}">
-				<lightning:messages />
+				<!-- <lightning:messages /> -->
 				<lightning:layout multipleRows="true">
 					<lightning:layoutItem size="5">
 						<lightning:inputField aura:id="nameField" fieldName="Name" />
 					</lightning:layoutItem>
 					<lightning:layoutItem size="1"></lightning:layoutItem>
 					<lightning:layoutItem size="5">
-						<lightning:inputField fieldName="Email__c" />
+						<lightning:inputField fieldName="Email__c" onchange="{!c.changeEdit}" />
 					</lightning:layoutItem>
 					<lightning:layoutItem size="1"></lightning:layoutItem>
 					<lightning:layoutItem size="5">
-						<lightning:inputField fieldName="Phone__c" />
+						<lightning:outputField fieldName="Phone__c" />
 					</lightning:layoutItem>
 					<lightning:layoutItem size="1"></lightning:layoutItem>
 					<lightning:layoutItem size="5">
@@ -72,5 +72,12 @@
 						<lightning:button variant="brand" label="Submit" title="Submit" type="submit" />
 				</lightning:layout>
 			</lightning:recordEditForm>
+			<!-- <lightning:recordForm 
+					aura:id="brokerForm"
+					recordId="{!v.recordId}"
+					objectApiName="Broker__c"
+					layoutType="Full"
+					columns="1"
+					onsuccess="{!c.fireToast}" /> -->
 	</aura:if>
 </aura:component>

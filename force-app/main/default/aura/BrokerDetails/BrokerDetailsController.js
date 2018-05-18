@@ -11,5 +11,8 @@
 		});
 		toastEvent.fire();
 		helper.showHide(component);
+	},
+	changeEdit : function (component) {
+		alert ("foo")
 	}
 })
