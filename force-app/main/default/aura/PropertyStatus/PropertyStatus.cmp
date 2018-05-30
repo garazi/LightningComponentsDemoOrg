@@ -6,7 +6,7 @@
 	<!-- LDS to fetch the record value -->
 	<force:recordData aura:id="propertyService" recordId="{!v.recordId}" targetFields="{!v.property}" layoutType="FULL" mode="EDIT" />
 
-	<div class="slds-card">
+	<div class="slds-card slds-p-around_small">
 		<lightning:picklistPath aura:id="picklistPath" recordId="{!v.recordId}" picklistFieldApiName="Status__c" onselect="{!c.handleSelect}" />
 	</div>
 </aura:component>
