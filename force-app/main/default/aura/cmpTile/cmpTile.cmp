@@ -1,6 +1,6 @@
 <aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" access="global">
 	<lightning:card title="Tile Component" class="slds-card_boundary">
-		<div class="slds-p-left_large slds-p-right_medium">
+		<div class="slds-p-left_large slds-p-right_medium" onclick="{!c.fun}">
 			<lightning:tile label="Lightning component team" href="/path/to/somewhere" class="slds-tile_board">
 				<p class="slds-truncate" title="7 Members">7 Members</p>
 			</lightning:tile>

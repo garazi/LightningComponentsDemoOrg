@@ -1,6 +1,6 @@
 {
-  "sfdcLoginUrl": "https://mobile1.t.salesforce.com",
-	"signupTargetLoginUrl": "https://mobile1.t.salesforce.com",
+  "sfdcLoginUrl": "https://mobile2.t.salesforce.com",
+	"signupTargetLoginUrl": "https://mobile2.t.salesforce.com",
 	"packageDirectories": [
 		{
 			"path": "force-app",
@@ -13,5 +13,5 @@
 			"path": "unpackaged"
       }
     ],
-  "sourceApiVersion": "44.0"
+  "sourceApiVersion": "43.0"
 }

@@ -1879,13 +1879,12 @@
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/PropertyDaysOnMarketChart/PropertyDaysOnMarketChart.css",
             "isDirectory": false,
             "size": 1390,
-            "modifiedTime": 1525981617097,
-            "changeTime": 1525981617097,
-            "contentHash": "f6653c7a964308a97af613ea3487df7a6710332c",
+            "modifiedTime": 1527702140383,
+            "changeTime": 1527702140383,
+            "contentHash": "4458f0809d2f4810b2656e628d4fc266e23aa7fb",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -5385,14 +5384,13 @@
         {
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTile/cmpTile.cmp",
             "isDirectory": false,
-            "size": 451,
-            "modifiedTime": 1511816568000,
-            "changeTime": 1511816568000,
-            "contentHash": "4e481aab97b3b46437703e4a5401a005b6482db4",
+            "size": 470,
+            "modifiedTime": 1528078185436,
+            "changeTime": 1528078185436,
+            "contentHash": "fdb171700e4917913dce1c967b91cc605e3dd493",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -5430,14 +5428,13 @@
         {
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTile/cmpTileController.js",
             "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1511313401000,
-            "changeTime": 1511313401000,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "size": 91,
+            "modifiedTime": 1528079114663,
+            "changeTime": 1528079114663,
+            "contentHash": "0d9539cf916e5da222d0ad7766ed79d9d374ac03",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -9319,14 +9316,14 @@
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTesting/cmpTesting.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTesting/cmpTesting.cmp",
             "isDirectory": false,
+            "size": 657,
+            "modifiedTime": 1528095512369,
+            "changeTime": 1528095512369,
+            "contentHash": "975776a02013a1b843defad50ffebfd0c76644ab",
             "isMetadataFile": false,
-            "size": 1836,
-            "modifiedTime": 1527631886919,
-            "changeTime": 1527631886919,
-            "contentHash": "8c430e817b753a5fa61687c5824cd328909609c4"
+            "state": "u"
         }
     ],
     [
@@ -9335,9 +9332,9 @@
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTesting/cmpTesting.cmp-meta.xml",
             "isDirectory": false,
             "size": 242,
-            "modifiedTime": 1527040113985,
-            "changeTime": 1527040113985,
-            "contentHash": "98ff84bd4cab5b4a7309d58a5ecfc3785b501938",
+            "modifiedTime": 1528079646492,
+            "changeTime": 1528079646492,
+            "contentHash": "7f93b925a2bdaada846f186ac88026b97bfe0abd",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -9384,14 +9381,14 @@
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTesting/cmpTestingController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/cmpTesting/cmpTestingController.js",
             "isDirectory": false,
-            "size": 313,
-            "modifiedTime": 1527631808372,
-            "changeTime": 1527631808372,
-            "contentHash": "0ca598fa02e517236dd9c42c99922a02335e5db1",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 377,
+            "modifiedTime": 1528096753936,
+            "changeTime": 1528096753936,
+            "contentHash": "afb828a4e83fe4140cf2bd00a4a15e495db26524"
         }
     ],
     [

@@ -1,29 +1,18 @@
 <aura:component implements='flexipage:availableForRecordHome,force:hasRecordId' access='global'>
+        <aura:attribute name="recordId" type="Id" />
+        <aura:attribute name="property" type="Property__c" />
+
+<force:recordData aura:id="service" 
+        recordId="{!v.recordId}"
+        targetFields="{!v.property}" 
+        fields="Id, Date_Listed__c" 
+        
+        />
+
 <lightning:card title='title' class='slds-card_boundary'>
 <div class='slds-p-left_large slds-p-right_medium'>
-        <lightning:recordEditForm aura:id="editForm" recordId="{!v.recordId}" objectApiName="Property__c" onsuccess="{!c.handleSuccess}">        
-                
-                        <lightning:layout multipleRows="true" >
-                            <lightning:layoutItem size="6"  >
-                                <lightning:inputField aura:id="beds" fieldName="Beds__c"/>
-                            </lightning:layoutItem>
-                            <lightning:layoutItem size="6"  >
-                                <lightning:inputField fieldName="Baths__c" />
-                            </lightning:layoutItem>
-                            <lightning:layoutItem size="6"  >
-                                <lightning:inputField fieldName="Price__c" />
-                            </lightning:layoutItem>
-                            <lightning:layoutItem size="6"  >
-                                <lightning:inputField fieldName="Status__c" />
-                            </lightning:layoutItem>
-                        </lightning:layout>
-                        <lightning:layout horizontalAlign="center" class="slds-m-top_large">
-                            <lightning:button variant="neutral" label="Cancel" title="Cancel" type="text" onclick="{!c.handleCancel}" />
-                            <lightning:button variant="brand" label="Submit" title="Submit" type="submit" />
-                        </lightning:layout>
-
-            </lightning:recordEditForm>
-            <lightning:button variant="brand" label="Test" title="Test" type="text" onclick="{!c.testing}"/>
+        <lightning:button variant="destructive" label="Destructive" title="Destructive action" onclick="{! c.handleClick }"/>
+    <lightning:recordForm recordId="{!v.recordId}" objectApiName="Property__c" layoutType="Compact" onload="{!c.testing}" />
 </div>
 </lightning:card>
 </aura:component>

@@ -1,5 +1,5 @@
 ({
-    myAction : function(component, event, helper) {
-
+    fun : function(component, event, helper) {
+        event.preventDefault();
     }
 })
