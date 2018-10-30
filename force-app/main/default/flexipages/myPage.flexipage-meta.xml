@@ -93,7 +93,7 @@
     <masterLabel>myPage</masterLabel>
     <sobjectType>Property__c</sobjectType>
     <template>
-        <name>PropertyRecordHomeLayout</name>
+        <name>c:PropertyRecordHomeLayout</name>
     </template>
     <type>RecordPage</type>
 </FlexiPage>

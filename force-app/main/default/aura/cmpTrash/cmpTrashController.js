@@ -1,5 +1,5 @@
 ({
-    myAction : function(component, event, helper) {
-
-    }
+    valueChanged :  function (component, event, helper) {
+        console.log('change:::called',event.getParam('value'));
+}
 })

@@ -1,6 +1,9 @@
 <aura:component >
     <aura:attribute name="property" type="Property__c" />
+    <aura:attribute name="fields" type="String[]" default="Name,Beds__c,Baths__c,Price__c,Status__c"/>
     <aura:registerEvent name="recordUpdated" type="c:RecordUpdated"/>
+
+    <!-- <lightning:recordForm recordId="{!v.property.Id}" objectApiName="Property__c" fields="{!v.fields}" columns="2" mode="View" /> -->
     
     <lightning:recordViewForm aura:id="viewForm" recordId="{!v.property.Id}" objectApiName="Property__c">
         <div class="slds-media">

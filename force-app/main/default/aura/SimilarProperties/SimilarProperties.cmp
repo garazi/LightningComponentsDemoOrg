@@ -26,6 +26,6 @@
 			</ul>
 		</div>
 		<lightning:spinner aura:id="spinner" variant="brand" size="large" />
-		<c:SimilarPropertyEdit showDialog="{!v.showDialog}" remoteRecordId="{!v.remoteRecordId}" />
+		<!-- <c:SimilarPropertyEdit showDialog="{!v.showDialog}" remoteRecordId="{!v.remoteRecordId}" /> -->
 	</lightning:card>
 </aura:component>

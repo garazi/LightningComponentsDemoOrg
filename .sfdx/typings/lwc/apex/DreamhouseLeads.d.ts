@@ -1,3 +1,3 @@
-declare module "@apex/DreamhouseLeads.getLeads" {
-  export function getLeads(): Promise<any>;
+declare module "@salesforce/apex/DreamhouseLeads.getLeads" {
+  export default function getLeads(): Promise<any>;
 }

@@ -15,7 +15,7 @@
             <lightning:inputRichText value="{!v.myVal}" placeholder="Type something interesting">
                 <force:quillButtonLink />
             </lightning:inputRichText>
-
+			<lightning:button label="Neutral" title="Neutral action" onclick="{! c.handleClick }"/>
 		</div>
 	</div>
 </aura:component>

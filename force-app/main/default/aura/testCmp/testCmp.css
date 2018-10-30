@@ -1,21 +1,11 @@
 .THIS {
     min-height: 10rem;
 }
-.THIS .stageRight {
-    position: absolute;
-    top:0;
-    left:0;
-    bottom:0;
-    right:0;
-    transform: translateX(200%);
-    overflow-y: auto;
-    z-index: 99;
+.THIS .slds-has-coordinates {
+    background-color: white;
+    overflow:auto;
 }
-.THIS .centerStage {
-    transform: translateX(0);
-    transition: transform .5s linear 0;
-}
-.THIS .suppressOverflow {
-    position: relative;
-    overflow: hidden;
+.THIS .small .slds-coordinates__list {
+    max-height: 110px;
+    overflow: auto;
 }

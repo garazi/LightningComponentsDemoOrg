@@ -8,14 +8,28 @@
             {label:"First Name", fieldName:"FirstName", type:"text"},
             {label:"Last Name", fieldName:"LastName", type:"text",initialWidth:"85px"},
             {label:"Phone", fieldName:"Phone", type:"phone", sortable:"true"},
+            {label:"Date", 
+                fieldName:"Clock", 
+                type:"date", 
+                typeAttributes:{
+                    year:"numeric", 
+                    day:"2-digit", 
+                    month:"long", 
+                    hour:"2-digit", 
+                    minute:"2-digit"
+                },
+                initialWidth:"185px"
+            },
             {label:"Id", fieldName:"Id", type:"url"},
             { type: 'action', typeAttributes: { rowActions: actions } }
         ])
 		var action = component.get("c.getLeads");
         action.setCallback(this, function(response){
+            var clock = new Date();
             var leads = response.getReturnValue();
             leads.forEach(element => {
                 element.Id = "/sObject/" + element.Id;
+                element.Clock = clock;
             });
             component.set("v.leads", leads);
             console.log("foobar: ", component.get("v.leads"));

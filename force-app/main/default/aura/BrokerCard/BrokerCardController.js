@@ -11,9 +11,9 @@
 		$A.enqueueAction(action);
 	},
 	updateBroker: function(component, event, helper) {
-		// var tempRec = component.find("brokerRecord");
-		// tempRec.set("v.recordId", component.get("v.Property.Broker__c"));
-		// tempRec.reloadRecord();
+		var tempRec = component.find("brokerRecord");
+		tempRec.set("v.recordId", component.get("v.Property.Broker__c"));
+		tempRec.reloadRecord();
 	},
 	navToRecord: function(component, event, helper) {
 		var navEvt = $A.get("e.force:navigateToSObject");

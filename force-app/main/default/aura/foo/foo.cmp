@@ -1,0 +1,11 @@
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" access="global">
+	<aura:attribute name="recordId" type="Id" />
+	<aura:attribute name="fields" type="String[]" default="Name,AccountId,Email,Title" />
+<div class="slds-card">	<lightning:recordForm 
+					aura:id="brokerForm"
+					recordId="{!v.recordId}"
+					objectApiName="Contact"
+					layoutType="Compact"
+					columns="2" />
+				</div>
+</aura:component>

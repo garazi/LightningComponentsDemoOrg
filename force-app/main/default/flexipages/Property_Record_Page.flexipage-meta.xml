@@ -47,9 +47,6 @@
             <componentName>cmpDuallistBox</componentName>
         </componentInstances>
         <componentInstances>
-            <componentName>cmpTreeGrid</componentName>
-        </componentInstances>
-        <componentInstances>
             <componentName>cmpVerticalNavigation</componentName>
         </componentInstances>
         <componentInstances>
@@ -209,9 +206,6 @@
                     <rightValue>Sold</rightValue>
                 </criteria>
             </visibilityRule>
-        </componentInstances>
-        <componentInstances>
-            <componentName>BrokerCard</componentName>
         </componentInstances>
         <componentInstances>
             <componentInstanceProperties>

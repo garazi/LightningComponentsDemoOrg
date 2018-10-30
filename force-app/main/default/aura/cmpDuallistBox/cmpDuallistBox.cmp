@@ -4,7 +4,7 @@
 		<aura:attribute name="requiredOptions" type="List" default="[]"/>
 		<aura:handler name="init" value="{! this }" action="{! c.initialize }"/>
 
-	<lightning:card title="Vertical Nav Component" class="slds-card_boundary">
+	<lightning:card title="DualListBox" class="slds-card_boundary">
 		<div class="slds-p-left_large slds-p-right_medium">
 			<lightning:dualListbox aura:id="selectOptions" 
 								name="Select Options"  
@@ -14,7 +14,8 @@
 								options="{! v.listOptions }"
 								value="{! v.defaultOptions }"
 								requiredOptions="{! v.requiredOptions }"
-								onchange="{! c.handleChange }"/>
+								onchange="{! c.handleChange }"
+								readonly="true" />
 								
 		</div>
 	</lightning:card>

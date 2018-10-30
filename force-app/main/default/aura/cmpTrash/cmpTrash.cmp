@@ -1,3 +1,10 @@
-<aura:component>
-
-</aura:component>	
+<aura:component implements='flexipage:availableForRecordHome,force:hasRecordId' access='global'>
+	<lightning:card title='title' class='slds-card_boundary'>
+		<div class='slds-p-left_large slds-p-right_medium'>
+			<lightning:recordEditForm objectApiName="Contact" onsubmit="{!c.handleSubmit}">
+				<lightning:inputField fieldName="Name" />
+				<lightning:inputField fieldName="Industry" onchange="{!c.valueChanged}" />
+			</lightning:recordEditForm>
+		</div>
+	</lightning:card>
+</aura:component>

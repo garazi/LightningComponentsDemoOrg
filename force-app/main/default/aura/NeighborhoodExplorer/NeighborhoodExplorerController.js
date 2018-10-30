@@ -2,13 +2,11 @@
 	doInit: function(component, event, helper) {
 		var date = new Date();
 		date = date.getTime();
-		console.log("Start: ", date);
 		component.set("v.defaultSearch", component.get('v.tab1'));
 	},
 	recordUpdated: function(component, event, helper) {
 		var date = new Date();
 		date = date.getTime();
-		console.log("End: ", date)
 		var objectType = component.get("v.sObjectName");
 		var currentRecord = component.get("v.currentRecord");
 		$A.util.addClass(component.find('searchField'), 'slds-hide');
@@ -45,7 +43,6 @@
 		component.set("v.resultList", [])
 	},
 	selectedTab: function(component, event, helper) {
-		console.log('here')
 	},
 	showDetails: function(component, event, helper) {
 		var closeItem = component.get('v.openItem');
