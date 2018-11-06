@@ -16,19 +16,22 @@
 
 	<lightning:card title='Test Component' class='slds-card_boundary'>
 		<div class="slds-card__body_inner">
+				<lightning:formattedAddress
+				street="121 Spear St."
+				city="San Francisco"
+				country="US"
+				province="CA"
+				postalCode="94105"
+				showStaticMap="true"
+			/>
 			<lightning:inputAddress street="121 Spear St."
             city="San Francisco"
             country="US"
             province="CA"
-			postalCode="94105" showLookupAddress="true" />
-			<lightning:formattedAddress
-        street="121 Spear St."
-        city="San Francisco"
-        country="US"
-        province="CA"
-		postalCode="94105"
-		useMap="true"
-    />
+			postalCode="94105" showAddressLookup="true" />
+
+			<c:test />
+			
 		</div>
 	</lightning:card>
 	<!-- <lightning:spinner aura:id="spinner" variant="brand" size="large" /> -->

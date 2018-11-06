@@ -6646,15 +6646,15 @@
     [
         "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/testCmp/testCmp.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/grewis/Development/LightningComponentsBRK/force-app/main/default/aura/testCmp/testCmp.cmp",
             "isDirectory": false,
+            "size": 1791,
+            "modifiedTime": 1541460027578,
+            "changeTime": 1541460027578,
+            "contentHash": "974152c82dc15ef9d422803309d6ff5f3c80eef0",
             "isMetadataFile": false,
-            "size": 1563,
-            "modifiedTime": 1540856277610,
-            "changeTime": 1540856277610,
-            "isWorkspace": false,
-            "contentHash": "efa819b48dc8133a717f9cdf69cc9d9127322fbe"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [

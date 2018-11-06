@@ -1117,6 +1117,32 @@
             },
             "hasVirtualSubtypes": false
         },
+        "Form": {
+            "metadataName": "Form",
+            "isAddressable": true,
+            "isSourceTracked": true,
+            "ext": "form",
+            "hasContent": false,
+            "defaultDirectory": "forms",
+            "nameForMsgs": "Form",
+            "nameForMsgsPlural": "Forms",
+            "contentIsBinary": false,
+            "childXmlNames": [
+                "FormSection"
+            ],
+            "hasStandardMembers": false,
+            "deleteSupported": true,
+            "decompositionConfig": {
+                "strategy": "nonDecomposed",
+                "workspaceStrategy": "nonDecomposed",
+                "commitStrategy": "fineGrainTracking",
+                "metadataName": "Form",
+                "useSparseComposition": false,
+                "decompositions": [],
+                "contentStrategy": "nonDecomposedContent"
+            },
+            "hasVirtualSubtypes": false
+        },
         "FlexiPage": {
             "metadataName": "FlexiPage",
             "isAddressable": true,
@@ -2119,6 +2145,121 @@
             },
             "hasVirtualSubtypes": false
         },
+        "ServiceChannel": {
+            "metadataName": "ServiceChannel",
+            "isAddressable": true,
+            "isSourceTracked": true,
+            "ext": "serviceChannel",
+            "hasContent": false,
+            "defaultDirectory": "serviceChannels",
+            "nameForMsgs": "Service Channel",
+            "nameForMsgsPlural": "Service Channels",
+            "contentIsBinary": false,
+            "hasStandardMembers": false,
+            "deleteSupported": true,
+            "decompositionConfig": {
+                "strategy": "nonDecomposed",
+                "workspaceStrategy": "nonDecomposed",
+                "commitStrategy": "fineGrainTracking",
+                "metadataName": "ServiceChannel",
+                "useSparseComposition": false,
+                "decompositions": [],
+                "contentStrategy": "nonDecomposedContent"
+            },
+            "hasVirtualSubtypes": false
+        },
+        "QueueRoutingConfig": {
+            "metadataName": "QueueRoutingConfig",
+            "isAddressable": true,
+            "isSourceTracked": true,
+            "ext": "queueRoutingConfig",
+            "hasContent": false,
+            "defaultDirectory": "queueRoutingConfigs",
+            "nameForMsgs": "Queue Routing Config",
+            "nameForMsgsPlural": "Queue Routing Configs",
+            "contentIsBinary": false,
+            "hasStandardMembers": false,
+            "deleteSupported": true,
+            "decompositionConfig": {
+                "strategy": "nonDecomposed",
+                "workspaceStrategy": "nonDecomposed",
+                "commitStrategy": "fineGrainTracking",
+                "metadataName": "QueueRoutingConfig",
+                "useSparseComposition": false,
+                "decompositions": [],
+                "contentStrategy": "nonDecomposedContent"
+            },
+            "hasVirtualSubtypes": false
+        },
+        "ServicePresenceStatus": {
+            "metadataName": "ServicePresenceStatus",
+            "isAddressable": true,
+            "isSourceTracked": true,
+            "ext": "servicePresenceStatus",
+            "hasContent": false,
+            "defaultDirectory": "servicePresenceStatuses",
+            "nameForMsgs": "Service Presence Status",
+            "nameForMsgsPlural": "Service Presence Statuses",
+            "contentIsBinary": false,
+            "hasStandardMembers": false,
+            "deleteSupported": true,
+            "decompositionConfig": {
+                "strategy": "nonDecomposed",
+                "workspaceStrategy": "nonDecomposed",
+                "commitStrategy": "fineGrainTracking",
+                "metadataName": "ServicePresenceStatus",
+                "useSparseComposition": false,
+                "decompositions": [],
+                "contentStrategy": "nonDecomposedContent"
+            },
+            "hasVirtualSubtypes": false
+        },
+        "PresenceDeclineReason": {
+            "metadataName": "PresenceDeclineReason",
+            "isAddressable": true,
+            "isSourceTracked": true,
+            "ext": "presenceDeclineReason",
+            "hasContent": false,
+            "defaultDirectory": "presenceDeclineReasons",
+            "nameForMsgs": "Presence Decline Reason",
+            "nameForMsgsPlural": "Presence Decline Reasons",
+            "contentIsBinary": false,
+            "hasStandardMembers": false,
+            "deleteSupported": true,
+            "decompositionConfig": {
+                "strategy": "nonDecomposed",
+                "workspaceStrategy": "nonDecomposed",
+                "commitStrategy": "fineGrainTracking",
+                "metadataName": "PresenceDeclineReason",
+                "useSparseComposition": false,
+                "decompositions": [],
+                "contentStrategy": "nonDecomposedContent"
+            },
+            "hasVirtualSubtypes": false
+        },
+        "PresenceUserConfig": {
+            "metadataName": "PresenceUserConfig",
+            "isAddressable": true,
+            "isSourceTracked": true,
+            "ext": "presenceUserConfig",
+            "hasContent": false,
+            "defaultDirectory": "presenceUserConfigs",
+            "nameForMsgs": "Presence User Config",
+            "nameForMsgsPlural": "Presence User Configs",
+            "contentIsBinary": false,
+            "hasStandardMembers": false,
+            "deleteSupported": true,
+            "decompositionConfig": {
+                "strategy": "nonDecomposed",
+                "workspaceStrategy": "nonDecomposed",
+                "commitStrategy": "fineGrainTracking",
+                "metadataName": "PresenceUserConfig",
+                "useSparseComposition": false,
+                "decompositions": [],
+                "contentStrategy": "nonDecomposedContent"
+            },
+            "hasVirtualSubtypes": false
+        },
         "AuthProvider": {
             "metadataName": "AuthProvider",
             "isAddressable": true,
@@ -2452,7 +2593,8 @@
             "contentIsBinary": false,
             "childXmlNames": [
                 "SharingOwnerRule",
-                "SharingCriteriaRule"
+                "SharingCriteriaRule",
+                "SharingTerritoryRule"
             ],
             "hasStandardMembers": false,
             "deleteSupported": true,
@@ -2852,6 +2994,75 @@
                 "workspaceStrategy": "nonDecomposed",
                 "commitStrategy": "fineGrainTracking",
                 "metadataName": "BrandingSet",
+                "useSparseComposition": false,
+                "decompositions": [],
+                "contentStrategy": "nonDecomposedContent"
+            },
+            "hasVirtualSubtypes": false
+        },
+        "FlowCategory": {
+            "metadataName": "FlowCategory",
+            "isAddressable": true,
+            "isSourceTracked": true,
+            "ext": "flowCategory",
+            "hasContent": false,
+            "defaultDirectory": "flowCategories",
+            "nameForMsgs": "Flow Category",
+            "nameForMsgsPlural": "Flow Categorys",
+            "contentIsBinary": false,
+            "hasStandardMembers": false,
+            "deleteSupported": true,
+            "decompositionConfig": {
+                "strategy": "nonDecomposed",
+                "workspaceStrategy": "nonDecomposed",
+                "commitStrategy": "fineGrainTracking",
+                "metadataName": "FlowCategory",
+                "useSparseComposition": false,
+                "decompositions": [],
+                "contentStrategy": "nonDecomposedContent"
+            },
+            "hasVirtualSubtypes": false
+        },
+        "LightningBolt": {
+            "metadataName": "LightningBolt",
+            "isAddressable": true,
+            "isSourceTracked": true,
+            "ext": "lightningBolt",
+            "hasContent": false,
+            "defaultDirectory": "lightningBolts",
+            "nameForMsgs": "Lightning Bolt",
+            "nameForMsgsPlural": "Lightning Bolts",
+            "contentIsBinary": false,
+            "hasStandardMembers": false,
+            "deleteSupported": true,
+            "decompositionConfig": {
+                "strategy": "nonDecomposed",
+                "workspaceStrategy": "nonDecomposed",
+                "commitStrategy": "fineGrainTracking",
+                "metadataName": "LightningBolt",
+                "useSparseComposition": false,
+                "decompositions": [],
+                "contentStrategy": "nonDecomposedContent"
+            },
+            "hasVirtualSubtypes": false
+        },
+        "LightningExperienceTheme": {
+            "metadataName": "LightningExperienceTheme",
+            "isAddressable": true,
+            "isSourceTracked": true,
+            "ext": "lightningExperienceTheme",
+            "hasContent": false,
+            "defaultDirectory": "lightningExperienceThemes",
+            "nameForMsgs": "Lightning Experience Theme",
+            "nameForMsgsPlural": "Lightning Experience Themes",
+            "contentIsBinary": false,
+            "hasStandardMembers": false,
+            "deleteSupported": true,
+            "decompositionConfig": {
+                "strategy": "nonDecomposed",
+                "workspaceStrategy": "nonDecomposed",
+                "commitStrategy": "fineGrainTracking",
+                "metadataName": "LightningExperienceTheme",
                 "useSparseComposition": false,
                 "decompositions": [],
                 "contentStrategy": "nonDecomposedContent"
@@ -3548,6 +3759,29 @@
             },
             "hasVirtualSubtypes": false
         },
+        "EmailServicesFunction": {
+            "metadataName": "EmailServicesFunction",
+            "isAddressable": true,
+            "isSourceTracked": true,
+            "ext": "xml",
+            "hasContent": false,
+            "defaultDirectory": "emailservices",
+            "nameForMsgs": "Email Services Function",
+            "nameForMsgsPlural": "Email Services Functions",
+            "contentIsBinary": false,
+            "hasStandardMembers": false,
+            "deleteSupported": true,
+            "decompositionConfig": {
+                "strategy": "nonDecomposed",
+                "workspaceStrategy": "nonDecomposed",
+                "commitStrategy": "fineGrainTracking",
+                "metadataName": "EmailServicesFunction",
+                "useSparseComposition": false,
+                "decompositions": [],
+                "contentStrategy": "nonDecomposedContent"
+            },
+            "hasVirtualSubtypes": false
+        },
         "IntegrationHubSettingsType": {
             "metadataName": "IntegrationHubSettingsType",
             "isAddressable": true,
@@ -3640,6 +3874,29 @@
             },
             "hasVirtualSubtypes": false
         },
+        "AIAssistantTemplate": {
+            "metadataName": "AIAssistantTemplate",
+            "isAddressable": true,
+            "isSourceTracked": true,
+            "ext": "aiAssistantTemplate",
+            "hasContent": false,
+            "defaultDirectory": "aiAssistantTemplates",
+            "nameForMsgs": "A I Assistant Template",
+            "nameForMsgsPlural": "A I Assistant Templates",
+            "contentIsBinary": false,
+            "hasStandardMembers": false,
+            "deleteSupported": true,
+            "decompositionConfig": {
+                "strategy": "nonDecomposed",
+                "workspaceStrategy": "nonDecomposed",
+                "commitStrategy": "fineGrainTracking",
+                "metadataName": "AIAssistantTemplate",
+                "useSparseComposition": false,
+                "decompositions": [],
+                "contentStrategy": "nonDecomposedContent"
+            },
+            "hasVirtualSubtypes": false
+        },
         "Settings": {
             "metadataName": "Settings",
             "isAddressable": true,
@@ -3726,29 +3983,6 @@
                 "workspaceStrategy": "nonDecomposed",
                 "commitStrategy": "fineGrainTracking",
                 "metadataName": "FeatureParameterInteger",
-                "useSparseComposition": false,
-                "decompositions": [],
-                "contentStrategy": "nonDecomposedContent"
-            },
-            "hasVirtualSubtypes": false
-        },
-        "LightningExperienceTheme": {
-            "metadataName": "LightningExperienceTheme",
-            "isAddressable": true,
-            "isSourceTracked": true,
-            "ext": "lightningExperienceTheme",
-            "hasContent": false,
-            "defaultDirectory": "lightningExperienceThemes",
-            "nameForMsgs": "Lightning Experience Theme",
-            "nameForMsgsPlural": "Lightning Experience Themes",
-            "contentIsBinary": false,
-            "hasStandardMembers": false,
-            "deleteSupported": true,
-            "decompositionConfig": {
-                "strategy": "nonDecomposed",
-                "workspaceStrategy": "nonDecomposed",
-                "commitStrategy": "fineGrainTracking",
-                "metadataName": "LightningExperienceTheme",
                 "useSparseComposition": false,
                 "decompositions": [],
                 "contentStrategy": "nonDecomposedContent"
@@ -5229,7 +5463,8 @@
                 "contentIsBinary": false,
                 "childXmlNames": [
                     "SharingOwnerRule",
-                    "SharingCriteriaRule"
+                    "SharingCriteriaRule",
+                    "SharingTerritoryRule"
                 ],
                 "hasStandardMembers": false,
                 "deleteSupported": true,
@@ -5269,7 +5504,8 @@
                 "contentIsBinary": false,
                 "childXmlNames": [
                     "SharingOwnerRule",
-                    "SharingCriteriaRule"
+                    "SharingCriteriaRule",
+                    "SharingTerritoryRule"
                 ],
                 "hasStandardMembers": false,
                 "deleteSupported": true,
@@ -5294,6 +5530,47 @@
             "isSourceTracked": true,
             "nameForMsgs": "Sharing Criteria Rule",
             "nameForMsgsPlural": "Sharing Criteria Rules",
+            "deleteSupported": true
+        },
+        "SharingTerritoryRule": {
+            "parent": {
+                "metadataName": "SharingRules",
+                "isAddressable": true,
+                "isSourceTracked": true,
+                "ext": "sharingRules",
+                "hasContent": false,
+                "defaultDirectory": "sharingRules",
+                "nameForMsgs": "Sharing Rule",
+                "nameForMsgsPlural": "Sharing Rules",
+                "contentIsBinary": false,
+                "childXmlNames": [
+                    "SharingOwnerRule",
+                    "SharingCriteriaRule",
+                    "SharingTerritoryRule"
+                ],
+                "hasStandardMembers": false,
+                "deleteSupported": true,
+                "decompositionConfig": {
+                    "strategy": "nonDecomposed",
+                    "workspaceStrategy": "nonDecomposed",
+                    "commitStrategy": "fineGrainTracking",
+                    "metadataName": "SharingRules",
+                    "useSparseComposition": false,
+                    "decompositions": [],
+                    "contentStrategy": "nonDecomposedContent"
+                },
+                "hasVirtualSubtypes": true
+            },
+            "metadataName": "SharingTerritoryRule",
+            "defaultDirectory": "sharingTerritoryRules",
+            "ext": "sharingTerritoryRule",
+            "hasStandardMembers": false,
+            "hasContent": false,
+            "contentIsBinary": false,
+            "isAddressable": true,
+            "isSourceTracked": true,
+            "nameForMsgs": "Sharing Territory Rule",
+            "nameForMsgsPlural": "Sharing Territory Rules",
             "deleteSupported": true
         }
     }
